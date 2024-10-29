@@ -1,0 +1,8 @@
+boto3
+tensorflow
+pandas
+numpy
+opencv-python
+yolov5
+scikit-learn
+networkx
