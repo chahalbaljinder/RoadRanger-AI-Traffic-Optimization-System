@@ -1,0 +1,976 @@
+{
+    "nodes": [
+        "Node_1",
+        "Node_2",
+        "Node_3",
+        "Node_4",
+        "Node_5",
+        "Node_6",
+        "Node_7",
+        "Node_8",
+        "Node_9",
+        "Node_10",
+        "Node_11",
+        "Node_12",
+        "Node_13",
+        "Node_14",
+        "Node_15",
+        "Node_16",
+        "Node_17",
+        "Node_18",
+        "Node_19",
+        "Node_20"
+    ],
+    "edges": [
+        {
+            "from": "Node_1",
+            "to": "Node_2",
+            "traffic": 7
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_3",
+            "traffic": 7
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_4",
+            "traffic": 4
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_5",
+            "traffic": 4
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_6",
+            "traffic": 4
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_7",
+            "traffic": 5
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_8",
+            "traffic": 5
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_9",
+            "traffic": 8
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_10",
+            "traffic": 9
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_11",
+            "traffic": 2
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_12",
+            "traffic": 7
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_13",
+            "traffic": 1
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_14",
+            "traffic": 1
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_15",
+            "traffic": 4
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_16",
+            "traffic": 7
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_17",
+            "traffic": 2
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_18",
+            "traffic": 2
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_19",
+            "traffic": 1
+        },
+        {
+            "from": "Node_1",
+            "to": "Node_20",
+            "traffic": 2
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_3",
+            "traffic": 7
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_4",
+            "traffic": 9
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_5",
+            "traffic": 6
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_6",
+            "traffic": 2
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_7",
+            "traffic": 9
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_8",
+            "traffic": 7
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_9",
+            "traffic": 1
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_10",
+            "traffic": 9
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_11",
+            "traffic": 2
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_12",
+            "traffic": 4
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_13",
+            "traffic": 9
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_14",
+            "traffic": 4
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_15",
+            "traffic": 3
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_16",
+            "traffic": 1
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_17",
+            "traffic": 7
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_18",
+            "traffic": 6
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_19",
+            "traffic": 4
+        },
+        {
+            "from": "Node_2",
+            "to": "Node_20",
+            "traffic": 6
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_4",
+            "traffic": 6
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_5",
+            "traffic": 4
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_6",
+            "traffic": 6
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_7",
+            "traffic": 8
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_8",
+            "traffic": 3
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_9",
+            "traffic": 4
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_10",
+            "traffic": 1
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_11",
+            "traffic": 4
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_12",
+            "traffic": 9
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_13",
+            "traffic": 8
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_14",
+            "traffic": 4
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_15",
+            "traffic": 7
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_16",
+            "traffic": 3
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_17",
+            "traffic": 9
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_18",
+            "traffic": 4
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_19",
+            "traffic": 2
+        },
+        {
+            "from": "Node_3",
+            "to": "Node_20",
+            "traffic": 5
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_5",
+            "traffic": 2
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_6",
+            "traffic": 6
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_7",
+            "traffic": 1
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_8",
+            "traffic": 6
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_9",
+            "traffic": 4
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_10",
+            "traffic": 3
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_11",
+            "traffic": 2
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_12",
+            "traffic": 7
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_13",
+            "traffic": 9
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_14",
+            "traffic": 3
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_15",
+            "traffic": 6
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_16",
+            "traffic": 9
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_17",
+            "traffic": 2
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_18",
+            "traffic": 7
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_19",
+            "traffic": 5
+        },
+        {
+            "from": "Node_4",
+            "to": "Node_20",
+            "traffic": 5
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_6",
+            "traffic": 7
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_7",
+            "traffic": 9
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_8",
+            "traffic": 4
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_9",
+            "traffic": 9
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_10",
+            "traffic": 9
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_11",
+            "traffic": 4
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_12",
+            "traffic": 3
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_13",
+            "traffic": 2
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_14",
+            "traffic": 9
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_15",
+            "traffic": 2
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_16",
+            "traffic": 6
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_17",
+            "traffic": 5
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_18",
+            "traffic": 5
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_19",
+            "traffic": 4
+        },
+        {
+            "from": "Node_5",
+            "to": "Node_20",
+            "traffic": 6
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_7",
+            "traffic": 5
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_8",
+            "traffic": 4
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_9",
+            "traffic": 9
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_10",
+            "traffic": 6
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_11",
+            "traffic": 3
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_12",
+            "traffic": 6
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_13",
+            "traffic": 1
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_14",
+            "traffic": 5
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_15",
+            "traffic": 6
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_16",
+            "traffic": 8
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_17",
+            "traffic": 9
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_18",
+            "traffic": 3
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_19",
+            "traffic": 2
+        },
+        {
+            "from": "Node_6",
+            "to": "Node_20",
+            "traffic": 4
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_8",
+            "traffic": 8
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_9",
+            "traffic": 8
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_10",
+            "traffic": 3
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_11",
+            "traffic": 4
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_12",
+            "traffic": 3
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_13",
+            "traffic": 2
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_14",
+            "traffic": 4
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_15",
+            "traffic": 6
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_16",
+            "traffic": 5
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_17",
+            "traffic": 3
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_18",
+            "traffic": 2
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_19",
+            "traffic": 9
+        },
+        {
+            "from": "Node_7",
+            "to": "Node_20",
+            "traffic": 1
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_9",
+            "traffic": 9
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_10",
+            "traffic": 1
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_11",
+            "traffic": 7
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_12",
+            "traffic": 6
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_13",
+            "traffic": 7
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_14",
+            "traffic": 3
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_15",
+            "traffic": 3
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_16",
+            "traffic": 1
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_17",
+            "traffic": 4
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_18",
+            "traffic": 2
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_19",
+            "traffic": 8
+        },
+        {
+            "from": "Node_8",
+            "to": "Node_20",
+            "traffic": 3
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_10",
+            "traffic": 7
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_11",
+            "traffic": 7
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_12",
+            "traffic": 9
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_13",
+            "traffic": 6
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_14",
+            "traffic": 1
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_15",
+            "traffic": 8
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_16",
+            "traffic": 1
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_17",
+            "traffic": 3
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_18",
+            "traffic": 5
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_19",
+            "traffic": 8
+        },
+        {
+            "from": "Node_9",
+            "to": "Node_20",
+            "traffic": 9
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_11",
+            "traffic": 7
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_12",
+            "traffic": 9
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_13",
+            "traffic": 3
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_14",
+            "traffic": 5
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_15",
+            "traffic": 8
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_16",
+            "traffic": 1
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_17",
+            "traffic": 8
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_18",
+            "traffic": 7
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_19",
+            "traffic": 1
+        },
+        {
+            "from": "Node_10",
+            "to": "Node_20",
+            "traffic": 6
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_12",
+            "traffic": 1
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_13",
+            "traffic": 2
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_14",
+            "traffic": 5
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_15",
+            "traffic": 2
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_16",
+            "traffic": 1
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_17",
+            "traffic": 6
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_18",
+            "traffic": 8
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_19",
+            "traffic": 8
+        },
+        {
+            "from": "Node_11",
+            "to": "Node_20",
+            "traffic": 8
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_13",
+            "traffic": 6
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_14",
+            "traffic": 3
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_15",
+            "traffic": 1
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_16",
+            "traffic": 2
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_17",
+            "traffic": 5
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_18",
+            "traffic": 5
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_19",
+            "traffic": 1
+        },
+        {
+            "from": "Node_12",
+            "to": "Node_20",
+            "traffic": 1
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_14",
+            "traffic": 9
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_15",
+            "traffic": 2
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_16",
+            "traffic": 7
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_17",
+            "traffic": 4
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_18",
+            "traffic": 7
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_19",
+            "traffic": 8
+        },
+        {
+            "from": "Node_13",
+            "to": "Node_20",
+            "traffic": 5
+        },
+        {
+            "from": "Node_14",
+            "to": "Node_15",
+            "traffic": 1
+        },
+        {
+            "from": "Node_14",
+            "to": "Node_16",
+            "traffic": 4
+        },
+        {
+            "from": "Node_14",
+            "to": "Node_17",
+            "traffic": 3
+        },
+        {
+            "from": "Node_14",
+            "to": "Node_18",
+            "traffic": 5
+        },
+        {
+            "from": "Node_14",
+            "to": "Node_19",
+            "traffic": 6
+        },
+        {
+            "from": "Node_14",
+            "to": "Node_20",
+            "traffic": 2
+        },
+        {
+            "from": "Node_15",
+            "to": "Node_16",
+            "traffic": 7
+        },
+        {
+            "from": "Node_15",
+            "to": "Node_17",
+            "traffic": 3
+        },
+        {
+            "from": "Node_15",
+            "to": "Node_18",
+            "traffic": 1
+        },
+        {
+            "from": "Node_15",
+            "to": "Node_19",
+            "traffic": 3
+        },
+        {
+            "from": "Node_15",
+            "to": "Node_20",
+            "traffic": 9
+        },
+        {
+            "from": "Node_16",
+            "to": "Node_17",
+            "traffic": 6
+        },
+        {
+            "from": "Node_16",
+            "to": "Node_18",
+            "traffic": 6
+        },
+        {
+            "from": "Node_16",
+            "to": "Node_19",
+            "traffic": 4
+        },
+        {
+            "from": "Node_16",
+            "to": "Node_20",
+            "traffic": 8
+        },
+        {
+            "from": "Node_17",
+            "to": "Node_18",
+            "traffic": 5
+        },
+        {
+            "from": "Node_17",
+            "to": "Node_19",
+            "traffic": 7
+        },
+        {
+            "from": "Node_17",
+            "to": "Node_20",
+            "traffic": 9
+        },
+        {
+            "from": "Node_18",
+            "to": "Node_19",
+            "traffic": 5
+        },
+        {
+            "from": "Node_18",
+            "to": "Node_20",
+            "traffic": 5
+        },
+        {
+            "from": "Node_19",
+            "to": "Node_20",
+            "traffic": 4
+        }
+    ]
+}

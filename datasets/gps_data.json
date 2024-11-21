@@ -1,0 +1,7002 @@
+[
+    {
+        "vehicle_id": "car_000",
+        "latitude": 37.796361,
+        "longitude": -122.469892,
+        "speed": 38,
+        "timestamp": "2024-10-11T08:00:00"
+    },
+    {
+        "vehicle_id": "car_001",
+        "latitude": 37.715005,
+        "longitude": -122.421081,
+        "speed": 51,
+        "timestamp": "2024-10-11T08:01:00"
+    },
+    {
+        "vehicle_id": "car_002",
+        "latitude": 37.791294,
+        "longitude": -122.465601,
+        "speed": 53,
+        "timestamp": "2024-10-11T08:02:00"
+    },
+    {
+        "vehicle_id": "car_003",
+        "latitude": 37.761549,
+        "longitude": -122.32253,
+        "speed": 46,
+        "timestamp": "2024-10-11T08:03:00"
+    },
+    {
+        "vehicle_id": "car_004",
+        "latitude": 37.677224,
+        "longitude": -122.504911,
+        "speed": 47,
+        "timestamp": "2024-10-11T08:04:00"
+    },
+    {
+        "vehicle_id": "car_005",
+        "latitude": 37.770888,
+        "longitude": -122.399396,
+        "speed": 61,
+        "timestamp": "2024-10-11T08:05:00"
+    },
+    {
+        "vehicle_id": "car_006",
+        "latitude": 37.806297,
+        "longitude": -122.367988,
+        "speed": 89,
+        "timestamp": "2024-10-11T08:06:00"
+    },
+    {
+        "vehicle_id": "car_007",
+        "latitude": 37.83087,
+        "longitude": -122.511476,
+        "speed": 51,
+        "timestamp": "2024-10-11T08:07:00"
+    },
+    {
+        "vehicle_id": "car_008",
+        "latitude": 37.824732,
+        "longitude": -122.490216,
+        "speed": 41,
+        "timestamp": "2024-10-11T08:08:00"
+    },
+    {
+        "vehicle_id": "car_009",
+        "latitude": 37.872233,
+        "longitude": -122.490901,
+        "speed": 45,
+        "timestamp": "2024-10-11T08:09:00"
+    },
+    {
+        "vehicle_id": "car_010",
+        "latitude": 37.771371,
+        "longitude": -122.47733,
+        "speed": 62,
+        "timestamp": "2024-10-11T08:10:00"
+    },
+    {
+        "vehicle_id": "car_011",
+        "latitude": 37.78683,
+        "longitude": -122.517446,
+        "speed": 89,
+        "timestamp": "2024-10-11T08:11:00"
+    },
+    {
+        "vehicle_id": "car_012",
+        "latitude": 37.689383,
+        "longitude": -122.412552,
+        "speed": 70,
+        "timestamp": "2024-10-11T08:12:00"
+    },
+    {
+        "vehicle_id": "car_013",
+        "latitude": 37.745025,
+        "longitude": -122.512759,
+        "speed": 81,
+        "timestamp": "2024-10-11T08:13:00"
+    },
+    {
+        "vehicle_id": "car_014",
+        "latitude": 37.74646,
+        "longitude": -122.454981,
+        "speed": 67,
+        "timestamp": "2024-10-11T08:14:00"
+    },
+    {
+        "vehicle_id": "car_015",
+        "latitude": 37.788408,
+        "longitude": -122.381507,
+        "speed": 79,
+        "timestamp": "2024-10-11T08:15:00"
+    },
+    {
+        "vehicle_id": "car_016",
+        "latitude": 37.839188,
+        "longitude": -122.511163,
+        "speed": 73,
+        "timestamp": "2024-10-11T08:16:00"
+    },
+    {
+        "vehicle_id": "car_017",
+        "latitude": 37.695814,
+        "longitude": -122.392114,
+        "speed": 32,
+        "timestamp": "2024-10-11T08:17:00"
+    },
+    {
+        "vehicle_id": "car_018",
+        "latitude": 37.854144,
+        "longitude": -122.400445,
+        "speed": 38,
+        "timestamp": "2024-10-11T08:18:00"
+    },
+    {
+        "vehicle_id": "car_019",
+        "latitude": 37.685294,
+        "longitude": -122.411141,
+        "speed": 79,
+        "timestamp": "2024-10-11T08:19:00"
+    },
+    {
+        "vehicle_id": "car_020",
+        "latitude": 37.86194,
+        "longitude": -122.32993,
+        "speed": 57,
+        "timestamp": "2024-10-11T08:20:00"
+    },
+    {
+        "vehicle_id": "car_021",
+        "latitude": 37.835246,
+        "longitude": -122.45151,
+        "speed": 88,
+        "timestamp": "2024-10-11T08:21:00"
+    },
+    {
+        "vehicle_id": "car_022",
+        "latitude": 37.77178,
+        "longitude": -122.387236,
+        "speed": 45,
+        "timestamp": "2024-10-11T08:22:00"
+    },
+    {
+        "vehicle_id": "car_023",
+        "latitude": 37.784418,
+        "longitude": -122.35594,
+        "speed": 55,
+        "timestamp": "2024-10-11T08:23:00"
+    },
+    {
+        "vehicle_id": "car_024",
+        "latitude": 37.771081,
+        "longitude": -122.511249,
+        "speed": 89,
+        "timestamp": "2024-10-11T08:24:00"
+    },
+    {
+        "vehicle_id": "car_025",
+        "latitude": 37.821218,
+        "longitude": -122.503074,
+        "speed": 83,
+        "timestamp": "2024-10-11T08:25:00"
+    },
+    {
+        "vehicle_id": "car_026",
+        "latitude": 37.793556,
+        "longitude": -122.389341,
+        "speed": 54,
+        "timestamp": "2024-10-11T08:26:00"
+    },
+    {
+        "vehicle_id": "car_027",
+        "latitude": 37.849257,
+        "longitude": -122.475557,
+        "speed": 84,
+        "timestamp": "2024-10-11T08:27:00"
+    },
+    {
+        "vehicle_id": "car_028",
+        "latitude": 37.768937,
+        "longitude": -122.370544,
+        "speed": 58,
+        "timestamp": "2024-10-11T08:28:00"
+    },
+    {
+        "vehicle_id": "car_029",
+        "latitude": 37.83284,
+        "longitude": -122.387658,
+        "speed": 80,
+        "timestamp": "2024-10-11T08:29:00"
+    },
+    {
+        "vehicle_id": "car_030",
+        "latitude": 37.707235,
+        "longitude": -122.515228,
+        "speed": 48,
+        "timestamp": "2024-10-11T08:30:00"
+    },
+    {
+        "vehicle_id": "car_031",
+        "latitude": 37.720591,
+        "longitude": -122.320133,
+        "speed": 70,
+        "timestamp": "2024-10-11T08:31:00"
+    },
+    {
+        "vehicle_id": "car_032",
+        "latitude": 37.773555,
+        "longitude": -122.503095,
+        "speed": 80,
+        "timestamp": "2024-10-11T08:32:00"
+    },
+    {
+        "vehicle_id": "car_033",
+        "latitude": 37.810946,
+        "longitude": -122.50496,
+        "speed": 44,
+        "timestamp": "2024-10-11T08:33:00"
+    },
+    {
+        "vehicle_id": "car_034",
+        "latitude": 37.726437,
+        "longitude": -122.426875,
+        "speed": 59,
+        "timestamp": "2024-10-11T08:34:00"
+    },
+    {
+        "vehicle_id": "car_035",
+        "latitude": 37.867056,
+        "longitude": -122.436219,
+        "speed": 53,
+        "timestamp": "2024-10-11T08:35:00"
+    },
+    {
+        "vehicle_id": "car_036",
+        "latitude": 37.759999,
+        "longitude": -122.450213,
+        "speed": 73,
+        "timestamp": "2024-10-11T08:36:00"
+    },
+    {
+        "vehicle_id": "car_037",
+        "latitude": 37.828445,
+        "longitude": -122.418431,
+        "speed": 79,
+        "timestamp": "2024-10-11T08:37:00"
+    },
+    {
+        "vehicle_id": "car_038",
+        "latitude": 37.848306,
+        "longitude": -122.403665,
+        "speed": 65,
+        "timestamp": "2024-10-11T08:38:00"
+    },
+    {
+        "vehicle_id": "car_039",
+        "latitude": 37.680779,
+        "longitude": -122.440297,
+        "speed": 65,
+        "timestamp": "2024-10-11T08:39:00"
+    },
+    {
+        "vehicle_id": "car_040",
+        "latitude": 37.849585,
+        "longitude": -122.33926,
+        "speed": 35,
+        "timestamp": "2024-10-11T08:40:00"
+    },
+    {
+        "vehicle_id": "car_041",
+        "latitude": 37.805902,
+        "longitude": -122.320973,
+        "speed": 87,
+        "timestamp": "2024-10-11T08:41:00"
+    },
+    {
+        "vehicle_id": "car_042",
+        "latitude": 37.857373,
+        "longitude": -122.477268,
+        "speed": 74,
+        "timestamp": "2024-10-11T08:42:00"
+    },
+    {
+        "vehicle_id": "car_043",
+        "latitude": 37.768063,
+        "longitude": -122.3522,
+        "speed": 62,
+        "timestamp": "2024-10-11T08:43:00"
+    },
+    {
+        "vehicle_id": "car_044",
+        "latitude": 37.701214,
+        "longitude": -122.376235,
+        "speed": 77,
+        "timestamp": "2024-10-11T08:44:00"
+    },
+    {
+        "vehicle_id": "car_045",
+        "latitude": 37.795271,
+        "longitude": -122.392892,
+        "speed": 43,
+        "timestamp": "2024-10-11T08:45:00"
+    },
+    {
+        "vehicle_id": "car_046",
+        "latitude": 37.869179,
+        "longitude": -122.483205,
+        "speed": 34,
+        "timestamp": "2024-10-11T08:46:00"
+    },
+    {
+        "vehicle_id": "car_047",
+        "latitude": 37.688727,
+        "longitude": -122.431967,
+        "speed": 83,
+        "timestamp": "2024-10-11T08:47:00"
+    },
+    {
+        "vehicle_id": "car_048",
+        "latitude": 37.84905,
+        "longitude": -122.430339,
+        "speed": 85,
+        "timestamp": "2024-10-11T08:48:00"
+    },
+    {
+        "vehicle_id": "car_049",
+        "latitude": 37.790783,
+        "longitude": -122.386876,
+        "speed": 68,
+        "timestamp": "2024-10-11T08:49:00"
+    },
+    {
+        "vehicle_id": "car_050",
+        "latitude": 37.707605,
+        "longitude": -122.441184,
+        "speed": 86,
+        "timestamp": "2024-10-11T08:50:00"
+    },
+    {
+        "vehicle_id": "car_051",
+        "latitude": 37.754709,
+        "longitude": -122.347803,
+        "speed": 34,
+        "timestamp": "2024-10-11T08:51:00"
+    },
+    {
+        "vehicle_id": "car_052",
+        "latitude": 37.739938,
+        "longitude": -122.364705,
+        "speed": 85,
+        "timestamp": "2024-10-11T08:52:00"
+    },
+    {
+        "vehicle_id": "car_053",
+        "latitude": 37.754232,
+        "longitude": -122.471994,
+        "speed": 60,
+        "timestamp": "2024-10-11T08:53:00"
+    },
+    {
+        "vehicle_id": "car_054",
+        "latitude": 37.72211,
+        "longitude": -122.504701,
+        "speed": 43,
+        "timestamp": "2024-10-11T08:54:00"
+    },
+    {
+        "vehicle_id": "car_055",
+        "latitude": 37.741078,
+        "longitude": -122.429644,
+        "speed": 41,
+        "timestamp": "2024-10-11T08:55:00"
+    },
+    {
+        "vehicle_id": "car_056",
+        "latitude": 37.840677,
+        "longitude": -122.433222,
+        "speed": 49,
+        "timestamp": "2024-10-11T08:56:00"
+    },
+    {
+        "vehicle_id": "car_057",
+        "latitude": 37.792477,
+        "longitude": -122.329683,
+        "speed": 86,
+        "timestamp": "2024-10-11T08:57:00"
+    },
+    {
+        "vehicle_id": "car_058",
+        "latitude": 37.708308,
+        "longitude": -122.485876,
+        "speed": 86,
+        "timestamp": "2024-10-11T08:58:00"
+    },
+    {
+        "vehicle_id": "car_059",
+        "latitude": 37.796008,
+        "longitude": -122.448054,
+        "speed": 41,
+        "timestamp": "2024-10-11T08:59:00"
+    },
+    {
+        "vehicle_id": "car_060",
+        "latitude": 37.769826,
+        "longitude": -122.350566,
+        "speed": 73,
+        "timestamp": "2024-10-11T09:00:00"
+    },
+    {
+        "vehicle_id": "car_061",
+        "latitude": 37.764174,
+        "longitude": -122.346557,
+        "speed": 35,
+        "timestamp": "2024-10-11T09:01:00"
+    },
+    {
+        "vehicle_id": "car_062",
+        "latitude": 37.716068,
+        "longitude": -122.497016,
+        "speed": 79,
+        "timestamp": "2024-10-11T09:02:00"
+    },
+    {
+        "vehicle_id": "car_063",
+        "latitude": 37.872239,
+        "longitude": -122.494806,
+        "speed": 66,
+        "timestamp": "2024-10-11T09:03:00"
+    },
+    {
+        "vehicle_id": "car_064",
+        "latitude": 37.862221,
+        "longitude": -122.511531,
+        "speed": 84,
+        "timestamp": "2024-10-11T09:04:00"
+    },
+    {
+        "vehicle_id": "car_065",
+        "latitude": 37.71984,
+        "longitude": -122.483398,
+        "speed": 88,
+        "timestamp": "2024-10-11T09:05:00"
+    },
+    {
+        "vehicle_id": "car_066",
+        "latitude": 37.738131,
+        "longitude": -122.417953,
+        "speed": 43,
+        "timestamp": "2024-10-11T09:06:00"
+    },
+    {
+        "vehicle_id": "car_067",
+        "latitude": 37.812542,
+        "longitude": -122.439924,
+        "speed": 79,
+        "timestamp": "2024-10-11T09:07:00"
+    },
+    {
+        "vehicle_id": "car_068",
+        "latitude": 37.867924,
+        "longitude": -122.518412,
+        "speed": 63,
+        "timestamp": "2024-10-11T09:08:00"
+    },
+    {
+        "vehicle_id": "car_069",
+        "latitude": 37.739526,
+        "longitude": -122.32478,
+        "speed": 68,
+        "timestamp": "2024-10-11T09:09:00"
+    },
+    {
+        "vehicle_id": "car_070",
+        "latitude": 37.765848,
+        "longitude": -122.416281,
+        "speed": 79,
+        "timestamp": "2024-10-11T09:10:00"
+    },
+    {
+        "vehicle_id": "car_071",
+        "latitude": 37.743431,
+        "longitude": -122.412951,
+        "speed": 52,
+        "timestamp": "2024-10-11T09:11:00"
+    },
+    {
+        "vehicle_id": "car_072",
+        "latitude": 37.680895,
+        "longitude": -122.457814,
+        "speed": 45,
+        "timestamp": "2024-10-11T09:12:00"
+    },
+    {
+        "vehicle_id": "car_073",
+        "latitude": 37.862864,
+        "longitude": -122.37282,
+        "speed": 37,
+        "timestamp": "2024-10-11T09:13:00"
+    },
+    {
+        "vehicle_id": "car_074",
+        "latitude": 37.868882,
+        "longitude": -122.50062,
+        "speed": 37,
+        "timestamp": "2024-10-11T09:14:00"
+    },
+    {
+        "vehicle_id": "car_075",
+        "latitude": 37.706133,
+        "longitude": -122.472488,
+        "speed": 76,
+        "timestamp": "2024-10-11T09:15:00"
+    },
+    {
+        "vehicle_id": "car_076",
+        "latitude": 37.71033,
+        "longitude": -122.380875,
+        "speed": 84,
+        "timestamp": "2024-10-11T09:16:00"
+    },
+    {
+        "vehicle_id": "car_077",
+        "latitude": 37.870626,
+        "longitude": -122.444541,
+        "speed": 59,
+        "timestamp": "2024-10-11T09:17:00"
+    },
+    {
+        "vehicle_id": "car_078",
+        "latitude": 37.774335,
+        "longitude": -122.395831,
+        "speed": 37,
+        "timestamp": "2024-10-11T09:18:00"
+    },
+    {
+        "vehicle_id": "car_079",
+        "latitude": 37.847822,
+        "longitude": -122.365696,
+        "speed": 56,
+        "timestamp": "2024-10-11T09:19:00"
+    },
+    {
+        "vehicle_id": "car_080",
+        "latitude": 37.86109,
+        "longitude": -122.381495,
+        "speed": 62,
+        "timestamp": "2024-10-11T09:20:00"
+    },
+    {
+        "vehicle_id": "car_081",
+        "latitude": 37.795022,
+        "longitude": -122.331225,
+        "speed": 43,
+        "timestamp": "2024-10-11T09:21:00"
+    },
+    {
+        "vehicle_id": "car_082",
+        "latitude": 37.753673,
+        "longitude": -122.389153,
+        "speed": 55,
+        "timestamp": "2024-10-11T09:22:00"
+    },
+    {
+        "vehicle_id": "car_083",
+        "latitude": 37.744615,
+        "longitude": -122.487543,
+        "speed": 35,
+        "timestamp": "2024-10-11T09:23:00"
+    },
+    {
+        "vehicle_id": "car_084",
+        "latitude": 37.738522,
+        "longitude": -122.346112,
+        "speed": 54,
+        "timestamp": "2024-10-11T09:24:00"
+    },
+    {
+        "vehicle_id": "car_085",
+        "latitude": 37.849051,
+        "longitude": -122.362923,
+        "speed": 42,
+        "timestamp": "2024-10-11T09:25:00"
+    },
+    {
+        "vehicle_id": "car_086",
+        "latitude": 37.732637,
+        "longitude": -122.497578,
+        "speed": 63,
+        "timestamp": "2024-10-11T09:26:00"
+    },
+    {
+        "vehicle_id": "car_087",
+        "latitude": 37.755728,
+        "longitude": -122.453993,
+        "speed": 67,
+        "timestamp": "2024-10-11T09:27:00"
+    },
+    {
+        "vehicle_id": "car_088",
+        "latitude": 37.762534,
+        "longitude": -122.339125,
+        "speed": 42,
+        "timestamp": "2024-10-11T09:28:00"
+    },
+    {
+        "vehicle_id": "car_089",
+        "latitude": 37.834463,
+        "longitude": -122.432283,
+        "speed": 40,
+        "timestamp": "2024-10-11T09:29:00"
+    },
+    {
+        "vehicle_id": "car_090",
+        "latitude": 37.750034,
+        "longitude": -122.460026,
+        "speed": 36,
+        "timestamp": "2024-10-11T09:30:00"
+    },
+    {
+        "vehicle_id": "car_091",
+        "latitude": 37.676052,
+        "longitude": -122.454483,
+        "speed": 41,
+        "timestamp": "2024-10-11T09:31:00"
+    },
+    {
+        "vehicle_id": "car_092",
+        "latitude": 37.796866,
+        "longitude": -122.406712,
+        "speed": 48,
+        "timestamp": "2024-10-11T09:32:00"
+    },
+    {
+        "vehicle_id": "car_093",
+        "latitude": 37.752612,
+        "longitude": -122.429661,
+        "speed": 78,
+        "timestamp": "2024-10-11T09:33:00"
+    },
+    {
+        "vehicle_id": "car_094",
+        "latitude": 37.784037,
+        "longitude": -122.430516,
+        "speed": 67,
+        "timestamp": "2024-10-11T09:34:00"
+    },
+    {
+        "vehicle_id": "car_095",
+        "latitude": 37.689539,
+        "longitude": -122.39871,
+        "speed": 75,
+        "timestamp": "2024-10-11T09:35:00"
+    },
+    {
+        "vehicle_id": "car_096",
+        "latitude": 37.803415,
+        "longitude": -122.367531,
+        "speed": 38,
+        "timestamp": "2024-10-11T09:36:00"
+    },
+    {
+        "vehicle_id": "car_097",
+        "latitude": 37.750857,
+        "longitude": -122.346733,
+        "speed": 77,
+        "timestamp": "2024-10-11T09:37:00"
+    },
+    {
+        "vehicle_id": "car_098",
+        "latitude": 37.844333,
+        "longitude": -122.336553,
+        "speed": 58,
+        "timestamp": "2024-10-11T09:38:00"
+    },
+    {
+        "vehicle_id": "car_099",
+        "latitude": 37.74315,
+        "longitude": -122.443361,
+        "speed": 63,
+        "timestamp": "2024-10-11T09:39:00"
+    },
+    {
+        "vehicle_id": "car_100",
+        "latitude": 37.780225,
+        "longitude": -122.470186,
+        "speed": 65,
+        "timestamp": "2024-10-11T09:40:00"
+    },
+    {
+        "vehicle_id": "car_101",
+        "latitude": 37.796481,
+        "longitude": -122.366423,
+        "speed": 35,
+        "timestamp": "2024-10-11T09:41:00"
+    },
+    {
+        "vehicle_id": "car_102",
+        "latitude": 37.824275,
+        "longitude": -122.376302,
+        "speed": 72,
+        "timestamp": "2024-10-11T09:42:00"
+    },
+    {
+        "vehicle_id": "car_103",
+        "latitude": 37.678547,
+        "longitude": -122.480244,
+        "speed": 84,
+        "timestamp": "2024-10-11T09:43:00"
+    },
+    {
+        "vehicle_id": "car_104",
+        "latitude": 37.854243,
+        "longitude": -122.505144,
+        "speed": 44,
+        "timestamp": "2024-10-11T09:44:00"
+    },
+    {
+        "vehicle_id": "car_105",
+        "latitude": 37.723596,
+        "longitude": -122.333993,
+        "speed": 44,
+        "timestamp": "2024-10-11T09:45:00"
+    },
+    {
+        "vehicle_id": "car_106",
+        "latitude": 37.714331,
+        "longitude": -122.423563,
+        "speed": 48,
+        "timestamp": "2024-10-11T09:46:00"
+    },
+    {
+        "vehicle_id": "car_107",
+        "latitude": 37.695184,
+        "longitude": -122.422226,
+        "speed": 77,
+        "timestamp": "2024-10-11T09:47:00"
+    },
+    {
+        "vehicle_id": "car_108",
+        "latitude": 37.779517,
+        "longitude": -122.385381,
+        "speed": 58,
+        "timestamp": "2024-10-11T09:48:00"
+    },
+    {
+        "vehicle_id": "car_109",
+        "latitude": 37.835505,
+        "longitude": -122.411568,
+        "speed": 45,
+        "timestamp": "2024-10-11T09:49:00"
+    },
+    {
+        "vehicle_id": "car_110",
+        "latitude": 37.692825,
+        "longitude": -122.375873,
+        "speed": 31,
+        "timestamp": "2024-10-11T09:50:00"
+    },
+    {
+        "vehicle_id": "car_111",
+        "latitude": 37.729425,
+        "longitude": -122.43669,
+        "speed": 54,
+        "timestamp": "2024-10-11T09:51:00"
+    },
+    {
+        "vehicle_id": "car_112",
+        "latitude": 37.779396,
+        "longitude": -122.494755,
+        "speed": 73,
+        "timestamp": "2024-10-11T09:52:00"
+    },
+    {
+        "vehicle_id": "car_113",
+        "latitude": 37.711188,
+        "longitude": -122.414367,
+        "speed": 36,
+        "timestamp": "2024-10-11T09:53:00"
+    },
+    {
+        "vehicle_id": "car_114",
+        "latitude": 37.733956,
+        "longitude": -122.360719,
+        "speed": 71,
+        "timestamp": "2024-10-11T09:54:00"
+    },
+    {
+        "vehicle_id": "car_115",
+        "latitude": 37.85845,
+        "longitude": -122.434495,
+        "speed": 83,
+        "timestamp": "2024-10-11T09:55:00"
+    },
+    {
+        "vehicle_id": "car_116",
+        "latitude": 37.836099,
+        "longitude": -122.409355,
+        "speed": 85,
+        "timestamp": "2024-10-11T09:56:00"
+    },
+    {
+        "vehicle_id": "car_117",
+        "latitude": 37.7802,
+        "longitude": -122.496939,
+        "speed": 42,
+        "timestamp": "2024-10-11T09:57:00"
+    },
+    {
+        "vehicle_id": "car_118",
+        "latitude": 37.795222,
+        "longitude": -122.355562,
+        "speed": 51,
+        "timestamp": "2024-10-11T09:58:00"
+    },
+    {
+        "vehicle_id": "car_119",
+        "latitude": 37.793608,
+        "longitude": -122.360651,
+        "speed": 44,
+        "timestamp": "2024-10-11T09:59:00"
+    },
+    {
+        "vehicle_id": "car_120",
+        "latitude": 37.797096,
+        "longitude": -122.437194,
+        "speed": 71,
+        "timestamp": "2024-10-11T10:00:00"
+    },
+    {
+        "vehicle_id": "car_121",
+        "latitude": 37.854905,
+        "longitude": -122.448716,
+        "speed": 55,
+        "timestamp": "2024-10-11T10:01:00"
+    },
+    {
+        "vehicle_id": "car_122",
+        "latitude": 37.726029,
+        "longitude": -122.458988,
+        "speed": 53,
+        "timestamp": "2024-10-11T10:02:00"
+    },
+    {
+        "vehicle_id": "car_123",
+        "latitude": 37.839423,
+        "longitude": -122.434652,
+        "speed": 39,
+        "timestamp": "2024-10-11T10:03:00"
+    },
+    {
+        "vehicle_id": "car_124",
+        "latitude": 37.836806,
+        "longitude": -122.366069,
+        "speed": 39,
+        "timestamp": "2024-10-11T10:04:00"
+    },
+    {
+        "vehicle_id": "car_125",
+        "latitude": 37.765254,
+        "longitude": -122.402078,
+        "speed": 76,
+        "timestamp": "2024-10-11T10:05:00"
+    },
+    {
+        "vehicle_id": "car_126",
+        "latitude": 37.721947,
+        "longitude": -122.345548,
+        "speed": 62,
+        "timestamp": "2024-10-11T10:06:00"
+    },
+    {
+        "vehicle_id": "car_127",
+        "latitude": 37.718248,
+        "longitude": -122.500257,
+        "speed": 77,
+        "timestamp": "2024-10-11T10:07:00"
+    },
+    {
+        "vehicle_id": "car_128",
+        "latitude": 37.737354,
+        "longitude": -122.473351,
+        "speed": 36,
+        "timestamp": "2024-10-11T10:08:00"
+    },
+    {
+        "vehicle_id": "car_129",
+        "latitude": 37.784239,
+        "longitude": -122.473011,
+        "speed": 43,
+        "timestamp": "2024-10-11T10:09:00"
+    },
+    {
+        "vehicle_id": "car_130",
+        "latitude": 37.801303,
+        "longitude": -122.507709,
+        "speed": 54,
+        "timestamp": "2024-10-11T10:10:00"
+    },
+    {
+        "vehicle_id": "car_131",
+        "latitude": 37.872457,
+        "longitude": -122.492112,
+        "speed": 50,
+        "timestamp": "2024-10-11T10:11:00"
+    },
+    {
+        "vehicle_id": "car_132",
+        "latitude": 37.810068,
+        "longitude": -122.430857,
+        "speed": 68,
+        "timestamp": "2024-10-11T10:12:00"
+    },
+    {
+        "vehicle_id": "car_133",
+        "latitude": 37.819803,
+        "longitude": -122.516236,
+        "speed": 53,
+        "timestamp": "2024-10-11T10:13:00"
+    },
+    {
+        "vehicle_id": "car_134",
+        "latitude": 37.700579,
+        "longitude": -122.498578,
+        "speed": 55,
+        "timestamp": "2024-10-11T10:14:00"
+    },
+    {
+        "vehicle_id": "car_135",
+        "latitude": 37.742345,
+        "longitude": -122.338295,
+        "speed": 74,
+        "timestamp": "2024-10-11T10:15:00"
+    },
+    {
+        "vehicle_id": "car_136",
+        "latitude": 37.690784,
+        "longitude": -122.502268,
+        "speed": 62,
+        "timestamp": "2024-10-11T10:16:00"
+    },
+    {
+        "vehicle_id": "car_137",
+        "latitude": 37.79405,
+        "longitude": -122.439162,
+        "speed": 62,
+        "timestamp": "2024-10-11T10:17:00"
+    },
+    {
+        "vehicle_id": "car_138",
+        "latitude": 37.720231,
+        "longitude": -122.448401,
+        "speed": 33,
+        "timestamp": "2024-10-11T10:18:00"
+    },
+    {
+        "vehicle_id": "car_139",
+        "latitude": 37.763382,
+        "longitude": -122.353027,
+        "speed": 89,
+        "timestamp": "2024-10-11T10:19:00"
+    },
+    {
+        "vehicle_id": "car_140",
+        "latitude": 37.834971,
+        "longitude": -122.472658,
+        "speed": 50,
+        "timestamp": "2024-10-11T10:20:00"
+    },
+    {
+        "vehicle_id": "car_141",
+        "latitude": 37.729129,
+        "longitude": -122.400838,
+        "speed": 32,
+        "timestamp": "2024-10-11T10:21:00"
+    },
+    {
+        "vehicle_id": "car_142",
+        "latitude": 37.781492,
+        "longitude": -122.454533,
+        "speed": 32,
+        "timestamp": "2024-10-11T10:22:00"
+    },
+    {
+        "vehicle_id": "car_143",
+        "latitude": 37.712965,
+        "longitude": -122.508932,
+        "speed": 73,
+        "timestamp": "2024-10-11T10:23:00"
+    },
+    {
+        "vehicle_id": "car_144",
+        "latitude": 37.807268,
+        "longitude": -122.407843,
+        "speed": 63,
+        "timestamp": "2024-10-11T10:24:00"
+    },
+    {
+        "vehicle_id": "car_145",
+        "latitude": 37.76417,
+        "longitude": -122.452686,
+        "speed": 51,
+        "timestamp": "2024-10-11T10:25:00"
+    },
+    {
+        "vehicle_id": "car_146",
+        "latitude": 37.787359,
+        "longitude": -122.327875,
+        "speed": 42,
+        "timestamp": "2024-10-11T10:26:00"
+    },
+    {
+        "vehicle_id": "car_147",
+        "latitude": 37.801892,
+        "longitude": -122.368432,
+        "speed": 84,
+        "timestamp": "2024-10-11T10:27:00"
+    },
+    {
+        "vehicle_id": "car_148",
+        "latitude": 37.782066,
+        "longitude": -122.500065,
+        "speed": 86,
+        "timestamp": "2024-10-11T10:28:00"
+    },
+    {
+        "vehicle_id": "car_149",
+        "latitude": 37.839261,
+        "longitude": -122.519153,
+        "speed": 45,
+        "timestamp": "2024-10-11T10:29:00"
+    },
+    {
+        "vehicle_id": "car_150",
+        "latitude": 37.807882,
+        "longitude": -122.36031,
+        "speed": 45,
+        "timestamp": "2024-10-11T10:30:00"
+    },
+    {
+        "vehicle_id": "car_151",
+        "latitude": 37.751405,
+        "longitude": -122.495434,
+        "speed": 80,
+        "timestamp": "2024-10-11T10:31:00"
+    },
+    {
+        "vehicle_id": "car_152",
+        "latitude": 37.705383,
+        "longitude": -122.320903,
+        "speed": 69,
+        "timestamp": "2024-10-11T10:32:00"
+    },
+    {
+        "vehicle_id": "car_153",
+        "latitude": 37.82862,
+        "longitude": -122.470669,
+        "speed": 59,
+        "timestamp": "2024-10-11T10:33:00"
+    },
+    {
+        "vehicle_id": "car_154",
+        "latitude": 37.779092,
+        "longitude": -122.394683,
+        "speed": 47,
+        "timestamp": "2024-10-11T10:34:00"
+    },
+    {
+        "vehicle_id": "car_155",
+        "latitude": 37.83248,
+        "longitude": -122.346463,
+        "speed": 82,
+        "timestamp": "2024-10-11T10:35:00"
+    },
+    {
+        "vehicle_id": "car_156",
+        "latitude": 37.840114,
+        "longitude": -122.362994,
+        "speed": 63,
+        "timestamp": "2024-10-11T10:36:00"
+    },
+    {
+        "vehicle_id": "car_157",
+        "latitude": 37.687522,
+        "longitude": -122.49587,
+        "speed": 52,
+        "timestamp": "2024-10-11T10:37:00"
+    },
+    {
+        "vehicle_id": "car_158",
+        "latitude": 37.727523,
+        "longitude": -122.447373,
+        "speed": 50,
+        "timestamp": "2024-10-11T10:38:00"
+    },
+    {
+        "vehicle_id": "car_159",
+        "latitude": 37.744164,
+        "longitude": -122.471589,
+        "speed": 30,
+        "timestamp": "2024-10-11T10:39:00"
+    },
+    {
+        "vehicle_id": "car_160",
+        "latitude": 37.736005,
+        "longitude": -122.440004,
+        "speed": 52,
+        "timestamp": "2024-10-11T10:40:00"
+    },
+    {
+        "vehicle_id": "car_161",
+        "latitude": 37.863377,
+        "longitude": -122.344733,
+        "speed": 35,
+        "timestamp": "2024-10-11T10:41:00"
+    },
+    {
+        "vehicle_id": "car_162",
+        "latitude": 37.858778,
+        "longitude": -122.420007,
+        "speed": 51,
+        "timestamp": "2024-10-11T10:42:00"
+    },
+    {
+        "vehicle_id": "car_163",
+        "latitude": 37.788215,
+        "longitude": -122.441191,
+        "speed": 41,
+        "timestamp": "2024-10-11T10:43:00"
+    },
+    {
+        "vehicle_id": "car_164",
+        "latitude": 37.861019,
+        "longitude": -122.496127,
+        "speed": 47,
+        "timestamp": "2024-10-11T10:44:00"
+    },
+    {
+        "vehicle_id": "car_165",
+        "latitude": 37.80049,
+        "longitude": -122.384539,
+        "speed": 71,
+        "timestamp": "2024-10-11T10:45:00"
+    },
+    {
+        "vehicle_id": "car_166",
+        "latitude": 37.848511,
+        "longitude": -122.358215,
+        "speed": 45,
+        "timestamp": "2024-10-11T10:46:00"
+    },
+    {
+        "vehicle_id": "car_167",
+        "latitude": 37.717296,
+        "longitude": -122.355653,
+        "speed": 44,
+        "timestamp": "2024-10-11T10:47:00"
+    },
+    {
+        "vehicle_id": "car_168",
+        "latitude": 37.755496,
+        "longitude": -122.484695,
+        "speed": 31,
+        "timestamp": "2024-10-11T10:48:00"
+    },
+    {
+        "vehicle_id": "car_169",
+        "latitude": 37.719623,
+        "longitude": -122.327935,
+        "speed": 47,
+        "timestamp": "2024-10-11T10:49:00"
+    },
+    {
+        "vehicle_id": "car_170",
+        "latitude": 37.803094,
+        "longitude": -122.354904,
+        "speed": 54,
+        "timestamp": "2024-10-11T10:50:00"
+    },
+    {
+        "vehicle_id": "car_171",
+        "latitude": 37.770771,
+        "longitude": -122.456654,
+        "speed": 60,
+        "timestamp": "2024-10-11T10:51:00"
+    },
+    {
+        "vehicle_id": "car_172",
+        "latitude": 37.772312,
+        "longitude": -122.398149,
+        "speed": 83,
+        "timestamp": "2024-10-11T10:52:00"
+    },
+    {
+        "vehicle_id": "car_173",
+        "latitude": 37.840766,
+        "longitude": -122.455894,
+        "speed": 64,
+        "timestamp": "2024-10-11T10:53:00"
+    },
+    {
+        "vehicle_id": "car_174",
+        "latitude": 37.754633,
+        "longitude": -122.490125,
+        "speed": 82,
+        "timestamp": "2024-10-11T10:54:00"
+    },
+    {
+        "vehicle_id": "car_175",
+        "latitude": 37.699252,
+        "longitude": -122.423753,
+        "speed": 33,
+        "timestamp": "2024-10-11T10:55:00"
+    },
+    {
+        "vehicle_id": "car_176",
+        "latitude": 37.701933,
+        "longitude": -122.326777,
+        "speed": 89,
+        "timestamp": "2024-10-11T10:56:00"
+    },
+    {
+        "vehicle_id": "car_177",
+        "latitude": 37.830245,
+        "longitude": -122.494993,
+        "speed": 57,
+        "timestamp": "2024-10-11T10:57:00"
+    },
+    {
+        "vehicle_id": "car_178",
+        "latitude": 37.737263,
+        "longitude": -122.418172,
+        "speed": 47,
+        "timestamp": "2024-10-11T10:58:00"
+    },
+    {
+        "vehicle_id": "car_179",
+        "latitude": 37.730451,
+        "longitude": -122.34911,
+        "speed": 61,
+        "timestamp": "2024-10-11T10:59:00"
+    },
+    {
+        "vehicle_id": "car_180",
+        "latitude": 37.718108,
+        "longitude": -122.395482,
+        "speed": 89,
+        "timestamp": "2024-10-11T11:00:00"
+    },
+    {
+        "vehicle_id": "car_181",
+        "latitude": 37.74786,
+        "longitude": -122.442108,
+        "speed": 34,
+        "timestamp": "2024-10-11T11:01:00"
+    },
+    {
+        "vehicle_id": "car_182",
+        "latitude": 37.831052,
+        "longitude": -122.42744,
+        "speed": 31,
+        "timestamp": "2024-10-11T11:02:00"
+    },
+    {
+        "vehicle_id": "car_183",
+        "latitude": 37.77182,
+        "longitude": -122.368549,
+        "speed": 60,
+        "timestamp": "2024-10-11T11:03:00"
+    },
+    {
+        "vehicle_id": "car_184",
+        "latitude": 37.813907,
+        "longitude": -122.322664,
+        "speed": 48,
+        "timestamp": "2024-10-11T11:04:00"
+    },
+    {
+        "vehicle_id": "car_185",
+        "latitude": 37.709033,
+        "longitude": -122.504474,
+        "speed": 57,
+        "timestamp": "2024-10-11T11:05:00"
+    },
+    {
+        "vehicle_id": "car_186",
+        "latitude": 37.735555,
+        "longitude": -122.499191,
+        "speed": 45,
+        "timestamp": "2024-10-11T11:06:00"
+    },
+    {
+        "vehicle_id": "car_187",
+        "latitude": 37.813224,
+        "longitude": -122.39579,
+        "speed": 33,
+        "timestamp": "2024-10-11T11:07:00"
+    },
+    {
+        "vehicle_id": "car_188",
+        "latitude": 37.874239,
+        "longitude": -122.356606,
+        "speed": 68,
+        "timestamp": "2024-10-11T11:08:00"
+    },
+    {
+        "vehicle_id": "car_189",
+        "latitude": 37.719061,
+        "longitude": -122.484649,
+        "speed": 65,
+        "timestamp": "2024-10-11T11:09:00"
+    },
+    {
+        "vehicle_id": "car_190",
+        "latitude": 37.780308,
+        "longitude": -122.434183,
+        "speed": 66,
+        "timestamp": "2024-10-11T11:10:00"
+    },
+    {
+        "vehicle_id": "car_191",
+        "latitude": 37.852221,
+        "longitude": -122.429443,
+        "speed": 64,
+        "timestamp": "2024-10-11T11:11:00"
+    },
+    {
+        "vehicle_id": "car_192",
+        "latitude": 37.748452,
+        "longitude": -122.436574,
+        "speed": 43,
+        "timestamp": "2024-10-11T11:12:00"
+    },
+    {
+        "vehicle_id": "car_193",
+        "latitude": 37.710277,
+        "longitude": -122.441984,
+        "speed": 34,
+        "timestamp": "2024-10-11T11:13:00"
+    },
+    {
+        "vehicle_id": "car_194",
+        "latitude": 37.677106,
+        "longitude": -122.436169,
+        "speed": 56,
+        "timestamp": "2024-10-11T11:14:00"
+    },
+    {
+        "vehicle_id": "car_195",
+        "latitude": 37.758616,
+        "longitude": -122.361332,
+        "speed": 50,
+        "timestamp": "2024-10-11T11:15:00"
+    },
+    {
+        "vehicle_id": "car_196",
+        "latitude": 37.826958,
+        "longitude": -122.491978,
+        "speed": 68,
+        "timestamp": "2024-10-11T11:16:00"
+    },
+    {
+        "vehicle_id": "car_197",
+        "latitude": 37.79869,
+        "longitude": -122.4547,
+        "speed": 55,
+        "timestamp": "2024-10-11T11:17:00"
+    },
+    {
+        "vehicle_id": "car_198",
+        "latitude": 37.72314,
+        "longitude": -122.324225,
+        "speed": 47,
+        "timestamp": "2024-10-11T11:18:00"
+    },
+    {
+        "vehicle_id": "car_199",
+        "latitude": 37.687823,
+        "longitude": -122.510873,
+        "speed": 46,
+        "timestamp": "2024-10-11T11:19:00"
+    },
+    {
+        "vehicle_id": "car_200",
+        "latitude": 37.696847,
+        "longitude": -122.409808,
+        "speed": 50,
+        "timestamp": "2024-10-11T11:20:00"
+    },
+    {
+        "vehicle_id": "car_201",
+        "latitude": 37.843771,
+        "longitude": -122.499783,
+        "speed": 55,
+        "timestamp": "2024-10-11T11:21:00"
+    },
+    {
+        "vehicle_id": "car_202",
+        "latitude": 37.70034,
+        "longitude": -122.346468,
+        "speed": 77,
+        "timestamp": "2024-10-11T11:22:00"
+    },
+    {
+        "vehicle_id": "car_203",
+        "latitude": 37.822371,
+        "longitude": -122.424196,
+        "speed": 70,
+        "timestamp": "2024-10-11T11:23:00"
+    },
+    {
+        "vehicle_id": "car_204",
+        "latitude": 37.797716,
+        "longitude": -122.347487,
+        "speed": 71,
+        "timestamp": "2024-10-11T11:24:00"
+    },
+    {
+        "vehicle_id": "car_205",
+        "latitude": 37.831903,
+        "longitude": -122.340983,
+        "speed": 70,
+        "timestamp": "2024-10-11T11:25:00"
+    },
+    {
+        "vehicle_id": "car_206",
+        "latitude": 37.69533,
+        "longitude": -122.387662,
+        "speed": 70,
+        "timestamp": "2024-10-11T11:26:00"
+    },
+    {
+        "vehicle_id": "car_207",
+        "latitude": 37.812527,
+        "longitude": -122.431879,
+        "speed": 58,
+        "timestamp": "2024-10-11T11:27:00"
+    },
+    {
+        "vehicle_id": "car_208",
+        "latitude": 37.730774,
+        "longitude": -122.333336,
+        "speed": 89,
+        "timestamp": "2024-10-11T11:28:00"
+    },
+    {
+        "vehicle_id": "car_209",
+        "latitude": 37.831134,
+        "longitude": -122.354374,
+        "speed": 84,
+        "timestamp": "2024-10-11T11:29:00"
+    },
+    {
+        "vehicle_id": "car_210",
+        "latitude": 37.806771,
+        "longitude": -122.340376,
+        "speed": 37,
+        "timestamp": "2024-10-11T11:30:00"
+    },
+    {
+        "vehicle_id": "car_211",
+        "latitude": 37.720293,
+        "longitude": -122.341522,
+        "speed": 52,
+        "timestamp": "2024-10-11T11:31:00"
+    },
+    {
+        "vehicle_id": "car_212",
+        "latitude": 37.778582,
+        "longitude": -122.489366,
+        "speed": 61,
+        "timestamp": "2024-10-11T11:32:00"
+    },
+    {
+        "vehicle_id": "car_213",
+        "latitude": 37.872555,
+        "longitude": -122.430745,
+        "speed": 37,
+        "timestamp": "2024-10-11T11:33:00"
+    },
+    {
+        "vehicle_id": "car_214",
+        "latitude": 37.683235,
+        "longitude": -122.502442,
+        "speed": 72,
+        "timestamp": "2024-10-11T11:34:00"
+    },
+    {
+        "vehicle_id": "car_215",
+        "latitude": 37.806707,
+        "longitude": -122.358974,
+        "speed": 64,
+        "timestamp": "2024-10-11T11:35:00"
+    },
+    {
+        "vehicle_id": "car_216",
+        "latitude": 37.677322,
+        "longitude": -122.3281,
+        "speed": 50,
+        "timestamp": "2024-10-11T11:36:00"
+    },
+    {
+        "vehicle_id": "car_217",
+        "latitude": 37.752419,
+        "longitude": -122.427011,
+        "speed": 65,
+        "timestamp": "2024-10-11T11:37:00"
+    },
+    {
+        "vehicle_id": "car_218",
+        "latitude": 37.744841,
+        "longitude": -122.364469,
+        "speed": 36,
+        "timestamp": "2024-10-11T11:38:00"
+    },
+    {
+        "vehicle_id": "car_219",
+        "latitude": 37.831669,
+        "longitude": -122.448432,
+        "speed": 87,
+        "timestamp": "2024-10-11T11:39:00"
+    },
+    {
+        "vehicle_id": "car_220",
+        "latitude": 37.694579,
+        "longitude": -122.387339,
+        "speed": 61,
+        "timestamp": "2024-10-11T11:40:00"
+    },
+    {
+        "vehicle_id": "car_221",
+        "latitude": 37.688643,
+        "longitude": -122.434541,
+        "speed": 76,
+        "timestamp": "2024-10-11T11:41:00"
+    },
+    {
+        "vehicle_id": "car_222",
+        "latitude": 37.691334,
+        "longitude": -122.325828,
+        "speed": 60,
+        "timestamp": "2024-10-11T11:42:00"
+    },
+    {
+        "vehicle_id": "car_223",
+        "latitude": 37.831397,
+        "longitude": -122.473832,
+        "speed": 38,
+        "timestamp": "2024-10-11T11:43:00"
+    },
+    {
+        "vehicle_id": "car_224",
+        "latitude": 37.751288,
+        "longitude": -122.478263,
+        "speed": 78,
+        "timestamp": "2024-10-11T11:44:00"
+    },
+    {
+        "vehicle_id": "car_225",
+        "latitude": 37.725983,
+        "longitude": -122.467257,
+        "speed": 70,
+        "timestamp": "2024-10-11T11:45:00"
+    },
+    {
+        "vehicle_id": "car_226",
+        "latitude": 37.803681,
+        "longitude": -122.41334,
+        "speed": 79,
+        "timestamp": "2024-10-11T11:46:00"
+    },
+    {
+        "vehicle_id": "car_227",
+        "latitude": 37.739343,
+        "longitude": -122.494353,
+        "speed": 56,
+        "timestamp": "2024-10-11T11:47:00"
+    },
+    {
+        "vehicle_id": "car_228",
+        "latitude": 37.870894,
+        "longitude": -122.399024,
+        "speed": 82,
+        "timestamp": "2024-10-11T11:48:00"
+    },
+    {
+        "vehicle_id": "car_229",
+        "latitude": 37.858959,
+        "longitude": -122.415246,
+        "speed": 61,
+        "timestamp": "2024-10-11T11:49:00"
+    },
+    {
+        "vehicle_id": "car_230",
+        "latitude": 37.806196,
+        "longitude": -122.493781,
+        "speed": 44,
+        "timestamp": "2024-10-11T11:50:00"
+    },
+    {
+        "vehicle_id": "car_231",
+        "latitude": 37.697062,
+        "longitude": -122.399694,
+        "speed": 38,
+        "timestamp": "2024-10-11T11:51:00"
+    },
+    {
+        "vehicle_id": "car_232",
+        "latitude": 37.749333,
+        "longitude": -122.432985,
+        "speed": 89,
+        "timestamp": "2024-10-11T11:52:00"
+    },
+    {
+        "vehicle_id": "car_233",
+        "latitude": 37.752631,
+        "longitude": -122.486663,
+        "speed": 81,
+        "timestamp": "2024-10-11T11:53:00"
+    },
+    {
+        "vehicle_id": "car_234",
+        "latitude": 37.723039,
+        "longitude": -122.4951,
+        "speed": 61,
+        "timestamp": "2024-10-11T11:54:00"
+    },
+    {
+        "vehicle_id": "car_235",
+        "latitude": 37.77411,
+        "longitude": -122.516857,
+        "speed": 50,
+        "timestamp": "2024-10-11T11:55:00"
+    },
+    {
+        "vehicle_id": "car_236",
+        "latitude": 37.732081,
+        "longitude": -122.356211,
+        "speed": 84,
+        "timestamp": "2024-10-11T11:56:00"
+    },
+    {
+        "vehicle_id": "car_237",
+        "latitude": 37.850754,
+        "longitude": -122.467714,
+        "speed": 76,
+        "timestamp": "2024-10-11T11:57:00"
+    },
+    {
+        "vehicle_id": "car_238",
+        "latitude": 37.725348,
+        "longitude": -122.368392,
+        "speed": 50,
+        "timestamp": "2024-10-11T11:58:00"
+    },
+    {
+        "vehicle_id": "car_239",
+        "latitude": 37.870579,
+        "longitude": -122.369762,
+        "speed": 75,
+        "timestamp": "2024-10-11T11:59:00"
+    },
+    {
+        "vehicle_id": "car_240",
+        "latitude": 37.830189,
+        "longitude": -122.388168,
+        "speed": 40,
+        "timestamp": "2024-10-11T12:00:00"
+    },
+    {
+        "vehicle_id": "car_241",
+        "latitude": 37.738912,
+        "longitude": -122.368763,
+        "speed": 54,
+        "timestamp": "2024-10-11T12:01:00"
+    },
+    {
+        "vehicle_id": "car_242",
+        "latitude": 37.862378,
+        "longitude": -122.510765,
+        "speed": 47,
+        "timestamp": "2024-10-11T12:02:00"
+    },
+    {
+        "vehicle_id": "car_243",
+        "latitude": 37.696489,
+        "longitude": -122.38234,
+        "speed": 81,
+        "timestamp": "2024-10-11T12:03:00"
+    },
+    {
+        "vehicle_id": "car_244",
+        "latitude": 37.838457,
+        "longitude": -122.476698,
+        "speed": 80,
+        "timestamp": "2024-10-11T12:04:00"
+    },
+    {
+        "vehicle_id": "car_245",
+        "latitude": 37.705035,
+        "longitude": -122.450923,
+        "speed": 51,
+        "timestamp": "2024-10-11T12:05:00"
+    },
+    {
+        "vehicle_id": "car_246",
+        "latitude": 37.783347,
+        "longitude": -122.40133,
+        "speed": 85,
+        "timestamp": "2024-10-11T12:06:00"
+    },
+    {
+        "vehicle_id": "car_247",
+        "latitude": 37.797288,
+        "longitude": -122.498214,
+        "speed": 52,
+        "timestamp": "2024-10-11T12:07:00"
+    },
+    {
+        "vehicle_id": "car_248",
+        "latitude": 37.812677,
+        "longitude": -122.344735,
+        "speed": 76,
+        "timestamp": "2024-10-11T12:08:00"
+    },
+    {
+        "vehicle_id": "car_249",
+        "latitude": 37.850328,
+        "longitude": -122.43264,
+        "speed": 37,
+        "timestamp": "2024-10-11T12:09:00"
+    },
+    {
+        "vehicle_id": "car_250",
+        "latitude": 37.767211,
+        "longitude": -122.517534,
+        "speed": 30,
+        "timestamp": "2024-10-11T12:10:00"
+    },
+    {
+        "vehicle_id": "car_251",
+        "latitude": 37.823242,
+        "longitude": -122.34311,
+        "speed": 33,
+        "timestamp": "2024-10-11T12:11:00"
+    },
+    {
+        "vehicle_id": "car_252",
+        "latitude": 37.694736,
+        "longitude": -122.439101,
+        "speed": 71,
+        "timestamp": "2024-10-11T12:12:00"
+    },
+    {
+        "vehicle_id": "car_253",
+        "latitude": 37.806412,
+        "longitude": -122.457214,
+        "speed": 50,
+        "timestamp": "2024-10-11T12:13:00"
+    },
+    {
+        "vehicle_id": "car_254",
+        "latitude": 37.821514,
+        "longitude": -122.396203,
+        "speed": 56,
+        "timestamp": "2024-10-11T12:14:00"
+    },
+    {
+        "vehicle_id": "car_255",
+        "latitude": 37.812477,
+        "longitude": -122.444348,
+        "speed": 38,
+        "timestamp": "2024-10-11T12:15:00"
+    },
+    {
+        "vehicle_id": "car_256",
+        "latitude": 37.785745,
+        "longitude": -122.518354,
+        "speed": 55,
+        "timestamp": "2024-10-11T12:16:00"
+    },
+    {
+        "vehicle_id": "car_257",
+        "latitude": 37.842893,
+        "longitude": -122.352864,
+        "speed": 43,
+        "timestamp": "2024-10-11T12:17:00"
+    },
+    {
+        "vehicle_id": "car_258",
+        "latitude": 37.715396,
+        "longitude": -122.327785,
+        "speed": 86,
+        "timestamp": "2024-10-11T12:18:00"
+    },
+    {
+        "vehicle_id": "car_259",
+        "latitude": 37.810576,
+        "longitude": -122.368147,
+        "speed": 60,
+        "timestamp": "2024-10-11T12:19:00"
+    },
+    {
+        "vehicle_id": "car_260",
+        "latitude": 37.736021,
+        "longitude": -122.34407,
+        "speed": 66,
+        "timestamp": "2024-10-11T12:20:00"
+    },
+    {
+        "vehicle_id": "car_261",
+        "latitude": 37.699843,
+        "longitude": -122.442325,
+        "speed": 33,
+        "timestamp": "2024-10-11T12:21:00"
+    },
+    {
+        "vehicle_id": "car_262",
+        "latitude": 37.819314,
+        "longitude": -122.342161,
+        "speed": 64,
+        "timestamp": "2024-10-11T12:22:00"
+    },
+    {
+        "vehicle_id": "car_263",
+        "latitude": 37.702465,
+        "longitude": -122.386792,
+        "speed": 83,
+        "timestamp": "2024-10-11T12:23:00"
+    },
+    {
+        "vehicle_id": "car_264",
+        "latitude": 37.814024,
+        "longitude": -122.518756,
+        "speed": 67,
+        "timestamp": "2024-10-11T12:24:00"
+    },
+    {
+        "vehicle_id": "car_265",
+        "latitude": 37.708277,
+        "longitude": -122.483136,
+        "speed": 74,
+        "timestamp": "2024-10-11T12:25:00"
+    },
+    {
+        "vehicle_id": "car_266",
+        "latitude": 37.693498,
+        "longitude": -122.40176,
+        "speed": 33,
+        "timestamp": "2024-10-11T12:26:00"
+    },
+    {
+        "vehicle_id": "car_267",
+        "latitude": 37.776922,
+        "longitude": -122.374719,
+        "speed": 66,
+        "timestamp": "2024-10-11T12:27:00"
+    },
+    {
+        "vehicle_id": "car_268",
+        "latitude": 37.790897,
+        "longitude": -122.407103,
+        "speed": 33,
+        "timestamp": "2024-10-11T12:28:00"
+    },
+    {
+        "vehicle_id": "car_269",
+        "latitude": 37.685461,
+        "longitude": -122.42208,
+        "speed": 59,
+        "timestamp": "2024-10-11T12:29:00"
+    },
+    {
+        "vehicle_id": "car_270",
+        "latitude": 37.835898,
+        "longitude": -122.465436,
+        "speed": 89,
+        "timestamp": "2024-10-11T12:30:00"
+    },
+    {
+        "vehicle_id": "car_271",
+        "latitude": 37.739322,
+        "longitude": -122.392102,
+        "speed": 48,
+        "timestamp": "2024-10-11T12:31:00"
+    },
+    {
+        "vehicle_id": "car_272",
+        "latitude": 37.68661,
+        "longitude": -122.452552,
+        "speed": 59,
+        "timestamp": "2024-10-11T12:32:00"
+    },
+    {
+        "vehicle_id": "car_273",
+        "latitude": 37.871294,
+        "longitude": -122.477432,
+        "speed": 65,
+        "timestamp": "2024-10-11T12:33:00"
+    },
+    {
+        "vehicle_id": "car_274",
+        "latitude": 37.778354,
+        "longitude": -122.43136,
+        "speed": 65,
+        "timestamp": "2024-10-11T12:34:00"
+    },
+    {
+        "vehicle_id": "car_275",
+        "latitude": 37.699375,
+        "longitude": -122.372299,
+        "speed": 62,
+        "timestamp": "2024-10-11T12:35:00"
+    },
+    {
+        "vehicle_id": "car_276",
+        "latitude": 37.69262,
+        "longitude": -122.475278,
+        "speed": 88,
+        "timestamp": "2024-10-11T12:36:00"
+    },
+    {
+        "vehicle_id": "car_277",
+        "latitude": 37.835173,
+        "longitude": -122.366082,
+        "speed": 86,
+        "timestamp": "2024-10-11T12:37:00"
+    },
+    {
+        "vehicle_id": "car_278",
+        "latitude": 37.861523,
+        "longitude": -122.390887,
+        "speed": 46,
+        "timestamp": "2024-10-11T12:38:00"
+    },
+    {
+        "vehicle_id": "car_279",
+        "latitude": 37.802411,
+        "longitude": -122.420167,
+        "speed": 76,
+        "timestamp": "2024-10-11T12:39:00"
+    },
+    {
+        "vehicle_id": "car_280",
+        "latitude": 37.698567,
+        "longitude": -122.437419,
+        "speed": 43,
+        "timestamp": "2024-10-11T12:40:00"
+    },
+    {
+        "vehicle_id": "car_281",
+        "latitude": 37.824344,
+        "longitude": -122.371403,
+        "speed": 55,
+        "timestamp": "2024-10-11T12:41:00"
+    },
+    {
+        "vehicle_id": "car_282",
+        "latitude": 37.792454,
+        "longitude": -122.482505,
+        "speed": 39,
+        "timestamp": "2024-10-11T12:42:00"
+    },
+    {
+        "vehicle_id": "car_283",
+        "latitude": 37.741802,
+        "longitude": -122.514161,
+        "speed": 78,
+        "timestamp": "2024-10-11T12:43:00"
+    },
+    {
+        "vehicle_id": "car_284",
+        "latitude": 37.792062,
+        "longitude": -122.402104,
+        "speed": 35,
+        "timestamp": "2024-10-11T12:44:00"
+    },
+    {
+        "vehicle_id": "car_285",
+        "latitude": 37.778516,
+        "longitude": -122.459655,
+        "speed": 82,
+        "timestamp": "2024-10-11T12:45:00"
+    },
+    {
+        "vehicle_id": "car_286",
+        "latitude": 37.686127,
+        "longitude": -122.348854,
+        "speed": 55,
+        "timestamp": "2024-10-11T12:46:00"
+    },
+    {
+        "vehicle_id": "car_287",
+        "latitude": 37.849446,
+        "longitude": -122.351013,
+        "speed": 66,
+        "timestamp": "2024-10-11T12:47:00"
+    },
+    {
+        "vehicle_id": "car_288",
+        "latitude": 37.771081,
+        "longitude": -122.432364,
+        "speed": 34,
+        "timestamp": "2024-10-11T12:48:00"
+    },
+    {
+        "vehicle_id": "car_289",
+        "latitude": 37.816104,
+        "longitude": -122.393166,
+        "speed": 68,
+        "timestamp": "2024-10-11T12:49:00"
+    },
+    {
+        "vehicle_id": "car_290",
+        "latitude": 37.855683,
+        "longitude": -122.337522,
+        "speed": 53,
+        "timestamp": "2024-10-11T12:50:00"
+    },
+    {
+        "vehicle_id": "car_291",
+        "latitude": 37.820802,
+        "longitude": -122.366297,
+        "speed": 83,
+        "timestamp": "2024-10-11T12:51:00"
+    },
+    {
+        "vehicle_id": "car_292",
+        "latitude": 37.719945,
+        "longitude": -122.49313,
+        "speed": 86,
+        "timestamp": "2024-10-11T12:52:00"
+    },
+    {
+        "vehicle_id": "car_293",
+        "latitude": 37.825175,
+        "longitude": -122.388009,
+        "speed": 65,
+        "timestamp": "2024-10-11T12:53:00"
+    },
+    {
+        "vehicle_id": "car_294",
+        "latitude": 37.677581,
+        "longitude": -122.462851,
+        "speed": 71,
+        "timestamp": "2024-10-11T12:54:00"
+    },
+    {
+        "vehicle_id": "car_295",
+        "latitude": 37.731337,
+        "longitude": -122.467059,
+        "speed": 64,
+        "timestamp": "2024-10-11T12:55:00"
+    },
+    {
+        "vehicle_id": "car_296",
+        "latitude": 37.730022,
+        "longitude": -122.361975,
+        "speed": 39,
+        "timestamp": "2024-10-11T12:56:00"
+    },
+    {
+        "vehicle_id": "car_297",
+        "latitude": 37.72929,
+        "longitude": -122.36752,
+        "speed": 71,
+        "timestamp": "2024-10-11T12:57:00"
+    },
+    {
+        "vehicle_id": "car_298",
+        "latitude": 37.843858,
+        "longitude": -122.465772,
+        "speed": 38,
+        "timestamp": "2024-10-11T12:58:00"
+    },
+    {
+        "vehicle_id": "car_299",
+        "latitude": 37.772414,
+        "longitude": -122.512677,
+        "speed": 49,
+        "timestamp": "2024-10-11T12:59:00"
+    },
+    {
+        "vehicle_id": "car_300",
+        "latitude": 37.79884,
+        "longitude": -122.407001,
+        "speed": 50,
+        "timestamp": "2024-10-11T13:00:00"
+    },
+    {
+        "vehicle_id": "car_301",
+        "latitude": 37.781384,
+        "longitude": -122.437181,
+        "speed": 36,
+        "timestamp": "2024-10-11T13:01:00"
+    },
+    {
+        "vehicle_id": "car_302",
+        "latitude": 37.692185,
+        "longitude": -122.472043,
+        "speed": 61,
+        "timestamp": "2024-10-11T13:02:00"
+    },
+    {
+        "vehicle_id": "car_303",
+        "latitude": 37.807658,
+        "longitude": -122.326721,
+        "speed": 44,
+        "timestamp": "2024-10-11T13:03:00"
+    },
+    {
+        "vehicle_id": "car_304",
+        "latitude": 37.851327,
+        "longitude": -122.44071,
+        "speed": 55,
+        "timestamp": "2024-10-11T13:04:00"
+    },
+    {
+        "vehicle_id": "car_305",
+        "latitude": 37.758659,
+        "longitude": -122.467368,
+        "speed": 86,
+        "timestamp": "2024-10-11T13:05:00"
+    },
+    {
+        "vehicle_id": "car_306",
+        "latitude": 37.773796,
+        "longitude": -122.32349,
+        "speed": 34,
+        "timestamp": "2024-10-11T13:06:00"
+    },
+    {
+        "vehicle_id": "car_307",
+        "latitude": 37.805735,
+        "longitude": -122.47978,
+        "speed": 53,
+        "timestamp": "2024-10-11T13:07:00"
+    },
+    {
+        "vehicle_id": "car_308",
+        "latitude": 37.742553,
+        "longitude": -122.45766,
+        "speed": 50,
+        "timestamp": "2024-10-11T13:08:00"
+    },
+    {
+        "vehicle_id": "car_309",
+        "latitude": 37.796605,
+        "longitude": -122.449499,
+        "speed": 70,
+        "timestamp": "2024-10-11T13:09:00"
+    },
+    {
+        "vehicle_id": "car_310",
+        "latitude": 37.679307,
+        "longitude": -122.375398,
+        "speed": 71,
+        "timestamp": "2024-10-11T13:10:00"
+    },
+    {
+        "vehicle_id": "car_311",
+        "latitude": 37.692668,
+        "longitude": -122.382649,
+        "speed": 62,
+        "timestamp": "2024-10-11T13:11:00"
+    },
+    {
+        "vehicle_id": "car_312",
+        "latitude": 37.779578,
+        "longitude": -122.496446,
+        "speed": 63,
+        "timestamp": "2024-10-11T13:12:00"
+    },
+    {
+        "vehicle_id": "car_313",
+        "latitude": 37.755696,
+        "longitude": -122.410891,
+        "speed": 68,
+        "timestamp": "2024-10-11T13:13:00"
+    },
+    {
+        "vehicle_id": "car_314",
+        "latitude": 37.816467,
+        "longitude": -122.410692,
+        "speed": 35,
+        "timestamp": "2024-10-11T13:14:00"
+    },
+    {
+        "vehicle_id": "car_315",
+        "latitude": 37.720129,
+        "longitude": -122.350016,
+        "speed": 39,
+        "timestamp": "2024-10-11T13:15:00"
+    },
+    {
+        "vehicle_id": "car_316",
+        "latitude": 37.708055,
+        "longitude": -122.33026,
+        "speed": 77,
+        "timestamp": "2024-10-11T13:16:00"
+    },
+    {
+        "vehicle_id": "car_317",
+        "latitude": 37.718118,
+        "longitude": -122.499887,
+        "speed": 45,
+        "timestamp": "2024-10-11T13:17:00"
+    },
+    {
+        "vehicle_id": "car_318",
+        "latitude": 37.757253,
+        "longitude": -122.389205,
+        "speed": 51,
+        "timestamp": "2024-10-11T13:18:00"
+    },
+    {
+        "vehicle_id": "car_319",
+        "latitude": 37.733018,
+        "longitude": -122.362006,
+        "speed": 67,
+        "timestamp": "2024-10-11T13:19:00"
+    },
+    {
+        "vehicle_id": "car_320",
+        "latitude": 37.836181,
+        "longitude": -122.427552,
+        "speed": 80,
+        "timestamp": "2024-10-11T13:20:00"
+    },
+    {
+        "vehicle_id": "car_321",
+        "latitude": 37.832156,
+        "longitude": -122.479127,
+        "speed": 36,
+        "timestamp": "2024-10-11T13:21:00"
+    },
+    {
+        "vehicle_id": "car_322",
+        "latitude": 37.849327,
+        "longitude": -122.41043,
+        "speed": 33,
+        "timestamp": "2024-10-11T13:22:00"
+    },
+    {
+        "vehicle_id": "car_323",
+        "latitude": 37.82625,
+        "longitude": -122.415523,
+        "speed": 85,
+        "timestamp": "2024-10-11T13:23:00"
+    },
+    {
+        "vehicle_id": "car_324",
+        "latitude": 37.700151,
+        "longitude": -122.387474,
+        "speed": 81,
+        "timestamp": "2024-10-11T13:24:00"
+    },
+    {
+        "vehicle_id": "car_325",
+        "latitude": 37.849016,
+        "longitude": -122.471641,
+        "speed": 70,
+        "timestamp": "2024-10-11T13:25:00"
+    },
+    {
+        "vehicle_id": "car_326",
+        "latitude": 37.786936,
+        "longitude": -122.369254,
+        "speed": 78,
+        "timestamp": "2024-10-11T13:26:00"
+    },
+    {
+        "vehicle_id": "car_327",
+        "latitude": 37.680333,
+        "longitude": -122.506359,
+        "speed": 32,
+        "timestamp": "2024-10-11T13:27:00"
+    },
+    {
+        "vehicle_id": "car_328",
+        "latitude": 37.856744,
+        "longitude": -122.41166,
+        "speed": 81,
+        "timestamp": "2024-10-11T13:28:00"
+    },
+    {
+        "vehicle_id": "car_329",
+        "latitude": 37.834569,
+        "longitude": -122.445013,
+        "speed": 52,
+        "timestamp": "2024-10-11T13:29:00"
+    },
+    {
+        "vehicle_id": "car_330",
+        "latitude": 37.839321,
+        "longitude": -122.443316,
+        "speed": 48,
+        "timestamp": "2024-10-11T13:30:00"
+    },
+    {
+        "vehicle_id": "car_331",
+        "latitude": 37.763114,
+        "longitude": -122.480278,
+        "speed": 41,
+        "timestamp": "2024-10-11T13:31:00"
+    },
+    {
+        "vehicle_id": "car_332",
+        "latitude": 37.779566,
+        "longitude": -122.461972,
+        "speed": 57,
+        "timestamp": "2024-10-11T13:32:00"
+    },
+    {
+        "vehicle_id": "car_333",
+        "latitude": 37.826396,
+        "longitude": -122.464112,
+        "speed": 37,
+        "timestamp": "2024-10-11T13:33:00"
+    },
+    {
+        "vehicle_id": "car_334",
+        "latitude": 37.834483,
+        "longitude": -122.440206,
+        "speed": 77,
+        "timestamp": "2024-10-11T13:34:00"
+    },
+    {
+        "vehicle_id": "car_335",
+        "latitude": 37.854292,
+        "longitude": -122.415362,
+        "speed": 89,
+        "timestamp": "2024-10-11T13:35:00"
+    },
+    {
+        "vehicle_id": "car_336",
+        "latitude": 37.81408,
+        "longitude": -122.360748,
+        "speed": 36,
+        "timestamp": "2024-10-11T13:36:00"
+    },
+    {
+        "vehicle_id": "car_337",
+        "latitude": 37.797595,
+        "longitude": -122.44678,
+        "speed": 56,
+        "timestamp": "2024-10-11T13:37:00"
+    },
+    {
+        "vehicle_id": "car_338",
+        "latitude": 37.730281,
+        "longitude": -122.322696,
+        "speed": 62,
+        "timestamp": "2024-10-11T13:38:00"
+    },
+    {
+        "vehicle_id": "car_339",
+        "latitude": 37.794523,
+        "longitude": -122.512723,
+        "speed": 37,
+        "timestamp": "2024-10-11T13:39:00"
+    },
+    {
+        "vehicle_id": "car_340",
+        "latitude": 37.853698,
+        "longitude": -122.388541,
+        "speed": 72,
+        "timestamp": "2024-10-11T13:40:00"
+    },
+    {
+        "vehicle_id": "car_341",
+        "latitude": 37.737532,
+        "longitude": -122.359681,
+        "speed": 75,
+        "timestamp": "2024-10-11T13:41:00"
+    },
+    {
+        "vehicle_id": "car_342",
+        "latitude": 37.691593,
+        "longitude": -122.342917,
+        "speed": 41,
+        "timestamp": "2024-10-11T13:42:00"
+    },
+    {
+        "vehicle_id": "car_343",
+        "latitude": 37.822846,
+        "longitude": -122.455467,
+        "speed": 30,
+        "timestamp": "2024-10-11T13:43:00"
+    },
+    {
+        "vehicle_id": "car_344",
+        "latitude": 37.758452,
+        "longitude": -122.322578,
+        "speed": 50,
+        "timestamp": "2024-10-11T13:44:00"
+    },
+    {
+        "vehicle_id": "car_345",
+        "latitude": 37.819937,
+        "longitude": -122.454798,
+        "speed": 57,
+        "timestamp": "2024-10-11T13:45:00"
+    },
+    {
+        "vehicle_id": "car_346",
+        "latitude": 37.851286,
+        "longitude": -122.433902,
+        "speed": 84,
+        "timestamp": "2024-10-11T13:46:00"
+    },
+    {
+        "vehicle_id": "car_347",
+        "latitude": 37.700865,
+        "longitude": -122.382028,
+        "speed": 32,
+        "timestamp": "2024-10-11T13:47:00"
+    },
+    {
+        "vehicle_id": "car_348",
+        "latitude": 37.78038,
+        "longitude": -122.375529,
+        "speed": 63,
+        "timestamp": "2024-10-11T13:48:00"
+    },
+    {
+        "vehicle_id": "car_349",
+        "latitude": 37.716851,
+        "longitude": -122.443595,
+        "speed": 64,
+        "timestamp": "2024-10-11T13:49:00"
+    },
+    {
+        "vehicle_id": "car_350",
+        "latitude": 37.712382,
+        "longitude": -122.347765,
+        "speed": 81,
+        "timestamp": "2024-10-11T13:50:00"
+    },
+    {
+        "vehicle_id": "car_351",
+        "latitude": 37.858542,
+        "longitude": -122.49725,
+        "speed": 89,
+        "timestamp": "2024-10-11T13:51:00"
+    },
+    {
+        "vehicle_id": "car_352",
+        "latitude": 37.73777,
+        "longitude": -122.425166,
+        "speed": 76,
+        "timestamp": "2024-10-11T13:52:00"
+    },
+    {
+        "vehicle_id": "car_353",
+        "latitude": 37.805234,
+        "longitude": -122.456588,
+        "speed": 53,
+        "timestamp": "2024-10-11T13:53:00"
+    },
+    {
+        "vehicle_id": "car_354",
+        "latitude": 37.773742,
+        "longitude": -122.35375,
+        "speed": 57,
+        "timestamp": "2024-10-11T13:54:00"
+    },
+    {
+        "vehicle_id": "car_355",
+        "latitude": 37.779987,
+        "longitude": -122.470532,
+        "speed": 57,
+        "timestamp": "2024-10-11T13:55:00"
+    },
+    {
+        "vehicle_id": "car_356",
+        "latitude": 37.840096,
+        "longitude": -122.499273,
+        "speed": 50,
+        "timestamp": "2024-10-11T13:56:00"
+    },
+    {
+        "vehicle_id": "car_357",
+        "latitude": 37.758924,
+        "longitude": -122.338328,
+        "speed": 80,
+        "timestamp": "2024-10-11T13:57:00"
+    },
+    {
+        "vehicle_id": "car_358",
+        "latitude": 37.76497,
+        "longitude": -122.369635,
+        "speed": 86,
+        "timestamp": "2024-10-11T13:58:00"
+    },
+    {
+        "vehicle_id": "car_359",
+        "latitude": 37.762001,
+        "longitude": -122.40395,
+        "speed": 46,
+        "timestamp": "2024-10-11T13:59:00"
+    },
+    {
+        "vehicle_id": "car_360",
+        "latitude": 37.84319,
+        "longitude": -122.425143,
+        "speed": 44,
+        "timestamp": "2024-10-11T14:00:00"
+    },
+    {
+        "vehicle_id": "car_361",
+        "latitude": 37.725695,
+        "longitude": -122.513177,
+        "speed": 45,
+        "timestamp": "2024-10-11T14:01:00"
+    },
+    {
+        "vehicle_id": "car_362",
+        "latitude": 37.696169,
+        "longitude": -122.456416,
+        "speed": 85,
+        "timestamp": "2024-10-11T14:02:00"
+    },
+    {
+        "vehicle_id": "car_363",
+        "latitude": 37.688828,
+        "longitude": -122.484424,
+        "speed": 38,
+        "timestamp": "2024-10-11T14:03:00"
+    },
+    {
+        "vehicle_id": "car_364",
+        "latitude": 37.805956,
+        "longitude": -122.321051,
+        "speed": 84,
+        "timestamp": "2024-10-11T14:04:00"
+    },
+    {
+        "vehicle_id": "car_365",
+        "latitude": 37.730755,
+        "longitude": -122.390824,
+        "speed": 33,
+        "timestamp": "2024-10-11T14:05:00"
+    },
+    {
+        "vehicle_id": "car_366",
+        "latitude": 37.848177,
+        "longitude": -122.476294,
+        "speed": 44,
+        "timestamp": "2024-10-11T14:06:00"
+    },
+    {
+        "vehicle_id": "car_367",
+        "latitude": 37.717429,
+        "longitude": -122.512762,
+        "speed": 82,
+        "timestamp": "2024-10-11T14:07:00"
+    },
+    {
+        "vehicle_id": "car_368",
+        "latitude": 37.756561,
+        "longitude": -122.36755,
+        "speed": 65,
+        "timestamp": "2024-10-11T14:08:00"
+    },
+    {
+        "vehicle_id": "car_369",
+        "latitude": 37.849141,
+        "longitude": -122.366187,
+        "speed": 64,
+        "timestamp": "2024-10-11T14:09:00"
+    },
+    {
+        "vehicle_id": "car_370",
+        "latitude": 37.686719,
+        "longitude": -122.339631,
+        "speed": 80,
+        "timestamp": "2024-10-11T14:10:00"
+    },
+    {
+        "vehicle_id": "car_371",
+        "latitude": 37.856339,
+        "longitude": -122.385254,
+        "speed": 52,
+        "timestamp": "2024-10-11T14:11:00"
+    },
+    {
+        "vehicle_id": "car_372",
+        "latitude": 37.708716,
+        "longitude": -122.441448,
+        "speed": 75,
+        "timestamp": "2024-10-11T14:12:00"
+    },
+    {
+        "vehicle_id": "car_373",
+        "latitude": 37.766972,
+        "longitude": -122.346487,
+        "speed": 37,
+        "timestamp": "2024-10-11T14:13:00"
+    },
+    {
+        "vehicle_id": "car_374",
+        "latitude": 37.70067,
+        "longitude": -122.436848,
+        "speed": 43,
+        "timestamp": "2024-10-11T14:14:00"
+    },
+    {
+        "vehicle_id": "car_375",
+        "latitude": 37.770714,
+        "longitude": -122.5158,
+        "speed": 69,
+        "timestamp": "2024-10-11T14:15:00"
+    },
+    {
+        "vehicle_id": "car_376",
+        "latitude": 37.822881,
+        "longitude": -122.335785,
+        "speed": 52,
+        "timestamp": "2024-10-11T14:16:00"
+    },
+    {
+        "vehicle_id": "car_377",
+        "latitude": 37.700391,
+        "longitude": -122.377862,
+        "speed": 75,
+        "timestamp": "2024-10-11T14:17:00"
+    },
+    {
+        "vehicle_id": "car_378",
+        "latitude": 37.857054,
+        "longitude": -122.368608,
+        "speed": 38,
+        "timestamp": "2024-10-11T14:18:00"
+    },
+    {
+        "vehicle_id": "car_379",
+        "latitude": 37.842792,
+        "longitude": -122.32304,
+        "speed": 43,
+        "timestamp": "2024-10-11T14:19:00"
+    },
+    {
+        "vehicle_id": "car_380",
+        "latitude": 37.820234,
+        "longitude": -122.45845,
+        "speed": 84,
+        "timestamp": "2024-10-11T14:20:00"
+    },
+    {
+        "vehicle_id": "car_381",
+        "latitude": 37.781435,
+        "longitude": -122.392382,
+        "speed": 81,
+        "timestamp": "2024-10-11T14:21:00"
+    },
+    {
+        "vehicle_id": "car_382",
+        "latitude": 37.697416,
+        "longitude": -122.378663,
+        "speed": 65,
+        "timestamp": "2024-10-11T14:22:00"
+    },
+    {
+        "vehicle_id": "car_383",
+        "latitude": 37.694207,
+        "longitude": -122.471021,
+        "speed": 62,
+        "timestamp": "2024-10-11T14:23:00"
+    },
+    {
+        "vehicle_id": "car_384",
+        "latitude": 37.768654,
+        "longitude": -122.459147,
+        "speed": 40,
+        "timestamp": "2024-10-11T14:24:00"
+    },
+    {
+        "vehicle_id": "car_385",
+        "latitude": 37.689748,
+        "longitude": -122.47413,
+        "speed": 43,
+        "timestamp": "2024-10-11T14:25:00"
+    },
+    {
+        "vehicle_id": "car_386",
+        "latitude": 37.823539,
+        "longitude": -122.509771,
+        "speed": 33,
+        "timestamp": "2024-10-11T14:26:00"
+    },
+    {
+        "vehicle_id": "car_387",
+        "latitude": 37.850348,
+        "longitude": -122.343948,
+        "speed": 75,
+        "timestamp": "2024-10-11T14:27:00"
+    },
+    {
+        "vehicle_id": "car_388",
+        "latitude": 37.742981,
+        "longitude": -122.321594,
+        "speed": 84,
+        "timestamp": "2024-10-11T14:28:00"
+    },
+    {
+        "vehicle_id": "car_389",
+        "latitude": 37.781163,
+        "longitude": -122.35177,
+        "speed": 77,
+        "timestamp": "2024-10-11T14:29:00"
+    },
+    {
+        "vehicle_id": "car_390",
+        "latitude": 37.681834,
+        "longitude": -122.402839,
+        "speed": 75,
+        "timestamp": "2024-10-11T14:30:00"
+    },
+    {
+        "vehicle_id": "car_391",
+        "latitude": 37.846039,
+        "longitude": -122.415111,
+        "speed": 34,
+        "timestamp": "2024-10-11T14:31:00"
+    },
+    {
+        "vehicle_id": "car_392",
+        "latitude": 37.725361,
+        "longitude": -122.475355,
+        "speed": 73,
+        "timestamp": "2024-10-11T14:32:00"
+    },
+    {
+        "vehicle_id": "car_393",
+        "latitude": 37.697887,
+        "longitude": -122.500629,
+        "speed": 38,
+        "timestamp": "2024-10-11T14:33:00"
+    },
+    {
+        "vehicle_id": "car_394",
+        "latitude": 37.80874,
+        "longitude": -122.353543,
+        "speed": 53,
+        "timestamp": "2024-10-11T14:34:00"
+    },
+    {
+        "vehicle_id": "car_395",
+        "latitude": 37.866065,
+        "longitude": -122.514372,
+        "speed": 52,
+        "timestamp": "2024-10-11T14:35:00"
+    },
+    {
+        "vehicle_id": "car_396",
+        "latitude": 37.760985,
+        "longitude": -122.456011,
+        "speed": 41,
+        "timestamp": "2024-10-11T14:36:00"
+    },
+    {
+        "vehicle_id": "car_397",
+        "latitude": 37.767787,
+        "longitude": -122.491895,
+        "speed": 48,
+        "timestamp": "2024-10-11T14:37:00"
+    },
+    {
+        "vehicle_id": "car_398",
+        "latitude": 37.853405,
+        "longitude": -122.430724,
+        "speed": 69,
+        "timestamp": "2024-10-11T14:38:00"
+    },
+    {
+        "vehicle_id": "car_399",
+        "latitude": 37.864522,
+        "longitude": -122.430351,
+        "speed": 86,
+        "timestamp": "2024-10-11T14:39:00"
+    },
+    {
+        "vehicle_id": "car_400",
+        "latitude": 37.815427,
+        "longitude": -122.471913,
+        "speed": 36,
+        "timestamp": "2024-10-11T14:40:00"
+    },
+    {
+        "vehicle_id": "car_401",
+        "latitude": 37.701239,
+        "longitude": -122.472563,
+        "speed": 41,
+        "timestamp": "2024-10-11T14:41:00"
+    },
+    {
+        "vehicle_id": "car_402",
+        "latitude": 37.772433,
+        "longitude": -122.388955,
+        "speed": 31,
+        "timestamp": "2024-10-11T14:42:00"
+    },
+    {
+        "vehicle_id": "car_403",
+        "latitude": 37.729214,
+        "longitude": -122.424821,
+        "speed": 70,
+        "timestamp": "2024-10-11T14:43:00"
+    },
+    {
+        "vehicle_id": "car_404",
+        "latitude": 37.776153,
+        "longitude": -122.392579,
+        "speed": 35,
+        "timestamp": "2024-10-11T14:44:00"
+    },
+    {
+        "vehicle_id": "car_405",
+        "latitude": 37.853196,
+        "longitude": -122.518816,
+        "speed": 41,
+        "timestamp": "2024-10-11T14:45:00"
+    },
+    {
+        "vehicle_id": "car_406",
+        "latitude": 37.795714,
+        "longitude": -122.337924,
+        "speed": 48,
+        "timestamp": "2024-10-11T14:46:00"
+    },
+    {
+        "vehicle_id": "car_407",
+        "latitude": 37.730263,
+        "longitude": -122.325093,
+        "speed": 58,
+        "timestamp": "2024-10-11T14:47:00"
+    },
+    {
+        "vehicle_id": "car_408",
+        "latitude": 37.769494,
+        "longitude": -122.394896,
+        "speed": 43,
+        "timestamp": "2024-10-11T14:48:00"
+    },
+    {
+        "vehicle_id": "car_409",
+        "latitude": 37.797056,
+        "longitude": -122.463263,
+        "speed": 85,
+        "timestamp": "2024-10-11T14:49:00"
+    },
+    {
+        "vehicle_id": "car_410",
+        "latitude": 37.793073,
+        "longitude": -122.411999,
+        "speed": 78,
+        "timestamp": "2024-10-11T14:50:00"
+    },
+    {
+        "vehicle_id": "car_411",
+        "latitude": 37.676433,
+        "longitude": -122.475586,
+        "speed": 72,
+        "timestamp": "2024-10-11T14:51:00"
+    },
+    {
+        "vehicle_id": "car_412",
+        "latitude": 37.843685,
+        "longitude": -122.462418,
+        "speed": 68,
+        "timestamp": "2024-10-11T14:52:00"
+    },
+    {
+        "vehicle_id": "car_413",
+        "latitude": 37.835417,
+        "longitude": -122.40499,
+        "speed": 71,
+        "timestamp": "2024-10-11T14:53:00"
+    },
+    {
+        "vehicle_id": "car_414",
+        "latitude": 37.733598,
+        "longitude": -122.333049,
+        "speed": 38,
+        "timestamp": "2024-10-11T14:54:00"
+    },
+    {
+        "vehicle_id": "car_415",
+        "latitude": 37.838236,
+        "longitude": -122.462488,
+        "speed": 46,
+        "timestamp": "2024-10-11T14:55:00"
+    },
+    {
+        "vehicle_id": "car_416",
+        "latitude": 37.697668,
+        "longitude": -122.450355,
+        "speed": 68,
+        "timestamp": "2024-10-11T14:56:00"
+    },
+    {
+        "vehicle_id": "car_417",
+        "latitude": 37.789856,
+        "longitude": -122.513466,
+        "speed": 40,
+        "timestamp": "2024-10-11T14:57:00"
+    },
+    {
+        "vehicle_id": "car_418",
+        "latitude": 37.683871,
+        "longitude": -122.429281,
+        "speed": 75,
+        "timestamp": "2024-10-11T14:58:00"
+    },
+    {
+        "vehicle_id": "car_419",
+        "latitude": 37.707941,
+        "longitude": -122.441426,
+        "speed": 48,
+        "timestamp": "2024-10-11T14:59:00"
+    },
+    {
+        "vehicle_id": "car_420",
+        "latitude": 37.757104,
+        "longitude": -122.337878,
+        "speed": 82,
+        "timestamp": "2024-10-11T15:00:00"
+    },
+    {
+        "vehicle_id": "car_421",
+        "latitude": 37.726535,
+        "longitude": -122.384478,
+        "speed": 62,
+        "timestamp": "2024-10-11T15:01:00"
+    },
+    {
+        "vehicle_id": "car_422",
+        "latitude": 37.839658,
+        "longitude": -122.328388,
+        "speed": 87,
+        "timestamp": "2024-10-11T15:02:00"
+    },
+    {
+        "vehicle_id": "car_423",
+        "latitude": 37.819179,
+        "longitude": -122.346824,
+        "speed": 75,
+        "timestamp": "2024-10-11T15:03:00"
+    },
+    {
+        "vehicle_id": "car_424",
+        "latitude": 37.685127,
+        "longitude": -122.467879,
+        "speed": 52,
+        "timestamp": "2024-10-11T15:04:00"
+    },
+    {
+        "vehicle_id": "car_425",
+        "latitude": 37.683012,
+        "longitude": -122.34508,
+        "speed": 47,
+        "timestamp": "2024-10-11T15:05:00"
+    },
+    {
+        "vehicle_id": "car_426",
+        "latitude": 37.697798,
+        "longitude": -122.442632,
+        "speed": 65,
+        "timestamp": "2024-10-11T15:06:00"
+    },
+    {
+        "vehicle_id": "car_427",
+        "latitude": 37.748711,
+        "longitude": -122.495195,
+        "speed": 57,
+        "timestamp": "2024-10-11T15:07:00"
+    },
+    {
+        "vehicle_id": "car_428",
+        "latitude": 37.784817,
+        "longitude": -122.339336,
+        "speed": 41,
+        "timestamp": "2024-10-11T15:08:00"
+    },
+    {
+        "vehicle_id": "car_429",
+        "latitude": 37.690936,
+        "longitude": -122.448446,
+        "speed": 68,
+        "timestamp": "2024-10-11T15:09:00"
+    },
+    {
+        "vehicle_id": "car_430",
+        "latitude": 37.757435,
+        "longitude": -122.390181,
+        "speed": 39,
+        "timestamp": "2024-10-11T15:10:00"
+    },
+    {
+        "vehicle_id": "car_431",
+        "latitude": 37.747284,
+        "longitude": -122.400668,
+        "speed": 39,
+        "timestamp": "2024-10-11T15:11:00"
+    },
+    {
+        "vehicle_id": "car_432",
+        "latitude": 37.775331,
+        "longitude": -122.491626,
+        "speed": 38,
+        "timestamp": "2024-10-11T15:12:00"
+    },
+    {
+        "vehicle_id": "car_433",
+        "latitude": 37.797415,
+        "longitude": -122.34466,
+        "speed": 49,
+        "timestamp": "2024-10-11T15:13:00"
+    },
+    {
+        "vehicle_id": "car_434",
+        "latitude": 37.802475,
+        "longitude": -122.371204,
+        "speed": 58,
+        "timestamp": "2024-10-11T15:14:00"
+    },
+    {
+        "vehicle_id": "car_435",
+        "latitude": 37.688189,
+        "longitude": -122.412607,
+        "speed": 69,
+        "timestamp": "2024-10-11T15:15:00"
+    },
+    {
+        "vehicle_id": "car_436",
+        "latitude": 37.838903,
+        "longitude": -122.380424,
+        "speed": 41,
+        "timestamp": "2024-10-11T15:16:00"
+    },
+    {
+        "vehicle_id": "car_437",
+        "latitude": 37.733908,
+        "longitude": -122.4222,
+        "speed": 74,
+        "timestamp": "2024-10-11T15:17:00"
+    },
+    {
+        "vehicle_id": "car_438",
+        "latitude": 37.754774,
+        "longitude": -122.337373,
+        "speed": 78,
+        "timestamp": "2024-10-11T15:18:00"
+    },
+    {
+        "vehicle_id": "car_439",
+        "latitude": 37.71811,
+        "longitude": -122.426078,
+        "speed": 53,
+        "timestamp": "2024-10-11T15:19:00"
+    },
+    {
+        "vehicle_id": "car_440",
+        "latitude": 37.805358,
+        "longitude": -122.350279,
+        "speed": 83,
+        "timestamp": "2024-10-11T15:20:00"
+    },
+    {
+        "vehicle_id": "car_441",
+        "latitude": 37.845268,
+        "longitude": -122.43862,
+        "speed": 74,
+        "timestamp": "2024-10-11T15:21:00"
+    },
+    {
+        "vehicle_id": "car_442",
+        "latitude": 37.729976,
+        "longitude": -122.458137,
+        "speed": 87,
+        "timestamp": "2024-10-11T15:22:00"
+    },
+    {
+        "vehicle_id": "car_443",
+        "latitude": 37.792957,
+        "longitude": -122.474144,
+        "speed": 61,
+        "timestamp": "2024-10-11T15:23:00"
+    },
+    {
+        "vehicle_id": "car_444",
+        "latitude": 37.839384,
+        "longitude": -122.347888,
+        "speed": 44,
+        "timestamp": "2024-10-11T15:24:00"
+    },
+    {
+        "vehicle_id": "car_445",
+        "latitude": 37.82677,
+        "longitude": -122.499625,
+        "speed": 40,
+        "timestamp": "2024-10-11T15:25:00"
+    },
+    {
+        "vehicle_id": "car_446",
+        "latitude": 37.79134,
+        "longitude": -122.445166,
+        "speed": 86,
+        "timestamp": "2024-10-11T15:26:00"
+    },
+    {
+        "vehicle_id": "car_447",
+        "latitude": 37.680384,
+        "longitude": -122.440805,
+        "speed": 53,
+        "timestamp": "2024-10-11T15:27:00"
+    },
+    {
+        "vehicle_id": "car_448",
+        "latitude": 37.749811,
+        "longitude": -122.486028,
+        "speed": 66,
+        "timestamp": "2024-10-11T15:28:00"
+    },
+    {
+        "vehicle_id": "car_449",
+        "latitude": 37.804048,
+        "longitude": -122.510444,
+        "speed": 30,
+        "timestamp": "2024-10-11T15:29:00"
+    },
+    {
+        "vehicle_id": "car_450",
+        "latitude": 37.744075,
+        "longitude": -122.488508,
+        "speed": 58,
+        "timestamp": "2024-10-11T15:30:00"
+    },
+    {
+        "vehicle_id": "car_451",
+        "latitude": 37.778348,
+        "longitude": -122.443618,
+        "speed": 64,
+        "timestamp": "2024-10-11T15:31:00"
+    },
+    {
+        "vehicle_id": "car_452",
+        "latitude": 37.743021,
+        "longitude": -122.505058,
+        "speed": 40,
+        "timestamp": "2024-10-11T15:32:00"
+    },
+    {
+        "vehicle_id": "car_453",
+        "latitude": 37.737143,
+        "longitude": -122.383976,
+        "speed": 34,
+        "timestamp": "2024-10-11T15:33:00"
+    },
+    {
+        "vehicle_id": "car_454",
+        "latitude": 37.781117,
+        "longitude": -122.351055,
+        "speed": 85,
+        "timestamp": "2024-10-11T15:34:00"
+    },
+    {
+        "vehicle_id": "car_455",
+        "latitude": 37.872507,
+        "longitude": -122.4286,
+        "speed": 33,
+        "timestamp": "2024-10-11T15:35:00"
+    },
+    {
+        "vehicle_id": "car_456",
+        "latitude": 37.708372,
+        "longitude": -122.324995,
+        "speed": 59,
+        "timestamp": "2024-10-11T15:36:00"
+    },
+    {
+        "vehicle_id": "car_457",
+        "latitude": 37.680407,
+        "longitude": -122.418309,
+        "speed": 40,
+        "timestamp": "2024-10-11T15:37:00"
+    },
+    {
+        "vehicle_id": "car_458",
+        "latitude": 37.702058,
+        "longitude": -122.49954,
+        "speed": 75,
+        "timestamp": "2024-10-11T15:38:00"
+    },
+    {
+        "vehicle_id": "car_459",
+        "latitude": 37.681091,
+        "longitude": -122.441803,
+        "speed": 71,
+        "timestamp": "2024-10-11T15:39:00"
+    },
+    {
+        "vehicle_id": "car_460",
+        "latitude": 37.753987,
+        "longitude": -122.456759,
+        "speed": 44,
+        "timestamp": "2024-10-11T15:40:00"
+    },
+    {
+        "vehicle_id": "car_461",
+        "latitude": 37.77247,
+        "longitude": -122.49339,
+        "speed": 87,
+        "timestamp": "2024-10-11T15:41:00"
+    },
+    {
+        "vehicle_id": "car_462",
+        "latitude": 37.698128,
+        "longitude": -122.328216,
+        "speed": 66,
+        "timestamp": "2024-10-11T15:42:00"
+    },
+    {
+        "vehicle_id": "car_463",
+        "latitude": 37.769701,
+        "longitude": -122.430574,
+        "speed": 47,
+        "timestamp": "2024-10-11T15:43:00"
+    },
+    {
+        "vehicle_id": "car_464",
+        "latitude": 37.840241,
+        "longitude": -122.322597,
+        "speed": 42,
+        "timestamp": "2024-10-11T15:44:00"
+    },
+    {
+        "vehicle_id": "car_465",
+        "latitude": 37.796275,
+        "longitude": -122.489083,
+        "speed": 46,
+        "timestamp": "2024-10-11T15:45:00"
+    },
+    {
+        "vehicle_id": "car_466",
+        "latitude": 37.752002,
+        "longitude": -122.451323,
+        "speed": 33,
+        "timestamp": "2024-10-11T15:46:00"
+    },
+    {
+        "vehicle_id": "car_467",
+        "latitude": 37.870922,
+        "longitude": -122.423824,
+        "speed": 42,
+        "timestamp": "2024-10-11T15:47:00"
+    },
+    {
+        "vehicle_id": "car_468",
+        "latitude": 37.783241,
+        "longitude": -122.36702,
+        "speed": 88,
+        "timestamp": "2024-10-11T15:48:00"
+    },
+    {
+        "vehicle_id": "car_469",
+        "latitude": 37.84261,
+        "longitude": -122.448163,
+        "speed": 63,
+        "timestamp": "2024-10-11T15:49:00"
+    },
+    {
+        "vehicle_id": "car_470",
+        "latitude": 37.726767,
+        "longitude": -122.480475,
+        "speed": 78,
+        "timestamp": "2024-10-11T15:50:00"
+    },
+    {
+        "vehicle_id": "car_471",
+        "latitude": 37.776389,
+        "longitude": -122.383923,
+        "speed": 50,
+        "timestamp": "2024-10-11T15:51:00"
+    },
+    {
+        "vehicle_id": "car_472",
+        "latitude": 37.868183,
+        "longitude": -122.407858,
+        "speed": 80,
+        "timestamp": "2024-10-11T15:52:00"
+    },
+    {
+        "vehicle_id": "car_473",
+        "latitude": 37.707948,
+        "longitude": -122.402803,
+        "speed": 64,
+        "timestamp": "2024-10-11T15:53:00"
+    },
+    {
+        "vehicle_id": "car_474",
+        "latitude": 37.705004,
+        "longitude": -122.356049,
+        "speed": 65,
+        "timestamp": "2024-10-11T15:54:00"
+    },
+    {
+        "vehicle_id": "car_475",
+        "latitude": 37.755256,
+        "longitude": -122.32063,
+        "speed": 89,
+        "timestamp": "2024-10-11T15:55:00"
+    },
+    {
+        "vehicle_id": "car_476",
+        "latitude": 37.734998,
+        "longitude": -122.454235,
+        "speed": 53,
+        "timestamp": "2024-10-11T15:56:00"
+    },
+    {
+        "vehicle_id": "car_477",
+        "latitude": 37.799032,
+        "longitude": -122.479138,
+        "speed": 50,
+        "timestamp": "2024-10-11T15:57:00"
+    },
+    {
+        "vehicle_id": "car_478",
+        "latitude": 37.704497,
+        "longitude": -122.348888,
+        "speed": 66,
+        "timestamp": "2024-10-11T15:58:00"
+    },
+    {
+        "vehicle_id": "car_479",
+        "latitude": 37.783505,
+        "longitude": -122.47385,
+        "speed": 56,
+        "timestamp": "2024-10-11T15:59:00"
+    },
+    {
+        "vehicle_id": "car_480",
+        "latitude": 37.856791,
+        "longitude": -122.374971,
+        "speed": 74,
+        "timestamp": "2024-10-11T16:00:00"
+    },
+    {
+        "vehicle_id": "car_481",
+        "latitude": 37.766593,
+        "longitude": -122.511804,
+        "speed": 83,
+        "timestamp": "2024-10-11T16:01:00"
+    },
+    {
+        "vehicle_id": "car_482",
+        "latitude": 37.833002,
+        "longitude": -122.494436,
+        "speed": 46,
+        "timestamp": "2024-10-11T16:02:00"
+    },
+    {
+        "vehicle_id": "car_483",
+        "latitude": 37.811051,
+        "longitude": -122.426044,
+        "speed": 87,
+        "timestamp": "2024-10-11T16:03:00"
+    },
+    {
+        "vehicle_id": "car_484",
+        "latitude": 37.863708,
+        "longitude": -122.489641,
+        "speed": 48,
+        "timestamp": "2024-10-11T16:04:00"
+    },
+    {
+        "vehicle_id": "car_485",
+        "latitude": 37.77748,
+        "longitude": -122.500666,
+        "speed": 81,
+        "timestamp": "2024-10-11T16:05:00"
+    },
+    {
+        "vehicle_id": "car_486",
+        "latitude": 37.84761,
+        "longitude": -122.401654,
+        "speed": 87,
+        "timestamp": "2024-10-11T16:06:00"
+    },
+    {
+        "vehicle_id": "car_487",
+        "latitude": 37.773184,
+        "longitude": -122.414911,
+        "speed": 53,
+        "timestamp": "2024-10-11T16:07:00"
+    },
+    {
+        "vehicle_id": "car_488",
+        "latitude": 37.763145,
+        "longitude": -122.398249,
+        "speed": 86,
+        "timestamp": "2024-10-11T16:08:00"
+    },
+    {
+        "vehicle_id": "car_489",
+        "latitude": 37.747354,
+        "longitude": -122.374257,
+        "speed": 82,
+        "timestamp": "2024-10-11T16:09:00"
+    },
+    {
+        "vehicle_id": "car_490",
+        "latitude": 37.871048,
+        "longitude": -122.437883,
+        "speed": 80,
+        "timestamp": "2024-10-11T16:10:00"
+    },
+    {
+        "vehicle_id": "car_491",
+        "latitude": 37.795323,
+        "longitude": -122.401119,
+        "speed": 36,
+        "timestamp": "2024-10-11T16:11:00"
+    },
+    {
+        "vehicle_id": "car_492",
+        "latitude": 37.866109,
+        "longitude": -122.479305,
+        "speed": 38,
+        "timestamp": "2024-10-11T16:12:00"
+    },
+    {
+        "vehicle_id": "car_493",
+        "latitude": 37.686794,
+        "longitude": -122.518766,
+        "speed": 46,
+        "timestamp": "2024-10-11T16:13:00"
+    },
+    {
+        "vehicle_id": "car_494",
+        "latitude": 37.844294,
+        "longitude": -122.340782,
+        "speed": 48,
+        "timestamp": "2024-10-11T16:14:00"
+    },
+    {
+        "vehicle_id": "car_495",
+        "latitude": 37.73728,
+        "longitude": -122.46819,
+        "speed": 34,
+        "timestamp": "2024-10-11T16:15:00"
+    },
+    {
+        "vehicle_id": "car_496",
+        "latitude": 37.776986,
+        "longitude": -122.394081,
+        "speed": 60,
+        "timestamp": "2024-10-11T16:16:00"
+    },
+    {
+        "vehicle_id": "car_497",
+        "latitude": 37.821706,
+        "longitude": -122.366881,
+        "speed": 51,
+        "timestamp": "2024-10-11T16:17:00"
+    },
+    {
+        "vehicle_id": "car_498",
+        "latitude": 37.812444,
+        "longitude": -122.374859,
+        "speed": 83,
+        "timestamp": "2024-10-11T16:18:00"
+    },
+    {
+        "vehicle_id": "car_499",
+        "latitude": 37.780345,
+        "longitude": -122.392891,
+        "speed": 50,
+        "timestamp": "2024-10-11T16:19:00"
+    },
+    {
+        "vehicle_id": "car_500",
+        "latitude": 37.746643,
+        "longitude": -122.358513,
+        "speed": 53,
+        "timestamp": "2024-10-11T16:20:00"
+    },
+    {
+        "vehicle_id": "car_501",
+        "latitude": 37.82151,
+        "longitude": -122.413684,
+        "speed": 59,
+        "timestamp": "2024-10-11T16:21:00"
+    },
+    {
+        "vehicle_id": "car_502",
+        "latitude": 37.676673,
+        "longitude": -122.319836,
+        "speed": 37,
+        "timestamp": "2024-10-11T16:22:00"
+    },
+    {
+        "vehicle_id": "car_503",
+        "latitude": 37.87383,
+        "longitude": -122.501438,
+        "speed": 59,
+        "timestamp": "2024-10-11T16:23:00"
+    },
+    {
+        "vehicle_id": "car_504",
+        "latitude": 37.677763,
+        "longitude": -122.371826,
+        "speed": 54,
+        "timestamp": "2024-10-11T16:24:00"
+    },
+    {
+        "vehicle_id": "car_505",
+        "latitude": 37.801481,
+        "longitude": -122.505594,
+        "speed": 42,
+        "timestamp": "2024-10-11T16:25:00"
+    },
+    {
+        "vehicle_id": "car_506",
+        "latitude": 37.825586,
+        "longitude": -122.365615,
+        "speed": 38,
+        "timestamp": "2024-10-11T16:26:00"
+    },
+    {
+        "vehicle_id": "car_507",
+        "latitude": 37.828123,
+        "longitude": -122.350216,
+        "speed": 31,
+        "timestamp": "2024-10-11T16:27:00"
+    },
+    {
+        "vehicle_id": "car_508",
+        "latitude": 37.695781,
+        "longitude": -122.43958,
+        "speed": 63,
+        "timestamp": "2024-10-11T16:28:00"
+    },
+    {
+        "vehicle_id": "car_509",
+        "latitude": 37.69043,
+        "longitude": -122.437891,
+        "speed": 59,
+        "timestamp": "2024-10-11T16:29:00"
+    },
+    {
+        "vehicle_id": "car_510",
+        "latitude": 37.6798,
+        "longitude": -122.458173,
+        "speed": 37,
+        "timestamp": "2024-10-11T16:30:00"
+    },
+    {
+        "vehicle_id": "car_511",
+        "latitude": 37.6971,
+        "longitude": -122.357753,
+        "speed": 74,
+        "timestamp": "2024-10-11T16:31:00"
+    },
+    {
+        "vehicle_id": "car_512",
+        "latitude": 37.814451,
+        "longitude": -122.518182,
+        "speed": 48,
+        "timestamp": "2024-10-11T16:32:00"
+    },
+    {
+        "vehicle_id": "car_513",
+        "latitude": 37.779415,
+        "longitude": -122.459487,
+        "speed": 69,
+        "timestamp": "2024-10-11T16:33:00"
+    },
+    {
+        "vehicle_id": "car_514",
+        "latitude": 37.697486,
+        "longitude": -122.350985,
+        "speed": 89,
+        "timestamp": "2024-10-11T16:34:00"
+    },
+    {
+        "vehicle_id": "car_515",
+        "latitude": 37.816317,
+        "longitude": -122.509355,
+        "speed": 31,
+        "timestamp": "2024-10-11T16:35:00"
+    },
+    {
+        "vehicle_id": "car_516",
+        "latitude": 37.816922,
+        "longitude": -122.386029,
+        "speed": 60,
+        "timestamp": "2024-10-11T16:36:00"
+    },
+    {
+        "vehicle_id": "car_517",
+        "latitude": 37.721377,
+        "longitude": -122.463199,
+        "speed": 37,
+        "timestamp": "2024-10-11T16:37:00"
+    },
+    {
+        "vehicle_id": "car_518",
+        "latitude": 37.733403,
+        "longitude": -122.488934,
+        "speed": 84,
+        "timestamp": "2024-10-11T16:38:00"
+    },
+    {
+        "vehicle_id": "car_519",
+        "latitude": 37.856122,
+        "longitude": -122.455101,
+        "speed": 82,
+        "timestamp": "2024-10-11T16:39:00"
+    },
+    {
+        "vehicle_id": "car_520",
+        "latitude": 37.843346,
+        "longitude": -122.409604,
+        "speed": 59,
+        "timestamp": "2024-10-11T16:40:00"
+    },
+    {
+        "vehicle_id": "car_521",
+        "latitude": 37.870696,
+        "longitude": -122.398701,
+        "speed": 82,
+        "timestamp": "2024-10-11T16:41:00"
+    },
+    {
+        "vehicle_id": "car_522",
+        "latitude": 37.758124,
+        "longitude": -122.367478,
+        "speed": 60,
+        "timestamp": "2024-10-11T16:42:00"
+    },
+    {
+        "vehicle_id": "car_523",
+        "latitude": 37.852632,
+        "longitude": -122.418783,
+        "speed": 39,
+        "timestamp": "2024-10-11T16:43:00"
+    },
+    {
+        "vehicle_id": "car_524",
+        "latitude": 37.792073,
+        "longitude": -122.394443,
+        "speed": 81,
+        "timestamp": "2024-10-11T16:44:00"
+    },
+    {
+        "vehicle_id": "car_525",
+        "latitude": 37.802318,
+        "longitude": -122.414144,
+        "speed": 79,
+        "timestamp": "2024-10-11T16:45:00"
+    },
+    {
+        "vehicle_id": "car_526",
+        "latitude": 37.817691,
+        "longitude": -122.354893,
+        "speed": 53,
+        "timestamp": "2024-10-11T16:46:00"
+    },
+    {
+        "vehicle_id": "car_527",
+        "latitude": 37.732894,
+        "longitude": -122.406742,
+        "speed": 33,
+        "timestamp": "2024-10-11T16:47:00"
+    },
+    {
+        "vehicle_id": "car_528",
+        "latitude": 37.703475,
+        "longitude": -122.364331,
+        "speed": 47,
+        "timestamp": "2024-10-11T16:48:00"
+    },
+    {
+        "vehicle_id": "car_529",
+        "latitude": 37.755189,
+        "longitude": -122.487675,
+        "speed": 63,
+        "timestamp": "2024-10-11T16:49:00"
+    },
+    {
+        "vehicle_id": "car_530",
+        "latitude": 37.701666,
+        "longitude": -122.393488,
+        "speed": 40,
+        "timestamp": "2024-10-11T16:50:00"
+    },
+    {
+        "vehicle_id": "car_531",
+        "latitude": 37.729209,
+        "longitude": -122.438911,
+        "speed": 86,
+        "timestamp": "2024-10-11T16:51:00"
+    },
+    {
+        "vehicle_id": "car_532",
+        "latitude": 37.674927,
+        "longitude": -122.417174,
+        "speed": 55,
+        "timestamp": "2024-10-11T16:52:00"
+    },
+    {
+        "vehicle_id": "car_533",
+        "latitude": 37.817908,
+        "longitude": -122.400703,
+        "speed": 46,
+        "timestamp": "2024-10-11T16:53:00"
+    },
+    {
+        "vehicle_id": "car_534",
+        "latitude": 37.687438,
+        "longitude": -122.351532,
+        "speed": 70,
+        "timestamp": "2024-10-11T16:54:00"
+    },
+    {
+        "vehicle_id": "car_535",
+        "latitude": 37.742974,
+        "longitude": -122.33131,
+        "speed": 58,
+        "timestamp": "2024-10-11T16:55:00"
+    },
+    {
+        "vehicle_id": "car_536",
+        "latitude": 37.861077,
+        "longitude": -122.354057,
+        "speed": 72,
+        "timestamp": "2024-10-11T16:56:00"
+    },
+    {
+        "vehicle_id": "car_537",
+        "latitude": 37.728979,
+        "longitude": -122.350858,
+        "speed": 73,
+        "timestamp": "2024-10-11T16:57:00"
+    },
+    {
+        "vehicle_id": "car_538",
+        "latitude": 37.789262,
+        "longitude": -122.33796,
+        "speed": 80,
+        "timestamp": "2024-10-11T16:58:00"
+    },
+    {
+        "vehicle_id": "car_539",
+        "latitude": 37.761663,
+        "longitude": -122.337411,
+        "speed": 77,
+        "timestamp": "2024-10-11T16:59:00"
+    },
+    {
+        "vehicle_id": "car_540",
+        "latitude": 37.862164,
+        "longitude": -122.384372,
+        "speed": 46,
+        "timestamp": "2024-10-11T17:00:00"
+    },
+    {
+        "vehicle_id": "car_541",
+        "latitude": 37.812304,
+        "longitude": -122.420637,
+        "speed": 62,
+        "timestamp": "2024-10-11T17:01:00"
+    },
+    {
+        "vehicle_id": "car_542",
+        "latitude": 37.860934,
+        "longitude": -122.35055,
+        "speed": 84,
+        "timestamp": "2024-10-11T17:02:00"
+    },
+    {
+        "vehicle_id": "car_543",
+        "latitude": 37.675773,
+        "longitude": -122.486009,
+        "speed": 50,
+        "timestamp": "2024-10-11T17:03:00"
+    },
+    {
+        "vehicle_id": "car_544",
+        "latitude": 37.850002,
+        "longitude": -122.482839,
+        "speed": 53,
+        "timestamp": "2024-10-11T17:04:00"
+    },
+    {
+        "vehicle_id": "car_545",
+        "latitude": 37.827108,
+        "longitude": -122.329245,
+        "speed": 76,
+        "timestamp": "2024-10-11T17:05:00"
+    },
+    {
+        "vehicle_id": "car_546",
+        "latitude": 37.863696,
+        "longitude": -122.465606,
+        "speed": 49,
+        "timestamp": "2024-10-11T17:06:00"
+    },
+    {
+        "vehicle_id": "car_547",
+        "latitude": 37.831265,
+        "longitude": -122.39057,
+        "speed": 71,
+        "timestamp": "2024-10-11T17:07:00"
+    },
+    {
+        "vehicle_id": "car_548",
+        "latitude": 37.695862,
+        "longitude": -122.419686,
+        "speed": 68,
+        "timestamp": "2024-10-11T17:08:00"
+    },
+    {
+        "vehicle_id": "car_549",
+        "latitude": 37.77498,
+        "longitude": -122.432854,
+        "speed": 76,
+        "timestamp": "2024-10-11T17:09:00"
+    },
+    {
+        "vehicle_id": "car_550",
+        "latitude": 37.697096,
+        "longitude": -122.392515,
+        "speed": 64,
+        "timestamp": "2024-10-11T17:10:00"
+    },
+    {
+        "vehicle_id": "car_551",
+        "latitude": 37.748863,
+        "longitude": -122.508929,
+        "speed": 70,
+        "timestamp": "2024-10-11T17:11:00"
+    },
+    {
+        "vehicle_id": "car_552",
+        "latitude": 37.712105,
+        "longitude": -122.408986,
+        "speed": 65,
+        "timestamp": "2024-10-11T17:12:00"
+    },
+    {
+        "vehicle_id": "car_553",
+        "latitude": 37.84497,
+        "longitude": -122.477001,
+        "speed": 38,
+        "timestamp": "2024-10-11T17:13:00"
+    },
+    {
+        "vehicle_id": "car_554",
+        "latitude": 37.848853,
+        "longitude": -122.373301,
+        "speed": 51,
+        "timestamp": "2024-10-11T17:14:00"
+    },
+    {
+        "vehicle_id": "car_555",
+        "latitude": 37.718048,
+        "longitude": -122.383837,
+        "speed": 74,
+        "timestamp": "2024-10-11T17:15:00"
+    },
+    {
+        "vehicle_id": "car_556",
+        "latitude": 37.682088,
+        "longitude": -122.440453,
+        "speed": 37,
+        "timestamp": "2024-10-11T17:16:00"
+    },
+    {
+        "vehicle_id": "car_557",
+        "latitude": 37.805228,
+        "longitude": -122.371681,
+        "speed": 57,
+        "timestamp": "2024-10-11T17:17:00"
+    },
+    {
+        "vehicle_id": "car_558",
+        "latitude": 37.869818,
+        "longitude": -122.50896,
+        "speed": 57,
+        "timestamp": "2024-10-11T17:18:00"
+    },
+    {
+        "vehicle_id": "car_559",
+        "latitude": 37.817541,
+        "longitude": -122.479557,
+        "speed": 65,
+        "timestamp": "2024-10-11T17:19:00"
+    },
+    {
+        "vehicle_id": "car_560",
+        "latitude": 37.691968,
+        "longitude": -122.510799,
+        "speed": 42,
+        "timestamp": "2024-10-11T17:20:00"
+    },
+    {
+        "vehicle_id": "car_561",
+        "latitude": 37.686518,
+        "longitude": -122.497098,
+        "speed": 39,
+        "timestamp": "2024-10-11T17:21:00"
+    },
+    {
+        "vehicle_id": "car_562",
+        "latitude": 37.783661,
+        "longitude": -122.499427,
+        "speed": 39,
+        "timestamp": "2024-10-11T17:22:00"
+    },
+    {
+        "vehicle_id": "car_563",
+        "latitude": 37.677839,
+        "longitude": -122.443581,
+        "speed": 53,
+        "timestamp": "2024-10-11T17:23:00"
+    },
+    {
+        "vehicle_id": "car_564",
+        "latitude": 37.842553,
+        "longitude": -122.377523,
+        "speed": 43,
+        "timestamp": "2024-10-11T17:24:00"
+    },
+    {
+        "vehicle_id": "car_565",
+        "latitude": 37.757629,
+        "longitude": -122.420827,
+        "speed": 76,
+        "timestamp": "2024-10-11T17:25:00"
+    },
+    {
+        "vehicle_id": "car_566",
+        "latitude": 37.740949,
+        "longitude": -122.338187,
+        "speed": 81,
+        "timestamp": "2024-10-11T17:26:00"
+    },
+    {
+        "vehicle_id": "car_567",
+        "latitude": 37.676885,
+        "longitude": -122.426581,
+        "speed": 65,
+        "timestamp": "2024-10-11T17:27:00"
+    },
+    {
+        "vehicle_id": "car_568",
+        "latitude": 37.683231,
+        "longitude": -122.43987,
+        "speed": 30,
+        "timestamp": "2024-10-11T17:28:00"
+    },
+    {
+        "vehicle_id": "car_569",
+        "latitude": 37.737273,
+        "longitude": -122.364602,
+        "speed": 76,
+        "timestamp": "2024-10-11T17:29:00"
+    },
+    {
+        "vehicle_id": "car_570",
+        "latitude": 37.718861,
+        "longitude": -122.493096,
+        "speed": 41,
+        "timestamp": "2024-10-11T17:30:00"
+    },
+    {
+        "vehicle_id": "car_571",
+        "latitude": 37.70001,
+        "longitude": -122.51601,
+        "speed": 88,
+        "timestamp": "2024-10-11T17:31:00"
+    },
+    {
+        "vehicle_id": "car_572",
+        "latitude": 37.751416,
+        "longitude": -122.445853,
+        "speed": 66,
+        "timestamp": "2024-10-11T17:32:00"
+    },
+    {
+        "vehicle_id": "car_573",
+        "latitude": 37.728017,
+        "longitude": -122.51589,
+        "speed": 82,
+        "timestamp": "2024-10-11T17:33:00"
+    },
+    {
+        "vehicle_id": "car_574",
+        "latitude": 37.743261,
+        "longitude": -122.371595,
+        "speed": 36,
+        "timestamp": "2024-10-11T17:34:00"
+    },
+    {
+        "vehicle_id": "car_575",
+        "latitude": 37.744519,
+        "longitude": -122.445052,
+        "speed": 45,
+        "timestamp": "2024-10-11T17:35:00"
+    },
+    {
+        "vehicle_id": "car_576",
+        "latitude": 37.788519,
+        "longitude": -122.386799,
+        "speed": 42,
+        "timestamp": "2024-10-11T17:36:00"
+    },
+    {
+        "vehicle_id": "car_577",
+        "latitude": 37.869739,
+        "longitude": -122.349988,
+        "speed": 38,
+        "timestamp": "2024-10-11T17:37:00"
+    },
+    {
+        "vehicle_id": "car_578",
+        "latitude": 37.784293,
+        "longitude": -122.353447,
+        "speed": 52,
+        "timestamp": "2024-10-11T17:38:00"
+    },
+    {
+        "vehicle_id": "car_579",
+        "latitude": 37.830975,
+        "longitude": -122.427801,
+        "speed": 51,
+        "timestamp": "2024-10-11T17:39:00"
+    },
+    {
+        "vehicle_id": "car_580",
+        "latitude": 37.705366,
+        "longitude": -122.339509,
+        "speed": 58,
+        "timestamp": "2024-10-11T17:40:00"
+    },
+    {
+        "vehicle_id": "car_581",
+        "latitude": 37.720547,
+        "longitude": -122.470079,
+        "speed": 57,
+        "timestamp": "2024-10-11T17:41:00"
+    },
+    {
+        "vehicle_id": "car_582",
+        "latitude": 37.76958,
+        "longitude": -122.507457,
+        "speed": 73,
+        "timestamp": "2024-10-11T17:42:00"
+    },
+    {
+        "vehicle_id": "car_583",
+        "latitude": 37.686469,
+        "longitude": -122.327842,
+        "speed": 38,
+        "timestamp": "2024-10-11T17:43:00"
+    },
+    {
+        "vehicle_id": "car_584",
+        "latitude": 37.722732,
+        "longitude": -122.413253,
+        "speed": 49,
+        "timestamp": "2024-10-11T17:44:00"
+    },
+    {
+        "vehicle_id": "car_585",
+        "latitude": 37.783796,
+        "longitude": -122.326846,
+        "speed": 57,
+        "timestamp": "2024-10-11T17:45:00"
+    },
+    {
+        "vehicle_id": "car_586",
+        "latitude": 37.830286,
+        "longitude": -122.478404,
+        "speed": 55,
+        "timestamp": "2024-10-11T17:46:00"
+    },
+    {
+        "vehicle_id": "car_587",
+        "latitude": 37.714067,
+        "longitude": -122.491239,
+        "speed": 55,
+        "timestamp": "2024-10-11T17:47:00"
+    },
+    {
+        "vehicle_id": "car_588",
+        "latitude": 37.844339,
+        "longitude": -122.456371,
+        "speed": 48,
+        "timestamp": "2024-10-11T17:48:00"
+    },
+    {
+        "vehicle_id": "car_589",
+        "latitude": 37.704293,
+        "longitude": -122.357175,
+        "speed": 69,
+        "timestamp": "2024-10-11T17:49:00"
+    },
+    {
+        "vehicle_id": "car_590",
+        "latitude": 37.856184,
+        "longitude": -122.486624,
+        "speed": 40,
+        "timestamp": "2024-10-11T17:50:00"
+    },
+    {
+        "vehicle_id": "car_591",
+        "latitude": 37.726881,
+        "longitude": -122.450362,
+        "speed": 81,
+        "timestamp": "2024-10-11T17:51:00"
+    },
+    {
+        "vehicle_id": "car_592",
+        "latitude": 37.742368,
+        "longitude": -122.374404,
+        "speed": 86,
+        "timestamp": "2024-10-11T17:52:00"
+    },
+    {
+        "vehicle_id": "car_593",
+        "latitude": 37.852928,
+        "longitude": -122.377856,
+        "speed": 79,
+        "timestamp": "2024-10-11T17:53:00"
+    },
+    {
+        "vehicle_id": "car_594",
+        "latitude": 37.812919,
+        "longitude": -122.333279,
+        "speed": 49,
+        "timestamp": "2024-10-11T17:54:00"
+    },
+    {
+        "vehicle_id": "car_595",
+        "latitude": 37.801084,
+        "longitude": -122.429865,
+        "speed": 83,
+        "timestamp": "2024-10-11T17:55:00"
+    },
+    {
+        "vehicle_id": "car_596",
+        "latitude": 37.758028,
+        "longitude": -122.459017,
+        "speed": 63,
+        "timestamp": "2024-10-11T17:56:00"
+    },
+    {
+        "vehicle_id": "car_597",
+        "latitude": 37.723279,
+        "longitude": -122.419279,
+        "speed": 50,
+        "timestamp": "2024-10-11T17:57:00"
+    },
+    {
+        "vehicle_id": "car_598",
+        "latitude": 37.867362,
+        "longitude": -122.395218,
+        "speed": 51,
+        "timestamp": "2024-10-11T17:58:00"
+    },
+    {
+        "vehicle_id": "car_599",
+        "latitude": 37.827071,
+        "longitude": -122.410028,
+        "speed": 75,
+        "timestamp": "2024-10-11T17:59:00"
+    },
+    {
+        "vehicle_id": "car_600",
+        "latitude": 37.761463,
+        "longitude": -122.51062,
+        "speed": 59,
+        "timestamp": "2024-10-11T18:00:00"
+    },
+    {
+        "vehicle_id": "car_601",
+        "latitude": 37.847692,
+        "longitude": -122.423133,
+        "speed": 74,
+        "timestamp": "2024-10-11T18:01:00"
+    },
+    {
+        "vehicle_id": "car_602",
+        "latitude": 37.684896,
+        "longitude": -122.35067,
+        "speed": 77,
+        "timestamp": "2024-10-11T18:02:00"
+    },
+    {
+        "vehicle_id": "car_603",
+        "latitude": 37.873896,
+        "longitude": -122.413953,
+        "speed": 60,
+        "timestamp": "2024-10-11T18:03:00"
+    },
+    {
+        "vehicle_id": "car_604",
+        "latitude": 37.723295,
+        "longitude": -122.327275,
+        "speed": 45,
+        "timestamp": "2024-10-11T18:04:00"
+    },
+    {
+        "vehicle_id": "car_605",
+        "latitude": 37.802208,
+        "longitude": -122.419753,
+        "speed": 85,
+        "timestamp": "2024-10-11T18:05:00"
+    },
+    {
+        "vehicle_id": "car_606",
+        "latitude": 37.817245,
+        "longitude": -122.323171,
+        "speed": 86,
+        "timestamp": "2024-10-11T18:06:00"
+    },
+    {
+        "vehicle_id": "car_607",
+        "latitude": 37.718723,
+        "longitude": -122.427607,
+        "speed": 47,
+        "timestamp": "2024-10-11T18:07:00"
+    },
+    {
+        "vehicle_id": "car_608",
+        "latitude": 37.793612,
+        "longitude": -122.504784,
+        "speed": 83,
+        "timestamp": "2024-10-11T18:08:00"
+    },
+    {
+        "vehicle_id": "car_609",
+        "latitude": 37.677506,
+        "longitude": -122.516562,
+        "speed": 73,
+        "timestamp": "2024-10-11T18:09:00"
+    },
+    {
+        "vehicle_id": "car_610",
+        "latitude": 37.833419,
+        "longitude": -122.33782,
+        "speed": 63,
+        "timestamp": "2024-10-11T18:10:00"
+    },
+    {
+        "vehicle_id": "car_611",
+        "latitude": 37.814562,
+        "longitude": -122.440359,
+        "speed": 45,
+        "timestamp": "2024-10-11T18:11:00"
+    },
+    {
+        "vehicle_id": "car_612",
+        "latitude": 37.870362,
+        "longitude": -122.367938,
+        "speed": 42,
+        "timestamp": "2024-10-11T18:12:00"
+    },
+    {
+        "vehicle_id": "car_613",
+        "latitude": 37.845744,
+        "longitude": -122.364782,
+        "speed": 65,
+        "timestamp": "2024-10-11T18:13:00"
+    },
+    {
+        "vehicle_id": "car_614",
+        "latitude": 37.724368,
+        "longitude": -122.391277,
+        "speed": 68,
+        "timestamp": "2024-10-11T18:14:00"
+    },
+    {
+        "vehicle_id": "car_615",
+        "latitude": 37.83117,
+        "longitude": -122.327366,
+        "speed": 79,
+        "timestamp": "2024-10-11T18:15:00"
+    },
+    {
+        "vehicle_id": "car_616",
+        "latitude": 37.829225,
+        "longitude": -122.419621,
+        "speed": 38,
+        "timestamp": "2024-10-11T18:16:00"
+    },
+    {
+        "vehicle_id": "car_617",
+        "latitude": 37.841982,
+        "longitude": -122.362516,
+        "speed": 57,
+        "timestamp": "2024-10-11T18:17:00"
+    },
+    {
+        "vehicle_id": "car_618",
+        "latitude": 37.860139,
+        "longitude": -122.473665,
+        "speed": 72,
+        "timestamp": "2024-10-11T18:18:00"
+    },
+    {
+        "vehicle_id": "car_619",
+        "latitude": 37.684111,
+        "longitude": -122.357784,
+        "speed": 69,
+        "timestamp": "2024-10-11T18:19:00"
+    },
+    {
+        "vehicle_id": "car_620",
+        "latitude": 37.844508,
+        "longitude": -122.373628,
+        "speed": 56,
+        "timestamp": "2024-10-11T18:20:00"
+    },
+    {
+        "vehicle_id": "car_621",
+        "latitude": 37.725664,
+        "longitude": -122.470239,
+        "speed": 58,
+        "timestamp": "2024-10-11T18:21:00"
+    },
+    {
+        "vehicle_id": "car_622",
+        "latitude": 37.771078,
+        "longitude": -122.386913,
+        "speed": 39,
+        "timestamp": "2024-10-11T18:22:00"
+    },
+    {
+        "vehicle_id": "car_623",
+        "latitude": 37.855177,
+        "longitude": -122.488639,
+        "speed": 84,
+        "timestamp": "2024-10-11T18:23:00"
+    },
+    {
+        "vehicle_id": "car_624",
+        "latitude": 37.858806,
+        "longitude": -122.320749,
+        "speed": 61,
+        "timestamp": "2024-10-11T18:24:00"
+    },
+    {
+        "vehicle_id": "car_625",
+        "latitude": 37.777444,
+        "longitude": -122.42309,
+        "speed": 32,
+        "timestamp": "2024-10-11T18:25:00"
+    },
+    {
+        "vehicle_id": "car_626",
+        "latitude": 37.753392,
+        "longitude": -122.368547,
+        "speed": 64,
+        "timestamp": "2024-10-11T18:26:00"
+    },
+    {
+        "vehicle_id": "car_627",
+        "latitude": 37.686441,
+        "longitude": -122.430527,
+        "speed": 55,
+        "timestamp": "2024-10-11T18:27:00"
+    },
+    {
+        "vehicle_id": "car_628",
+        "latitude": 37.746324,
+        "longitude": -122.36189,
+        "speed": 81,
+        "timestamp": "2024-10-11T18:28:00"
+    },
+    {
+        "vehicle_id": "car_629",
+        "latitude": 37.752165,
+        "longitude": -122.404632,
+        "speed": 47,
+        "timestamp": "2024-10-11T18:29:00"
+    },
+    {
+        "vehicle_id": "car_630",
+        "latitude": 37.806226,
+        "longitude": -122.47132,
+        "speed": 87,
+        "timestamp": "2024-10-11T18:30:00"
+    },
+    {
+        "vehicle_id": "car_631",
+        "latitude": 37.850371,
+        "longitude": -122.324526,
+        "speed": 52,
+        "timestamp": "2024-10-11T18:31:00"
+    },
+    {
+        "vehicle_id": "car_632",
+        "latitude": 37.776092,
+        "longitude": -122.475229,
+        "speed": 70,
+        "timestamp": "2024-10-11T18:32:00"
+    },
+    {
+        "vehicle_id": "car_633",
+        "latitude": 37.720639,
+        "longitude": -122.328136,
+        "speed": 51,
+        "timestamp": "2024-10-11T18:33:00"
+    },
+    {
+        "vehicle_id": "car_634",
+        "latitude": 37.848254,
+        "longitude": -122.462904,
+        "speed": 58,
+        "timestamp": "2024-10-11T18:34:00"
+    },
+    {
+        "vehicle_id": "car_635",
+        "latitude": 37.761176,
+        "longitude": -122.375568,
+        "speed": 85,
+        "timestamp": "2024-10-11T18:35:00"
+    },
+    {
+        "vehicle_id": "car_636",
+        "latitude": 37.790918,
+        "longitude": -122.41606,
+        "speed": 55,
+        "timestamp": "2024-10-11T18:36:00"
+    },
+    {
+        "vehicle_id": "car_637",
+        "latitude": 37.842832,
+        "longitude": -122.490637,
+        "speed": 36,
+        "timestamp": "2024-10-11T18:37:00"
+    },
+    {
+        "vehicle_id": "car_638",
+        "latitude": 37.853719,
+        "longitude": -122.330109,
+        "speed": 69,
+        "timestamp": "2024-10-11T18:38:00"
+    },
+    {
+        "vehicle_id": "car_639",
+        "latitude": 37.755088,
+        "longitude": -122.366778,
+        "speed": 52,
+        "timestamp": "2024-10-11T18:39:00"
+    },
+    {
+        "vehicle_id": "car_640",
+        "latitude": 37.770167,
+        "longitude": -122.419892,
+        "speed": 81,
+        "timestamp": "2024-10-11T18:40:00"
+    },
+    {
+        "vehicle_id": "car_641",
+        "latitude": 37.715792,
+        "longitude": -122.468338,
+        "speed": 77,
+        "timestamp": "2024-10-11T18:41:00"
+    },
+    {
+        "vehicle_id": "car_642",
+        "latitude": 37.741213,
+        "longitude": -122.348394,
+        "speed": 57,
+        "timestamp": "2024-10-11T18:42:00"
+    },
+    {
+        "vehicle_id": "car_643",
+        "latitude": 37.802108,
+        "longitude": -122.446529,
+        "speed": 87,
+        "timestamp": "2024-10-11T18:43:00"
+    },
+    {
+        "vehicle_id": "car_644",
+        "latitude": 37.863057,
+        "longitude": -122.418016,
+        "speed": 32,
+        "timestamp": "2024-10-11T18:44:00"
+    },
+    {
+        "vehicle_id": "car_645",
+        "latitude": 37.693911,
+        "longitude": -122.354051,
+        "speed": 65,
+        "timestamp": "2024-10-11T18:45:00"
+    },
+    {
+        "vehicle_id": "car_646",
+        "latitude": 37.813624,
+        "longitude": -122.365175,
+        "speed": 71,
+        "timestamp": "2024-10-11T18:46:00"
+    },
+    {
+        "vehicle_id": "car_647",
+        "latitude": 37.839858,
+        "longitude": -122.416268,
+        "speed": 78,
+        "timestamp": "2024-10-11T18:47:00"
+    },
+    {
+        "vehicle_id": "car_648",
+        "latitude": 37.782719,
+        "longitude": -122.462906,
+        "speed": 52,
+        "timestamp": "2024-10-11T18:48:00"
+    },
+    {
+        "vehicle_id": "car_649",
+        "latitude": 37.861102,
+        "longitude": -122.441035,
+        "speed": 82,
+        "timestamp": "2024-10-11T18:49:00"
+    },
+    {
+        "vehicle_id": "car_650",
+        "latitude": 37.828009,
+        "longitude": -122.519398,
+        "speed": 86,
+        "timestamp": "2024-10-11T18:50:00"
+    },
+    {
+        "vehicle_id": "car_651",
+        "latitude": 37.687166,
+        "longitude": -122.446965,
+        "speed": 86,
+        "timestamp": "2024-10-11T18:51:00"
+    },
+    {
+        "vehicle_id": "car_652",
+        "latitude": 37.869516,
+        "longitude": -122.474175,
+        "speed": 67,
+        "timestamp": "2024-10-11T18:52:00"
+    },
+    {
+        "vehicle_id": "car_653",
+        "latitude": 37.676918,
+        "longitude": -122.431904,
+        "speed": 80,
+        "timestamp": "2024-10-11T18:53:00"
+    },
+    {
+        "vehicle_id": "car_654",
+        "latitude": 37.68528,
+        "longitude": -122.481176,
+        "speed": 41,
+        "timestamp": "2024-10-11T18:54:00"
+    },
+    {
+        "vehicle_id": "car_655",
+        "latitude": 37.719759,
+        "longitude": -122.386791,
+        "speed": 76,
+        "timestamp": "2024-10-11T18:55:00"
+    },
+    {
+        "vehicle_id": "car_656",
+        "latitude": 37.758089,
+        "longitude": -122.367586,
+        "speed": 87,
+        "timestamp": "2024-10-11T18:56:00"
+    },
+    {
+        "vehicle_id": "car_657",
+        "latitude": 37.735486,
+        "longitude": -122.454341,
+        "speed": 54,
+        "timestamp": "2024-10-11T18:57:00"
+    },
+    {
+        "vehicle_id": "car_658",
+        "latitude": 37.725463,
+        "longitude": -122.465112,
+        "speed": 86,
+        "timestamp": "2024-10-11T18:58:00"
+    },
+    {
+        "vehicle_id": "car_659",
+        "latitude": 37.749088,
+        "longitude": -122.339012,
+        "speed": 83,
+        "timestamp": "2024-10-11T18:59:00"
+    },
+    {
+        "vehicle_id": "car_660",
+        "latitude": 37.75605,
+        "longitude": -122.475302,
+        "speed": 51,
+        "timestamp": "2024-10-11T19:00:00"
+    },
+    {
+        "vehicle_id": "car_661",
+        "latitude": 37.753539,
+        "longitude": -122.401272,
+        "speed": 78,
+        "timestamp": "2024-10-11T19:01:00"
+    },
+    {
+        "vehicle_id": "car_662",
+        "latitude": 37.751038,
+        "longitude": -122.436506,
+        "speed": 71,
+        "timestamp": "2024-10-11T19:02:00"
+    },
+    {
+        "vehicle_id": "car_663",
+        "latitude": 37.816764,
+        "longitude": -122.485936,
+        "speed": 38,
+        "timestamp": "2024-10-11T19:03:00"
+    },
+    {
+        "vehicle_id": "car_664",
+        "latitude": 37.728669,
+        "longitude": -122.393713,
+        "speed": 51,
+        "timestamp": "2024-10-11T19:04:00"
+    },
+    {
+        "vehicle_id": "car_665",
+        "latitude": 37.727965,
+        "longitude": -122.399089,
+        "speed": 81,
+        "timestamp": "2024-10-11T19:05:00"
+    },
+    {
+        "vehicle_id": "car_666",
+        "latitude": 37.801332,
+        "longitude": -122.493412,
+        "speed": 66,
+        "timestamp": "2024-10-11T19:06:00"
+    },
+    {
+        "vehicle_id": "car_667",
+        "latitude": 37.695403,
+        "longitude": -122.416629,
+        "speed": 54,
+        "timestamp": "2024-10-11T19:07:00"
+    },
+    {
+        "vehicle_id": "car_668",
+        "latitude": 37.709318,
+        "longitude": -122.324916,
+        "speed": 53,
+        "timestamp": "2024-10-11T19:08:00"
+    },
+    {
+        "vehicle_id": "car_669",
+        "latitude": 37.706705,
+        "longitude": -122.483361,
+        "speed": 68,
+        "timestamp": "2024-10-11T19:09:00"
+    },
+    {
+        "vehicle_id": "car_670",
+        "latitude": 37.767243,
+        "longitude": -122.335201,
+        "speed": 52,
+        "timestamp": "2024-10-11T19:10:00"
+    },
+    {
+        "vehicle_id": "car_671",
+        "latitude": 37.699925,
+        "longitude": -122.349306,
+        "speed": 86,
+        "timestamp": "2024-10-11T19:11:00"
+    },
+    {
+        "vehicle_id": "car_672",
+        "latitude": 37.729714,
+        "longitude": -122.357986,
+        "speed": 58,
+        "timestamp": "2024-10-11T19:12:00"
+    },
+    {
+        "vehicle_id": "car_673",
+        "latitude": 37.703334,
+        "longitude": -122.476721,
+        "speed": 49,
+        "timestamp": "2024-10-11T19:13:00"
+    },
+    {
+        "vehicle_id": "car_674",
+        "latitude": 37.870605,
+        "longitude": -122.348093,
+        "speed": 78,
+        "timestamp": "2024-10-11T19:14:00"
+    },
+    {
+        "vehicle_id": "car_675",
+        "latitude": 37.820311,
+        "longitude": -122.406985,
+        "speed": 84,
+        "timestamp": "2024-10-11T19:15:00"
+    },
+    {
+        "vehicle_id": "car_676",
+        "latitude": 37.784762,
+        "longitude": -122.457003,
+        "speed": 55,
+        "timestamp": "2024-10-11T19:16:00"
+    },
+    {
+        "vehicle_id": "car_677",
+        "latitude": 37.707507,
+        "longitude": -122.362159,
+        "speed": 33,
+        "timestamp": "2024-10-11T19:17:00"
+    },
+    {
+        "vehicle_id": "car_678",
+        "latitude": 37.751771,
+        "longitude": -122.514361,
+        "speed": 81,
+        "timestamp": "2024-10-11T19:18:00"
+    },
+    {
+        "vehicle_id": "car_679",
+        "latitude": 37.699777,
+        "longitude": -122.359891,
+        "speed": 62,
+        "timestamp": "2024-10-11T19:19:00"
+    },
+    {
+        "vehicle_id": "car_680",
+        "latitude": 37.868951,
+        "longitude": -122.431868,
+        "speed": 33,
+        "timestamp": "2024-10-11T19:20:00"
+    },
+    {
+        "vehicle_id": "car_681",
+        "latitude": 37.786696,
+        "longitude": -122.419182,
+        "speed": 35,
+        "timestamp": "2024-10-11T19:21:00"
+    },
+    {
+        "vehicle_id": "car_682",
+        "latitude": 37.784186,
+        "longitude": -122.325993,
+        "speed": 48,
+        "timestamp": "2024-10-11T19:22:00"
+    },
+    {
+        "vehicle_id": "car_683",
+        "latitude": 37.760819,
+        "longitude": -122.457633,
+        "speed": 45,
+        "timestamp": "2024-10-11T19:23:00"
+    },
+    {
+        "vehicle_id": "car_684",
+        "latitude": 37.847428,
+        "longitude": -122.483549,
+        "speed": 64,
+        "timestamp": "2024-10-11T19:24:00"
+    },
+    {
+        "vehicle_id": "car_685",
+        "latitude": 37.865393,
+        "longitude": -122.474055,
+        "speed": 72,
+        "timestamp": "2024-10-11T19:25:00"
+    },
+    {
+        "vehicle_id": "car_686",
+        "latitude": 37.847959,
+        "longitude": -122.487945,
+        "speed": 33,
+        "timestamp": "2024-10-11T19:26:00"
+    },
+    {
+        "vehicle_id": "car_687",
+        "latitude": 37.799906,
+        "longitude": -122.45609,
+        "speed": 51,
+        "timestamp": "2024-10-11T19:27:00"
+    },
+    {
+        "vehicle_id": "car_688",
+        "latitude": 37.809441,
+        "longitude": -122.360064,
+        "speed": 36,
+        "timestamp": "2024-10-11T19:28:00"
+    },
+    {
+        "vehicle_id": "car_689",
+        "latitude": 37.737473,
+        "longitude": -122.332341,
+        "speed": 79,
+        "timestamp": "2024-10-11T19:29:00"
+    },
+    {
+        "vehicle_id": "car_690",
+        "latitude": 37.841466,
+        "longitude": -122.338183,
+        "speed": 47,
+        "timestamp": "2024-10-11T19:30:00"
+    },
+    {
+        "vehicle_id": "car_691",
+        "latitude": 37.724402,
+        "longitude": -122.486837,
+        "speed": 62,
+        "timestamp": "2024-10-11T19:31:00"
+    },
+    {
+        "vehicle_id": "car_692",
+        "latitude": 37.784672,
+        "longitude": -122.461873,
+        "speed": 40,
+        "timestamp": "2024-10-11T19:32:00"
+    },
+    {
+        "vehicle_id": "car_693",
+        "latitude": 37.713186,
+        "longitude": -122.437069,
+        "speed": 35,
+        "timestamp": "2024-10-11T19:33:00"
+    },
+    {
+        "vehicle_id": "car_694",
+        "latitude": 37.74171,
+        "longitude": -122.37286,
+        "speed": 43,
+        "timestamp": "2024-10-11T19:34:00"
+    },
+    {
+        "vehicle_id": "car_695",
+        "latitude": 37.796001,
+        "longitude": -122.469974,
+        "speed": 62,
+        "timestamp": "2024-10-11T19:35:00"
+    },
+    {
+        "vehicle_id": "car_696",
+        "latitude": 37.732052,
+        "longitude": -122.432847,
+        "speed": 48,
+        "timestamp": "2024-10-11T19:36:00"
+    },
+    {
+        "vehicle_id": "car_697",
+        "latitude": 37.810408,
+        "longitude": -122.504978,
+        "speed": 59,
+        "timestamp": "2024-10-11T19:37:00"
+    },
+    {
+        "vehicle_id": "car_698",
+        "latitude": 37.749684,
+        "longitude": -122.33051,
+        "speed": 42,
+        "timestamp": "2024-10-11T19:38:00"
+    },
+    {
+        "vehicle_id": "car_699",
+        "latitude": 37.831872,
+        "longitude": -122.372703,
+        "speed": 52,
+        "timestamp": "2024-10-11T19:39:00"
+    },
+    {
+        "vehicle_id": "car_700",
+        "latitude": 37.714698,
+        "longitude": -122.435733,
+        "speed": 83,
+        "timestamp": "2024-10-11T19:40:00"
+    },
+    {
+        "vehicle_id": "car_701",
+        "latitude": 37.795121,
+        "longitude": -122.321328,
+        "speed": 53,
+        "timestamp": "2024-10-11T19:41:00"
+    },
+    {
+        "vehicle_id": "car_702",
+        "latitude": 37.730164,
+        "longitude": -122.432996,
+        "speed": 86,
+        "timestamp": "2024-10-11T19:42:00"
+    },
+    {
+        "vehicle_id": "car_703",
+        "latitude": 37.677196,
+        "longitude": -122.429377,
+        "speed": 39,
+        "timestamp": "2024-10-11T19:43:00"
+    },
+    {
+        "vehicle_id": "car_704",
+        "latitude": 37.710773,
+        "longitude": -122.325265,
+        "speed": 34,
+        "timestamp": "2024-10-11T19:44:00"
+    },
+    {
+        "vehicle_id": "car_705",
+        "latitude": 37.870692,
+        "longitude": -122.408301,
+        "speed": 47,
+        "timestamp": "2024-10-11T19:45:00"
+    },
+    {
+        "vehicle_id": "car_706",
+        "latitude": 37.815811,
+        "longitude": -122.434854,
+        "speed": 56,
+        "timestamp": "2024-10-11T19:46:00"
+    },
+    {
+        "vehicle_id": "car_707",
+        "latitude": 37.778841,
+        "longitude": -122.504592,
+        "speed": 32,
+        "timestamp": "2024-10-11T19:47:00"
+    },
+    {
+        "vehicle_id": "car_708",
+        "latitude": 37.715967,
+        "longitude": -122.422792,
+        "speed": 45,
+        "timestamp": "2024-10-11T19:48:00"
+    },
+    {
+        "vehicle_id": "car_709",
+        "latitude": 37.80104,
+        "longitude": -122.409479,
+        "speed": 67,
+        "timestamp": "2024-10-11T19:49:00"
+    },
+    {
+        "vehicle_id": "car_710",
+        "latitude": 37.868607,
+        "longitude": -122.398673,
+        "speed": 68,
+        "timestamp": "2024-10-11T19:50:00"
+    },
+    {
+        "vehicle_id": "car_711",
+        "latitude": 37.709322,
+        "longitude": -122.334296,
+        "speed": 49,
+        "timestamp": "2024-10-11T19:51:00"
+    },
+    {
+        "vehicle_id": "car_712",
+        "latitude": 37.734358,
+        "longitude": -122.500987,
+        "speed": 73,
+        "timestamp": "2024-10-11T19:52:00"
+    },
+    {
+        "vehicle_id": "car_713",
+        "latitude": 37.766504,
+        "longitude": -122.500981,
+        "speed": 31,
+        "timestamp": "2024-10-11T19:53:00"
+    },
+    {
+        "vehicle_id": "car_714",
+        "latitude": 37.72838,
+        "longitude": -122.516378,
+        "speed": 32,
+        "timestamp": "2024-10-11T19:54:00"
+    },
+    {
+        "vehicle_id": "car_715",
+        "latitude": 37.749552,
+        "longitude": -122.406668,
+        "speed": 38,
+        "timestamp": "2024-10-11T19:55:00"
+    },
+    {
+        "vehicle_id": "car_716",
+        "latitude": 37.816226,
+        "longitude": -122.397399,
+        "speed": 70,
+        "timestamp": "2024-10-11T19:56:00"
+    },
+    {
+        "vehicle_id": "car_717",
+        "latitude": 37.780051,
+        "longitude": -122.469495,
+        "speed": 31,
+        "timestamp": "2024-10-11T19:57:00"
+    },
+    {
+        "vehicle_id": "car_718",
+        "latitude": 37.848119,
+        "longitude": -122.330053,
+        "speed": 55,
+        "timestamp": "2024-10-11T19:58:00"
+    },
+    {
+        "vehicle_id": "car_719",
+        "latitude": 37.764717,
+        "longitude": -122.396948,
+        "speed": 88,
+        "timestamp": "2024-10-11T19:59:00"
+    },
+    {
+        "vehicle_id": "car_720",
+        "latitude": 37.822207,
+        "longitude": -122.342801,
+        "speed": 88,
+        "timestamp": "2024-10-11T20:00:00"
+    },
+    {
+        "vehicle_id": "car_721",
+        "latitude": 37.82936,
+        "longitude": -122.394359,
+        "speed": 59,
+        "timestamp": "2024-10-11T20:01:00"
+    },
+    {
+        "vehicle_id": "car_722",
+        "latitude": 37.810922,
+        "longitude": -122.43777,
+        "speed": 78,
+        "timestamp": "2024-10-11T20:02:00"
+    },
+    {
+        "vehicle_id": "car_723",
+        "latitude": 37.752023,
+        "longitude": -122.332147,
+        "speed": 38,
+        "timestamp": "2024-10-11T20:03:00"
+    },
+    {
+        "vehicle_id": "car_724",
+        "latitude": 37.764951,
+        "longitude": -122.327884,
+        "speed": 65,
+        "timestamp": "2024-10-11T20:04:00"
+    },
+    {
+        "vehicle_id": "car_725",
+        "latitude": 37.820045,
+        "longitude": -122.39595,
+        "speed": 61,
+        "timestamp": "2024-10-11T20:05:00"
+    },
+    {
+        "vehicle_id": "car_726",
+        "latitude": 37.809392,
+        "longitude": -122.323999,
+        "speed": 46,
+        "timestamp": "2024-10-11T20:06:00"
+    },
+    {
+        "vehicle_id": "car_727",
+        "latitude": 37.774508,
+        "longitude": -122.370835,
+        "speed": 79,
+        "timestamp": "2024-10-11T20:07:00"
+    },
+    {
+        "vehicle_id": "car_728",
+        "latitude": 37.693425,
+        "longitude": -122.369723,
+        "speed": 54,
+        "timestamp": "2024-10-11T20:08:00"
+    },
+    {
+        "vehicle_id": "car_729",
+        "latitude": 37.761704,
+        "longitude": -122.467658,
+        "speed": 58,
+        "timestamp": "2024-10-11T20:09:00"
+    },
+    {
+        "vehicle_id": "car_730",
+        "latitude": 37.777445,
+        "longitude": -122.431723,
+        "speed": 48,
+        "timestamp": "2024-10-11T20:10:00"
+    },
+    {
+        "vehicle_id": "car_731",
+        "latitude": 37.792791,
+        "longitude": -122.396742,
+        "speed": 86,
+        "timestamp": "2024-10-11T20:11:00"
+    },
+    {
+        "vehicle_id": "car_732",
+        "latitude": 37.809035,
+        "longitude": -122.379226,
+        "speed": 74,
+        "timestamp": "2024-10-11T20:12:00"
+    },
+    {
+        "vehicle_id": "car_733",
+        "latitude": 37.693178,
+        "longitude": -122.479546,
+        "speed": 52,
+        "timestamp": "2024-10-11T20:13:00"
+    },
+    {
+        "vehicle_id": "car_734",
+        "latitude": 37.684904,
+        "longitude": -122.337096,
+        "speed": 62,
+        "timestamp": "2024-10-11T20:14:00"
+    },
+    {
+        "vehicle_id": "car_735",
+        "latitude": 37.717781,
+        "longitude": -122.465239,
+        "speed": 77,
+        "timestamp": "2024-10-11T20:15:00"
+    },
+    {
+        "vehicle_id": "car_736",
+        "latitude": 37.857134,
+        "longitude": -122.448428,
+        "speed": 79,
+        "timestamp": "2024-10-11T20:16:00"
+    },
+    {
+        "vehicle_id": "car_737",
+        "latitude": 37.821447,
+        "longitude": -122.398054,
+        "speed": 40,
+        "timestamp": "2024-10-11T20:17:00"
+    },
+    {
+        "vehicle_id": "car_738",
+        "latitude": 37.793861,
+        "longitude": -122.44496,
+        "speed": 84,
+        "timestamp": "2024-10-11T20:18:00"
+    },
+    {
+        "vehicle_id": "car_739",
+        "latitude": 37.842598,
+        "longitude": -122.358382,
+        "speed": 48,
+        "timestamp": "2024-10-11T20:19:00"
+    },
+    {
+        "vehicle_id": "car_740",
+        "latitude": 37.7736,
+        "longitude": -122.462739,
+        "speed": 85,
+        "timestamp": "2024-10-11T20:20:00"
+    },
+    {
+        "vehicle_id": "car_741",
+        "latitude": 37.714956,
+        "longitude": -122.396043,
+        "speed": 30,
+        "timestamp": "2024-10-11T20:21:00"
+    },
+    {
+        "vehicle_id": "car_742",
+        "latitude": 37.725571,
+        "longitude": -122.321868,
+        "speed": 37,
+        "timestamp": "2024-10-11T20:22:00"
+    },
+    {
+        "vehicle_id": "car_743",
+        "latitude": 37.688592,
+        "longitude": -122.445177,
+        "speed": 38,
+        "timestamp": "2024-10-11T20:23:00"
+    },
+    {
+        "vehicle_id": "car_744",
+        "latitude": 37.716143,
+        "longitude": -122.359456,
+        "speed": 68,
+        "timestamp": "2024-10-11T20:24:00"
+    },
+    {
+        "vehicle_id": "car_745",
+        "latitude": 37.728671,
+        "longitude": -122.44571,
+        "speed": 83,
+        "timestamp": "2024-10-11T20:25:00"
+    },
+    {
+        "vehicle_id": "car_746",
+        "latitude": 37.846865,
+        "longitude": -122.512398,
+        "speed": 88,
+        "timestamp": "2024-10-11T20:26:00"
+    },
+    {
+        "vehicle_id": "car_747",
+        "latitude": 37.765769,
+        "longitude": -122.393351,
+        "speed": 72,
+        "timestamp": "2024-10-11T20:27:00"
+    },
+    {
+        "vehicle_id": "car_748",
+        "latitude": 37.802491,
+        "longitude": -122.352671,
+        "speed": 69,
+        "timestamp": "2024-10-11T20:28:00"
+    },
+    {
+        "vehicle_id": "car_749",
+        "latitude": 37.763409,
+        "longitude": -122.389536,
+        "speed": 66,
+        "timestamp": "2024-10-11T20:29:00"
+    },
+    {
+        "vehicle_id": "car_750",
+        "latitude": 37.831697,
+        "longitude": -122.435522,
+        "speed": 51,
+        "timestamp": "2024-10-11T20:30:00"
+    },
+    {
+        "vehicle_id": "car_751",
+        "latitude": 37.83192,
+        "longitude": -122.399631,
+        "speed": 42,
+        "timestamp": "2024-10-11T20:31:00"
+    },
+    {
+        "vehicle_id": "car_752",
+        "latitude": 37.735109,
+        "longitude": -122.418874,
+        "speed": 72,
+        "timestamp": "2024-10-11T20:32:00"
+    },
+    {
+        "vehicle_id": "car_753",
+        "latitude": 37.773119,
+        "longitude": -122.333978,
+        "speed": 44,
+        "timestamp": "2024-10-11T20:33:00"
+    },
+    {
+        "vehicle_id": "car_754",
+        "latitude": 37.731108,
+        "longitude": -122.376808,
+        "speed": 67,
+        "timestamp": "2024-10-11T20:34:00"
+    },
+    {
+        "vehicle_id": "car_755",
+        "latitude": 37.805935,
+        "longitude": -122.467353,
+        "speed": 67,
+        "timestamp": "2024-10-11T20:35:00"
+    },
+    {
+        "vehicle_id": "car_756",
+        "latitude": 37.697276,
+        "longitude": -122.416115,
+        "speed": 78,
+        "timestamp": "2024-10-11T20:36:00"
+    },
+    {
+        "vehicle_id": "car_757",
+        "latitude": 37.712029,
+        "longitude": -122.386556,
+        "speed": 36,
+        "timestamp": "2024-10-11T20:37:00"
+    },
+    {
+        "vehicle_id": "car_758",
+        "latitude": 37.819013,
+        "longitude": -122.354102,
+        "speed": 48,
+        "timestamp": "2024-10-11T20:38:00"
+    },
+    {
+        "vehicle_id": "car_759",
+        "latitude": 37.696986,
+        "longitude": -122.461563,
+        "speed": 33,
+        "timestamp": "2024-10-11T20:39:00"
+    },
+    {
+        "vehicle_id": "car_760",
+        "latitude": 37.859812,
+        "longitude": -122.430739,
+        "speed": 71,
+        "timestamp": "2024-10-11T20:40:00"
+    },
+    {
+        "vehicle_id": "car_761",
+        "latitude": 37.782011,
+        "longitude": -122.448023,
+        "speed": 87,
+        "timestamp": "2024-10-11T20:41:00"
+    },
+    {
+        "vehicle_id": "car_762",
+        "latitude": 37.840611,
+        "longitude": -122.361541,
+        "speed": 84,
+        "timestamp": "2024-10-11T20:42:00"
+    },
+    {
+        "vehicle_id": "car_763",
+        "latitude": 37.718112,
+        "longitude": -122.357535,
+        "speed": 34,
+        "timestamp": "2024-10-11T20:43:00"
+    },
+    {
+        "vehicle_id": "car_764",
+        "latitude": 37.740249,
+        "longitude": -122.448515,
+        "speed": 71,
+        "timestamp": "2024-10-11T20:44:00"
+    },
+    {
+        "vehicle_id": "car_765",
+        "latitude": 37.7292,
+        "longitude": -122.473043,
+        "speed": 78,
+        "timestamp": "2024-10-11T20:45:00"
+    },
+    {
+        "vehicle_id": "car_766",
+        "latitude": 37.695414,
+        "longitude": -122.440854,
+        "speed": 80,
+        "timestamp": "2024-10-11T20:46:00"
+    },
+    {
+        "vehicle_id": "car_767",
+        "latitude": 37.840674,
+        "longitude": -122.449622,
+        "speed": 70,
+        "timestamp": "2024-10-11T20:47:00"
+    },
+    {
+        "vehicle_id": "car_768",
+        "latitude": 37.846663,
+        "longitude": -122.384012,
+        "speed": 46,
+        "timestamp": "2024-10-11T20:48:00"
+    },
+    {
+        "vehicle_id": "car_769",
+        "latitude": 37.743856,
+        "longitude": -122.427031,
+        "speed": 59,
+        "timestamp": "2024-10-11T20:49:00"
+    },
+    {
+        "vehicle_id": "car_770",
+        "latitude": 37.762742,
+        "longitude": -122.397291,
+        "speed": 58,
+        "timestamp": "2024-10-11T20:50:00"
+    },
+    {
+        "vehicle_id": "car_771",
+        "latitude": 37.766738,
+        "longitude": -122.437181,
+        "speed": 61,
+        "timestamp": "2024-10-11T20:51:00"
+    },
+    {
+        "vehicle_id": "car_772",
+        "latitude": 37.81369,
+        "longitude": -122.47348,
+        "speed": 52,
+        "timestamp": "2024-10-11T20:52:00"
+    },
+    {
+        "vehicle_id": "car_773",
+        "latitude": 37.760822,
+        "longitude": -122.371275,
+        "speed": 50,
+        "timestamp": "2024-10-11T20:53:00"
+    },
+    {
+        "vehicle_id": "car_774",
+        "latitude": 37.818648,
+        "longitude": -122.37292,
+        "speed": 47,
+        "timestamp": "2024-10-11T20:54:00"
+    },
+    {
+        "vehicle_id": "car_775",
+        "latitude": 37.734257,
+        "longitude": -122.411126,
+        "speed": 59,
+        "timestamp": "2024-10-11T20:55:00"
+    },
+    {
+        "vehicle_id": "car_776",
+        "latitude": 37.678726,
+        "longitude": -122.48625,
+        "speed": 71,
+        "timestamp": "2024-10-11T20:56:00"
+    },
+    {
+        "vehicle_id": "car_777",
+        "latitude": 37.851232,
+        "longitude": -122.495101,
+        "speed": 76,
+        "timestamp": "2024-10-11T20:57:00"
+    },
+    {
+        "vehicle_id": "car_778",
+        "latitude": 37.695969,
+        "longitude": -122.474928,
+        "speed": 38,
+        "timestamp": "2024-10-11T20:58:00"
+    },
+    {
+        "vehicle_id": "car_779",
+        "latitude": 37.717279,
+        "longitude": -122.4572,
+        "speed": 68,
+        "timestamp": "2024-10-11T20:59:00"
+    },
+    {
+        "vehicle_id": "car_780",
+        "latitude": 37.686446,
+        "longitude": -122.441193,
+        "speed": 48,
+        "timestamp": "2024-10-11T21:00:00"
+    },
+    {
+        "vehicle_id": "car_781",
+        "latitude": 37.742035,
+        "longitude": -122.369522,
+        "speed": 53,
+        "timestamp": "2024-10-11T21:01:00"
+    },
+    {
+        "vehicle_id": "car_782",
+        "latitude": 37.79816,
+        "longitude": -122.408024,
+        "speed": 76,
+        "timestamp": "2024-10-11T21:02:00"
+    },
+    {
+        "vehicle_id": "car_783",
+        "latitude": 37.825673,
+        "longitude": -122.345106,
+        "speed": 32,
+        "timestamp": "2024-10-11T21:03:00"
+    },
+    {
+        "vehicle_id": "car_784",
+        "latitude": 37.814186,
+        "longitude": -122.378971,
+        "speed": 30,
+        "timestamp": "2024-10-11T21:04:00"
+    },
+    {
+        "vehicle_id": "car_785",
+        "latitude": 37.715633,
+        "longitude": -122.45389,
+        "speed": 42,
+        "timestamp": "2024-10-11T21:05:00"
+    },
+    {
+        "vehicle_id": "car_786",
+        "latitude": 37.849005,
+        "longitude": -122.393116,
+        "speed": 77,
+        "timestamp": "2024-10-11T21:06:00"
+    },
+    {
+        "vehicle_id": "car_787",
+        "latitude": 37.863923,
+        "longitude": -122.380075,
+        "speed": 82,
+        "timestamp": "2024-10-11T21:07:00"
+    },
+    {
+        "vehicle_id": "car_788",
+        "latitude": 37.698341,
+        "longitude": -122.451959,
+        "speed": 53,
+        "timestamp": "2024-10-11T21:08:00"
+    },
+    {
+        "vehicle_id": "car_789",
+        "latitude": 37.813315,
+        "longitude": -122.47815,
+        "speed": 34,
+        "timestamp": "2024-10-11T21:09:00"
+    },
+    {
+        "vehicle_id": "car_790",
+        "latitude": 37.82786,
+        "longitude": -122.38362,
+        "speed": 87,
+        "timestamp": "2024-10-11T21:10:00"
+    },
+    {
+        "vehicle_id": "car_791",
+        "latitude": 37.776461,
+        "longitude": -122.435546,
+        "speed": 78,
+        "timestamp": "2024-10-11T21:11:00"
+    },
+    {
+        "vehicle_id": "car_792",
+        "latitude": 37.797167,
+        "longitude": -122.347938,
+        "speed": 88,
+        "timestamp": "2024-10-11T21:12:00"
+    },
+    {
+        "vehicle_id": "car_793",
+        "latitude": 37.769751,
+        "longitude": -122.407264,
+        "speed": 82,
+        "timestamp": "2024-10-11T21:13:00"
+    },
+    {
+        "vehicle_id": "car_794",
+        "latitude": 37.71928,
+        "longitude": -122.376472,
+        "speed": 45,
+        "timestamp": "2024-10-11T21:14:00"
+    },
+    {
+        "vehicle_id": "car_795",
+        "latitude": 37.676896,
+        "longitude": -122.374711,
+        "speed": 85,
+        "timestamp": "2024-10-11T21:15:00"
+    },
+    {
+        "vehicle_id": "car_796",
+        "latitude": 37.825428,
+        "longitude": -122.426389,
+        "speed": 51,
+        "timestamp": "2024-10-11T21:16:00"
+    },
+    {
+        "vehicle_id": "car_797",
+        "latitude": 37.843565,
+        "longitude": -122.422381,
+        "speed": 80,
+        "timestamp": "2024-10-11T21:17:00"
+    },
+    {
+        "vehicle_id": "car_798",
+        "latitude": 37.732002,
+        "longitude": -122.413085,
+        "speed": 58,
+        "timestamp": "2024-10-11T21:18:00"
+    },
+    {
+        "vehicle_id": "car_799",
+        "latitude": 37.711588,
+        "longitude": -122.348405,
+        "speed": 74,
+        "timestamp": "2024-10-11T21:19:00"
+    },
+    {
+        "vehicle_id": "car_800",
+        "latitude": 37.771769,
+        "longitude": -122.516726,
+        "speed": 75,
+        "timestamp": "2024-10-11T21:20:00"
+    },
+    {
+        "vehicle_id": "car_801",
+        "latitude": 37.752465,
+        "longitude": -122.358692,
+        "speed": 80,
+        "timestamp": "2024-10-11T21:21:00"
+    },
+    {
+        "vehicle_id": "car_802",
+        "latitude": 37.731076,
+        "longitude": -122.477809,
+        "speed": 37,
+        "timestamp": "2024-10-11T21:22:00"
+    },
+    {
+        "vehicle_id": "car_803",
+        "latitude": 37.85037,
+        "longitude": -122.441519,
+        "speed": 86,
+        "timestamp": "2024-10-11T21:23:00"
+    },
+    {
+        "vehicle_id": "car_804",
+        "latitude": 37.823516,
+        "longitude": -122.349814,
+        "speed": 81,
+        "timestamp": "2024-10-11T21:24:00"
+    },
+    {
+        "vehicle_id": "car_805",
+        "latitude": 37.804564,
+        "longitude": -122.504579,
+        "speed": 31,
+        "timestamp": "2024-10-11T21:25:00"
+    },
+    {
+        "vehicle_id": "car_806",
+        "latitude": 37.777574,
+        "longitude": -122.321556,
+        "speed": 49,
+        "timestamp": "2024-10-11T21:26:00"
+    },
+    {
+        "vehicle_id": "car_807",
+        "latitude": 37.874336,
+        "longitude": -122.407588,
+        "speed": 58,
+        "timestamp": "2024-10-11T21:27:00"
+    },
+    {
+        "vehicle_id": "car_808",
+        "latitude": 37.764177,
+        "longitude": -122.505399,
+        "speed": 43,
+        "timestamp": "2024-10-11T21:28:00"
+    },
+    {
+        "vehicle_id": "car_809",
+        "latitude": 37.749407,
+        "longitude": -122.505657,
+        "speed": 33,
+        "timestamp": "2024-10-11T21:29:00"
+    },
+    {
+        "vehicle_id": "car_810",
+        "latitude": 37.767748,
+        "longitude": -122.374852,
+        "speed": 87,
+        "timestamp": "2024-10-11T21:30:00"
+    },
+    {
+        "vehicle_id": "car_811",
+        "latitude": 37.744889,
+        "longitude": -122.333542,
+        "speed": 59,
+        "timestamp": "2024-10-11T21:31:00"
+    },
+    {
+        "vehicle_id": "car_812",
+        "latitude": 37.718433,
+        "longitude": -122.387063,
+        "speed": 78,
+        "timestamp": "2024-10-11T21:32:00"
+    },
+    {
+        "vehicle_id": "car_813",
+        "latitude": 37.749548,
+        "longitude": -122.393002,
+        "speed": 63,
+        "timestamp": "2024-10-11T21:33:00"
+    },
+    {
+        "vehicle_id": "car_814",
+        "latitude": 37.829462,
+        "longitude": -122.409716,
+        "speed": 54,
+        "timestamp": "2024-10-11T21:34:00"
+    },
+    {
+        "vehicle_id": "car_815",
+        "latitude": 37.791103,
+        "longitude": -122.434186,
+        "speed": 87,
+        "timestamp": "2024-10-11T21:35:00"
+    },
+    {
+        "vehicle_id": "car_816",
+        "latitude": 37.831292,
+        "longitude": -122.369051,
+        "speed": 68,
+        "timestamp": "2024-10-11T21:36:00"
+    },
+    {
+        "vehicle_id": "car_817",
+        "latitude": 37.810395,
+        "longitude": -122.3677,
+        "speed": 64,
+        "timestamp": "2024-10-11T21:37:00"
+    },
+    {
+        "vehicle_id": "car_818",
+        "latitude": 37.809131,
+        "longitude": -122.395305,
+        "speed": 58,
+        "timestamp": "2024-10-11T21:38:00"
+    },
+    {
+        "vehicle_id": "car_819",
+        "latitude": 37.752224,
+        "longitude": -122.386903,
+        "speed": 57,
+        "timestamp": "2024-10-11T21:39:00"
+    },
+    {
+        "vehicle_id": "car_820",
+        "latitude": 37.753051,
+        "longitude": -122.487664,
+        "speed": 45,
+        "timestamp": "2024-10-11T21:40:00"
+    },
+    {
+        "vehicle_id": "car_821",
+        "latitude": 37.826643,
+        "longitude": -122.399969,
+        "speed": 55,
+        "timestamp": "2024-10-11T21:41:00"
+    },
+    {
+        "vehicle_id": "car_822",
+        "latitude": 37.852726,
+        "longitude": -122.403639,
+        "speed": 51,
+        "timestamp": "2024-10-11T21:42:00"
+    },
+    {
+        "vehicle_id": "car_823",
+        "latitude": 37.826553,
+        "longitude": -122.458019,
+        "speed": 42,
+        "timestamp": "2024-10-11T21:43:00"
+    },
+    {
+        "vehicle_id": "car_824",
+        "latitude": 37.817456,
+        "longitude": -122.442158,
+        "speed": 69,
+        "timestamp": "2024-10-11T21:44:00"
+    },
+    {
+        "vehicle_id": "car_825",
+        "latitude": 37.737665,
+        "longitude": -122.4711,
+        "speed": 88,
+        "timestamp": "2024-10-11T21:45:00"
+    },
+    {
+        "vehicle_id": "car_826",
+        "latitude": 37.847203,
+        "longitude": -122.345672,
+        "speed": 39,
+        "timestamp": "2024-10-11T21:46:00"
+    },
+    {
+        "vehicle_id": "car_827",
+        "latitude": 37.776312,
+        "longitude": -122.481816,
+        "speed": 46,
+        "timestamp": "2024-10-11T21:47:00"
+    },
+    {
+        "vehicle_id": "car_828",
+        "latitude": 37.791834,
+        "longitude": -122.49267,
+        "speed": 80,
+        "timestamp": "2024-10-11T21:48:00"
+    },
+    {
+        "vehicle_id": "car_829",
+        "latitude": 37.839266,
+        "longitude": -122.387498,
+        "speed": 61,
+        "timestamp": "2024-10-11T21:49:00"
+    },
+    {
+        "vehicle_id": "car_830",
+        "latitude": 37.761117,
+        "longitude": -122.409531,
+        "speed": 86,
+        "timestamp": "2024-10-11T21:50:00"
+    },
+    {
+        "vehicle_id": "car_831",
+        "latitude": 37.727712,
+        "longitude": -122.331586,
+        "speed": 59,
+        "timestamp": "2024-10-11T21:51:00"
+    },
+    {
+        "vehicle_id": "car_832",
+        "latitude": 37.719908,
+        "longitude": -122.413655,
+        "speed": 61,
+        "timestamp": "2024-10-11T21:52:00"
+    },
+    {
+        "vehicle_id": "car_833",
+        "latitude": 37.713085,
+        "longitude": -122.380472,
+        "speed": 42,
+        "timestamp": "2024-10-11T21:53:00"
+    },
+    {
+        "vehicle_id": "car_834",
+        "latitude": 37.805842,
+        "longitude": -122.354647,
+        "speed": 39,
+        "timestamp": "2024-10-11T21:54:00"
+    },
+    {
+        "vehicle_id": "car_835",
+        "latitude": 37.807294,
+        "longitude": -122.356412,
+        "speed": 33,
+        "timestamp": "2024-10-11T21:55:00"
+    },
+    {
+        "vehicle_id": "car_836",
+        "latitude": 37.767205,
+        "longitude": -122.322739,
+        "speed": 53,
+        "timestamp": "2024-10-11T21:56:00"
+    },
+    {
+        "vehicle_id": "car_837",
+        "latitude": 37.692577,
+        "longitude": -122.37961,
+        "speed": 41,
+        "timestamp": "2024-10-11T21:57:00"
+    },
+    {
+        "vehicle_id": "car_838",
+        "latitude": 37.705022,
+        "longitude": -122.475954,
+        "speed": 66,
+        "timestamp": "2024-10-11T21:58:00"
+    },
+    {
+        "vehicle_id": "car_839",
+        "latitude": 37.726815,
+        "longitude": -122.512665,
+        "speed": 50,
+        "timestamp": "2024-10-11T21:59:00"
+    },
+    {
+        "vehicle_id": "car_840",
+        "latitude": 37.852593,
+        "longitude": -122.354535,
+        "speed": 89,
+        "timestamp": "2024-10-11T22:00:00"
+    },
+    {
+        "vehicle_id": "car_841",
+        "latitude": 37.682696,
+        "longitude": -122.386031,
+        "speed": 35,
+        "timestamp": "2024-10-11T22:01:00"
+    },
+    {
+        "vehicle_id": "car_842",
+        "latitude": 37.760697,
+        "longitude": -122.479187,
+        "speed": 85,
+        "timestamp": "2024-10-11T22:02:00"
+    },
+    {
+        "vehicle_id": "car_843",
+        "latitude": 37.739958,
+        "longitude": -122.339208,
+        "speed": 69,
+        "timestamp": "2024-10-11T22:03:00"
+    },
+    {
+        "vehicle_id": "car_844",
+        "latitude": 37.808254,
+        "longitude": -122.500535,
+        "speed": 37,
+        "timestamp": "2024-10-11T22:04:00"
+    },
+    {
+        "vehicle_id": "car_845",
+        "latitude": 37.724702,
+        "longitude": -122.40406,
+        "speed": 67,
+        "timestamp": "2024-10-11T22:05:00"
+    },
+    {
+        "vehicle_id": "car_846",
+        "latitude": 37.693884,
+        "longitude": -122.319621,
+        "speed": 72,
+        "timestamp": "2024-10-11T22:06:00"
+    },
+    {
+        "vehicle_id": "car_847",
+        "latitude": 37.861614,
+        "longitude": -122.35913,
+        "speed": 39,
+        "timestamp": "2024-10-11T22:07:00"
+    },
+    {
+        "vehicle_id": "car_848",
+        "latitude": 37.676044,
+        "longitude": -122.426235,
+        "speed": 60,
+        "timestamp": "2024-10-11T22:08:00"
+    },
+    {
+        "vehicle_id": "car_849",
+        "latitude": 37.68297,
+        "longitude": -122.437162,
+        "speed": 78,
+        "timestamp": "2024-10-11T22:09:00"
+    },
+    {
+        "vehicle_id": "car_850",
+        "latitude": 37.867132,
+        "longitude": -122.341058,
+        "speed": 50,
+        "timestamp": "2024-10-11T22:10:00"
+    },
+    {
+        "vehicle_id": "car_851",
+        "latitude": 37.831648,
+        "longitude": -122.406164,
+        "speed": 89,
+        "timestamp": "2024-10-11T22:11:00"
+    },
+    {
+        "vehicle_id": "car_852",
+        "latitude": 37.805768,
+        "longitude": -122.472996,
+        "speed": 67,
+        "timestamp": "2024-10-11T22:12:00"
+    },
+    {
+        "vehicle_id": "car_853",
+        "latitude": 37.67833,
+        "longitude": -122.336079,
+        "speed": 78,
+        "timestamp": "2024-10-11T22:13:00"
+    },
+    {
+        "vehicle_id": "car_854",
+        "latitude": 37.827361,
+        "longitude": -122.511612,
+        "speed": 44,
+        "timestamp": "2024-10-11T22:14:00"
+    },
+    {
+        "vehicle_id": "car_855",
+        "latitude": 37.777227,
+        "longitude": -122.518331,
+        "speed": 32,
+        "timestamp": "2024-10-11T22:15:00"
+    },
+    {
+        "vehicle_id": "car_856",
+        "latitude": 37.799823,
+        "longitude": -122.346513,
+        "speed": 39,
+        "timestamp": "2024-10-11T22:16:00"
+    },
+    {
+        "vehicle_id": "car_857",
+        "latitude": 37.753019,
+        "longitude": -122.505534,
+        "speed": 58,
+        "timestamp": "2024-10-11T22:17:00"
+    },
+    {
+        "vehicle_id": "car_858",
+        "latitude": 37.826246,
+        "longitude": -122.430941,
+        "speed": 39,
+        "timestamp": "2024-10-11T22:18:00"
+    },
+    {
+        "vehicle_id": "car_859",
+        "latitude": 37.702587,
+        "longitude": -122.403632,
+        "speed": 77,
+        "timestamp": "2024-10-11T22:19:00"
+    },
+    {
+        "vehicle_id": "car_860",
+        "latitude": 37.79427,
+        "longitude": -122.333764,
+        "speed": 75,
+        "timestamp": "2024-10-11T22:20:00"
+    },
+    {
+        "vehicle_id": "car_861",
+        "latitude": 37.749197,
+        "longitude": -122.395695,
+        "speed": 88,
+        "timestamp": "2024-10-11T22:21:00"
+    },
+    {
+        "vehicle_id": "car_862",
+        "latitude": 37.768757,
+        "longitude": -122.430788,
+        "speed": 79,
+        "timestamp": "2024-10-11T22:22:00"
+    },
+    {
+        "vehicle_id": "car_863",
+        "latitude": 37.804802,
+        "longitude": -122.358517,
+        "speed": 49,
+        "timestamp": "2024-10-11T22:23:00"
+    },
+    {
+        "vehicle_id": "car_864",
+        "latitude": 37.862886,
+        "longitude": -122.418599,
+        "speed": 61,
+        "timestamp": "2024-10-11T22:24:00"
+    },
+    {
+        "vehicle_id": "car_865",
+        "latitude": 37.765853,
+        "longitude": -122.384443,
+        "speed": 84,
+        "timestamp": "2024-10-11T22:25:00"
+    },
+    {
+        "vehicle_id": "car_866",
+        "latitude": 37.847628,
+        "longitude": -122.497387,
+        "speed": 40,
+        "timestamp": "2024-10-11T22:26:00"
+    },
+    {
+        "vehicle_id": "car_867",
+        "latitude": 37.708371,
+        "longitude": -122.419328,
+        "speed": 70,
+        "timestamp": "2024-10-11T22:27:00"
+    },
+    {
+        "vehicle_id": "car_868",
+        "latitude": 37.803751,
+        "longitude": -122.32455,
+        "speed": 83,
+        "timestamp": "2024-10-11T22:28:00"
+    },
+    {
+        "vehicle_id": "car_869",
+        "latitude": 37.729958,
+        "longitude": -122.488159,
+        "speed": 36,
+        "timestamp": "2024-10-11T22:29:00"
+    },
+    {
+        "vehicle_id": "car_870",
+        "latitude": 37.79476,
+        "longitude": -122.483529,
+        "speed": 41,
+        "timestamp": "2024-10-11T22:30:00"
+    },
+    {
+        "vehicle_id": "car_871",
+        "latitude": 37.683368,
+        "longitude": -122.403455,
+        "speed": 46,
+        "timestamp": "2024-10-11T22:31:00"
+    },
+    {
+        "vehicle_id": "car_872",
+        "latitude": 37.842373,
+        "longitude": -122.485454,
+        "speed": 49,
+        "timestamp": "2024-10-11T22:32:00"
+    },
+    {
+        "vehicle_id": "car_873",
+        "latitude": 37.811979,
+        "longitude": -122.514407,
+        "speed": 88,
+        "timestamp": "2024-10-11T22:33:00"
+    },
+    {
+        "vehicle_id": "car_874",
+        "latitude": 37.814828,
+        "longitude": -122.351769,
+        "speed": 83,
+        "timestamp": "2024-10-11T22:34:00"
+    },
+    {
+        "vehicle_id": "car_875",
+        "latitude": 37.81204,
+        "longitude": -122.337357,
+        "speed": 57,
+        "timestamp": "2024-10-11T22:35:00"
+    },
+    {
+        "vehicle_id": "car_876",
+        "latitude": 37.772599,
+        "longitude": -122.439023,
+        "speed": 42,
+        "timestamp": "2024-10-11T22:36:00"
+    },
+    {
+        "vehicle_id": "car_877",
+        "latitude": 37.7918,
+        "longitude": -122.352642,
+        "speed": 31,
+        "timestamp": "2024-10-11T22:37:00"
+    },
+    {
+        "vehicle_id": "car_878",
+        "latitude": 37.859162,
+        "longitude": -122.402762,
+        "speed": 37,
+        "timestamp": "2024-10-11T22:38:00"
+    },
+    {
+        "vehicle_id": "car_879",
+        "latitude": 37.693882,
+        "longitude": -122.400583,
+        "speed": 49,
+        "timestamp": "2024-10-11T22:39:00"
+    },
+    {
+        "vehicle_id": "car_880",
+        "latitude": 37.681249,
+        "longitude": -122.434733,
+        "speed": 59,
+        "timestamp": "2024-10-11T22:40:00"
+    },
+    {
+        "vehicle_id": "car_881",
+        "latitude": 37.858034,
+        "longitude": -122.396137,
+        "speed": 84,
+        "timestamp": "2024-10-11T22:41:00"
+    },
+    {
+        "vehicle_id": "car_882",
+        "latitude": 37.851483,
+        "longitude": -122.387591,
+        "speed": 36,
+        "timestamp": "2024-10-11T22:42:00"
+    },
+    {
+        "vehicle_id": "car_883",
+        "latitude": 37.775215,
+        "longitude": -122.324163,
+        "speed": 85,
+        "timestamp": "2024-10-11T22:43:00"
+    },
+    {
+        "vehicle_id": "car_884",
+        "latitude": 37.714231,
+        "longitude": -122.371915,
+        "speed": 53,
+        "timestamp": "2024-10-11T22:44:00"
+    },
+    {
+        "vehicle_id": "car_885",
+        "latitude": 37.851817,
+        "longitude": -122.494356,
+        "speed": 80,
+        "timestamp": "2024-10-11T22:45:00"
+    },
+    {
+        "vehicle_id": "car_886",
+        "latitude": 37.680905,
+        "longitude": -122.339927,
+        "speed": 76,
+        "timestamp": "2024-10-11T22:46:00"
+    },
+    {
+        "vehicle_id": "car_887",
+        "latitude": 37.795508,
+        "longitude": -122.395602,
+        "speed": 44,
+        "timestamp": "2024-10-11T22:47:00"
+    },
+    {
+        "vehicle_id": "car_888",
+        "latitude": 37.844378,
+        "longitude": -122.506921,
+        "speed": 49,
+        "timestamp": "2024-10-11T22:48:00"
+    },
+    {
+        "vehicle_id": "car_889",
+        "latitude": 37.744401,
+        "longitude": -122.432321,
+        "speed": 41,
+        "timestamp": "2024-10-11T22:49:00"
+    },
+    {
+        "vehicle_id": "car_890",
+        "latitude": 37.838295,
+        "longitude": -122.348891,
+        "speed": 59,
+        "timestamp": "2024-10-11T22:50:00"
+    },
+    {
+        "vehicle_id": "car_891",
+        "latitude": 37.73611,
+        "longitude": -122.409025,
+        "speed": 63,
+        "timestamp": "2024-10-11T22:51:00"
+    },
+    {
+        "vehicle_id": "car_892",
+        "latitude": 37.689107,
+        "longitude": -122.477241,
+        "speed": 63,
+        "timestamp": "2024-10-11T22:52:00"
+    },
+    {
+        "vehicle_id": "car_893",
+        "latitude": 37.76989,
+        "longitude": -122.508355,
+        "speed": 53,
+        "timestamp": "2024-10-11T22:53:00"
+    },
+    {
+        "vehicle_id": "car_894",
+        "latitude": 37.695096,
+        "longitude": -122.485902,
+        "speed": 66,
+        "timestamp": "2024-10-11T22:54:00"
+    },
+    {
+        "vehicle_id": "car_895",
+        "latitude": 37.780876,
+        "longitude": -122.322339,
+        "speed": 86,
+        "timestamp": "2024-10-11T22:55:00"
+    },
+    {
+        "vehicle_id": "car_896",
+        "latitude": 37.868452,
+        "longitude": -122.431452,
+        "speed": 85,
+        "timestamp": "2024-10-11T22:56:00"
+    },
+    {
+        "vehicle_id": "car_897",
+        "latitude": 37.706014,
+        "longitude": -122.477945,
+        "speed": 37,
+        "timestamp": "2024-10-11T22:57:00"
+    },
+    {
+        "vehicle_id": "car_898",
+        "latitude": 37.718841,
+        "longitude": -122.515296,
+        "speed": 39,
+        "timestamp": "2024-10-11T22:58:00"
+    },
+    {
+        "vehicle_id": "car_899",
+        "latitude": 37.726193,
+        "longitude": -122.448336,
+        "speed": 42,
+        "timestamp": "2024-10-11T22:59:00"
+    },
+    {
+        "vehicle_id": "car_900",
+        "latitude": 37.687413,
+        "longitude": -122.477299,
+        "speed": 51,
+        "timestamp": "2024-10-11T23:00:00"
+    },
+    {
+        "vehicle_id": "car_901",
+        "latitude": 37.854548,
+        "longitude": -122.364039,
+        "speed": 67,
+        "timestamp": "2024-10-11T23:01:00"
+    },
+    {
+        "vehicle_id": "car_902",
+        "latitude": 37.847832,
+        "longitude": -122.488415,
+        "speed": 52,
+        "timestamp": "2024-10-11T23:02:00"
+    },
+    {
+        "vehicle_id": "car_903",
+        "latitude": 37.694617,
+        "longitude": -122.353537,
+        "speed": 40,
+        "timestamp": "2024-10-11T23:03:00"
+    },
+    {
+        "vehicle_id": "car_904",
+        "latitude": 37.787582,
+        "longitude": -122.358639,
+        "speed": 34,
+        "timestamp": "2024-10-11T23:04:00"
+    },
+    {
+        "vehicle_id": "car_905",
+        "latitude": 37.770599,
+        "longitude": -122.363289,
+        "speed": 75,
+        "timestamp": "2024-10-11T23:05:00"
+    },
+    {
+        "vehicle_id": "car_906",
+        "latitude": 37.737238,
+        "longitude": -122.518772,
+        "speed": 89,
+        "timestamp": "2024-10-11T23:06:00"
+    },
+    {
+        "vehicle_id": "car_907",
+        "latitude": 37.772467,
+        "longitude": -122.502946,
+        "speed": 84,
+        "timestamp": "2024-10-11T23:07:00"
+    },
+    {
+        "vehicle_id": "car_908",
+        "latitude": 37.871747,
+        "longitude": -122.440258,
+        "speed": 84,
+        "timestamp": "2024-10-11T23:08:00"
+    },
+    {
+        "vehicle_id": "car_909",
+        "latitude": 37.686296,
+        "longitude": -122.435679,
+        "speed": 38,
+        "timestamp": "2024-10-11T23:09:00"
+    },
+    {
+        "vehicle_id": "car_910",
+        "latitude": 37.713045,
+        "longitude": -122.449988,
+        "speed": 47,
+        "timestamp": "2024-10-11T23:10:00"
+    },
+    {
+        "vehicle_id": "car_911",
+        "latitude": 37.808342,
+        "longitude": -122.36399,
+        "speed": 44,
+        "timestamp": "2024-10-11T23:11:00"
+    },
+    {
+        "vehicle_id": "car_912",
+        "latitude": 37.714749,
+        "longitude": -122.510408,
+        "speed": 84,
+        "timestamp": "2024-10-11T23:12:00"
+    },
+    {
+        "vehicle_id": "car_913",
+        "latitude": 37.842922,
+        "longitude": -122.32151,
+        "speed": 38,
+        "timestamp": "2024-10-11T23:13:00"
+    },
+    {
+        "vehicle_id": "car_914",
+        "latitude": 37.862984,
+        "longitude": -122.516235,
+        "speed": 50,
+        "timestamp": "2024-10-11T23:14:00"
+    },
+    {
+        "vehicle_id": "car_915",
+        "latitude": 37.772779,
+        "longitude": -122.371072,
+        "speed": 41,
+        "timestamp": "2024-10-11T23:15:00"
+    },
+    {
+        "vehicle_id": "car_916",
+        "latitude": 37.771536,
+        "longitude": -122.351754,
+        "speed": 36,
+        "timestamp": "2024-10-11T23:16:00"
+    },
+    {
+        "vehicle_id": "car_917",
+        "latitude": 37.698302,
+        "longitude": -122.359456,
+        "speed": 45,
+        "timestamp": "2024-10-11T23:17:00"
+    },
+    {
+        "vehicle_id": "car_918",
+        "latitude": 37.740547,
+        "longitude": -122.428602,
+        "speed": 54,
+        "timestamp": "2024-10-11T23:18:00"
+    },
+    {
+        "vehicle_id": "car_919",
+        "latitude": 37.77767,
+        "longitude": -122.33874,
+        "speed": 74,
+        "timestamp": "2024-10-11T23:19:00"
+    },
+    {
+        "vehicle_id": "car_920",
+        "latitude": 37.865189,
+        "longitude": -122.484302,
+        "speed": 48,
+        "timestamp": "2024-10-11T23:20:00"
+    },
+    {
+        "vehicle_id": "car_921",
+        "latitude": 37.822148,
+        "longitude": -122.416821,
+        "speed": 43,
+        "timestamp": "2024-10-11T23:21:00"
+    },
+    {
+        "vehicle_id": "car_922",
+        "latitude": 37.803849,
+        "longitude": -122.473435,
+        "speed": 68,
+        "timestamp": "2024-10-11T23:22:00"
+    },
+    {
+        "vehicle_id": "car_923",
+        "latitude": 37.861365,
+        "longitude": -122.371079,
+        "speed": 88,
+        "timestamp": "2024-10-11T23:23:00"
+    },
+    {
+        "vehicle_id": "car_924",
+        "latitude": 37.703145,
+        "longitude": -122.405225,
+        "speed": 57,
+        "timestamp": "2024-10-11T23:24:00"
+    },
+    {
+        "vehicle_id": "car_925",
+        "latitude": 37.70796,
+        "longitude": -122.348548,
+        "speed": 32,
+        "timestamp": "2024-10-11T23:25:00"
+    },
+    {
+        "vehicle_id": "car_926",
+        "latitude": 37.711468,
+        "longitude": -122.354258,
+        "speed": 51,
+        "timestamp": "2024-10-11T23:26:00"
+    },
+    {
+        "vehicle_id": "car_927",
+        "latitude": 37.79567,
+        "longitude": -122.404077,
+        "speed": 84,
+        "timestamp": "2024-10-11T23:27:00"
+    },
+    {
+        "vehicle_id": "car_928",
+        "latitude": 37.789152,
+        "longitude": -122.4908,
+        "speed": 43,
+        "timestamp": "2024-10-11T23:28:00"
+    },
+    {
+        "vehicle_id": "car_929",
+        "latitude": 37.72546,
+        "longitude": -122.331621,
+        "speed": 88,
+        "timestamp": "2024-10-11T23:29:00"
+    },
+    {
+        "vehicle_id": "car_930",
+        "latitude": 37.742396,
+        "longitude": -122.373507,
+        "speed": 58,
+        "timestamp": "2024-10-11T23:30:00"
+    },
+    {
+        "vehicle_id": "car_931",
+        "latitude": 37.834085,
+        "longitude": -122.484375,
+        "speed": 54,
+        "timestamp": "2024-10-11T23:31:00"
+    },
+    {
+        "vehicle_id": "car_932",
+        "latitude": 37.679947,
+        "longitude": -122.468871,
+        "speed": 50,
+        "timestamp": "2024-10-11T23:32:00"
+    },
+    {
+        "vehicle_id": "car_933",
+        "latitude": 37.849714,
+        "longitude": -122.469466,
+        "speed": 51,
+        "timestamp": "2024-10-11T23:33:00"
+    },
+    {
+        "vehicle_id": "car_934",
+        "latitude": 37.825235,
+        "longitude": -122.394704,
+        "speed": 71,
+        "timestamp": "2024-10-11T23:34:00"
+    },
+    {
+        "vehicle_id": "car_935",
+        "latitude": 37.833419,
+        "longitude": -122.393934,
+        "speed": 42,
+        "timestamp": "2024-10-11T23:35:00"
+    },
+    {
+        "vehicle_id": "car_936",
+        "latitude": 37.721311,
+        "longitude": -122.466326,
+        "speed": 30,
+        "timestamp": "2024-10-11T23:36:00"
+    },
+    {
+        "vehicle_id": "car_937",
+        "latitude": 37.745144,
+        "longitude": -122.500645,
+        "speed": 87,
+        "timestamp": "2024-10-11T23:37:00"
+    },
+    {
+        "vehicle_id": "car_938",
+        "latitude": 37.722317,
+        "longitude": -122.329699,
+        "speed": 52,
+        "timestamp": "2024-10-11T23:38:00"
+    },
+    {
+        "vehicle_id": "car_939",
+        "latitude": 37.733192,
+        "longitude": -122.477892,
+        "speed": 55,
+        "timestamp": "2024-10-11T23:39:00"
+    },
+    {
+        "vehicle_id": "car_940",
+        "latitude": 37.832063,
+        "longitude": -122.40141,
+        "speed": 66,
+        "timestamp": "2024-10-11T23:40:00"
+    },
+    {
+        "vehicle_id": "car_941",
+        "latitude": 37.76816,
+        "longitude": -122.367285,
+        "speed": 45,
+        "timestamp": "2024-10-11T23:41:00"
+    },
+    {
+        "vehicle_id": "car_942",
+        "latitude": 37.797951,
+        "longitude": -122.367315,
+        "speed": 46,
+        "timestamp": "2024-10-11T23:42:00"
+    },
+    {
+        "vehicle_id": "car_943",
+        "latitude": 37.815717,
+        "longitude": -122.332366,
+        "speed": 79,
+        "timestamp": "2024-10-11T23:43:00"
+    },
+    {
+        "vehicle_id": "car_944",
+        "latitude": 37.754473,
+        "longitude": -122.353889,
+        "speed": 42,
+        "timestamp": "2024-10-11T23:44:00"
+    },
+    {
+        "vehicle_id": "car_945",
+        "latitude": 37.80978,
+        "longitude": -122.366821,
+        "speed": 77,
+        "timestamp": "2024-10-11T23:45:00"
+    },
+    {
+        "vehicle_id": "car_946",
+        "latitude": 37.742982,
+        "longitude": -122.417284,
+        "speed": 81,
+        "timestamp": "2024-10-11T23:46:00"
+    },
+    {
+        "vehicle_id": "car_947",
+        "latitude": 37.808907,
+        "longitude": -122.425734,
+        "speed": 73,
+        "timestamp": "2024-10-11T23:47:00"
+    },
+    {
+        "vehicle_id": "car_948",
+        "latitude": 37.775155,
+        "longitude": -122.509351,
+        "speed": 81,
+        "timestamp": "2024-10-11T23:48:00"
+    },
+    {
+        "vehicle_id": "car_949",
+        "latitude": 37.730594,
+        "longitude": -122.348804,
+        "speed": 38,
+        "timestamp": "2024-10-11T23:49:00"
+    },
+    {
+        "vehicle_id": "car_950",
+        "latitude": 37.842736,
+        "longitude": -122.487264,
+        "speed": 64,
+        "timestamp": "2024-10-11T23:50:00"
+    },
+    {
+        "vehicle_id": "car_951",
+        "latitude": 37.825647,
+        "longitude": -122.4763,
+        "speed": 61,
+        "timestamp": "2024-10-11T23:51:00"
+    },
+    {
+        "vehicle_id": "car_952",
+        "latitude": 37.684823,
+        "longitude": -122.37448,
+        "speed": 43,
+        "timestamp": "2024-10-11T23:52:00"
+    },
+    {
+        "vehicle_id": "car_953",
+        "latitude": 37.857893,
+        "longitude": -122.481572,
+        "speed": 56,
+        "timestamp": "2024-10-11T23:53:00"
+    },
+    {
+        "vehicle_id": "car_954",
+        "latitude": 37.709599,
+        "longitude": -122.44345,
+        "speed": 69,
+        "timestamp": "2024-10-11T23:54:00"
+    },
+    {
+        "vehicle_id": "car_955",
+        "latitude": 37.714868,
+        "longitude": -122.508295,
+        "speed": 68,
+        "timestamp": "2024-10-11T23:55:00"
+    },
+    {
+        "vehicle_id": "car_956",
+        "latitude": 37.699997,
+        "longitude": -122.364846,
+        "speed": 61,
+        "timestamp": "2024-10-11T23:56:00"
+    },
+    {
+        "vehicle_id": "car_957",
+        "latitude": 37.786191,
+        "longitude": -122.348101,
+        "speed": 69,
+        "timestamp": "2024-10-11T23:57:00"
+    },
+    {
+        "vehicle_id": "car_958",
+        "latitude": 37.860729,
+        "longitude": -122.441935,
+        "speed": 79,
+        "timestamp": "2024-10-11T23:58:00"
+    },
+    {
+        "vehicle_id": "car_959",
+        "latitude": 37.73851,
+        "longitude": -122.369515,
+        "speed": 80,
+        "timestamp": "2024-10-11T23:59:00"
+    },
+    {
+        "vehicle_id": "car_960",
+        "latitude": 37.779847,
+        "longitude": -122.364351,
+        "speed": 64,
+        "timestamp": "2024-10-12T00:00:00"
+    },
+    {
+        "vehicle_id": "car_961",
+        "latitude": 37.758616,
+        "longitude": -122.460897,
+        "speed": 50,
+        "timestamp": "2024-10-12T00:01:00"
+    },
+    {
+        "vehicle_id": "car_962",
+        "latitude": 37.867198,
+        "longitude": -122.385826,
+        "speed": 48,
+        "timestamp": "2024-10-12T00:02:00"
+    },
+    {
+        "vehicle_id": "car_963",
+        "latitude": 37.802319,
+        "longitude": -122.399942,
+        "speed": 35,
+        "timestamp": "2024-10-12T00:03:00"
+    },
+    {
+        "vehicle_id": "car_964",
+        "latitude": 37.8106,
+        "longitude": -122.45589,
+        "speed": 31,
+        "timestamp": "2024-10-12T00:04:00"
+    },
+    {
+        "vehicle_id": "car_965",
+        "latitude": 37.798823,
+        "longitude": -122.399474,
+        "speed": 81,
+        "timestamp": "2024-10-12T00:05:00"
+    },
+    {
+        "vehicle_id": "car_966",
+        "latitude": 37.822713,
+        "longitude": -122.463907,
+        "speed": 72,
+        "timestamp": "2024-10-12T00:06:00"
+    },
+    {
+        "vehicle_id": "car_967",
+        "latitude": 37.742854,
+        "longitude": -122.428276,
+        "speed": 87,
+        "timestamp": "2024-10-12T00:07:00"
+    },
+    {
+        "vehicle_id": "car_968",
+        "latitude": 37.81811,
+        "longitude": -122.378151,
+        "speed": 84,
+        "timestamp": "2024-10-12T00:08:00"
+    },
+    {
+        "vehicle_id": "car_969",
+        "latitude": 37.762029,
+        "longitude": -122.360504,
+        "speed": 89,
+        "timestamp": "2024-10-12T00:09:00"
+    },
+    {
+        "vehicle_id": "car_970",
+        "latitude": 37.742894,
+        "longitude": -122.503612,
+        "speed": 88,
+        "timestamp": "2024-10-12T00:10:00"
+    },
+    {
+        "vehicle_id": "car_971",
+        "latitude": 37.844807,
+        "longitude": -122.501602,
+        "speed": 77,
+        "timestamp": "2024-10-12T00:11:00"
+    },
+    {
+        "vehicle_id": "car_972",
+        "latitude": 37.841814,
+        "longitude": -122.332303,
+        "speed": 37,
+        "timestamp": "2024-10-12T00:12:00"
+    },
+    {
+        "vehicle_id": "car_973",
+        "latitude": 37.862699,
+        "longitude": -122.428837,
+        "speed": 67,
+        "timestamp": "2024-10-12T00:13:00"
+    },
+    {
+        "vehicle_id": "car_974",
+        "latitude": 37.687262,
+        "longitude": -122.500928,
+        "speed": 45,
+        "timestamp": "2024-10-12T00:14:00"
+    },
+    {
+        "vehicle_id": "car_975",
+        "latitude": 37.816927,
+        "longitude": -122.46481,
+        "speed": 84,
+        "timestamp": "2024-10-12T00:15:00"
+    },
+    {
+        "vehicle_id": "car_976",
+        "latitude": 37.868515,
+        "longitude": -122.430057,
+        "speed": 63,
+        "timestamp": "2024-10-12T00:16:00"
+    },
+    {
+        "vehicle_id": "car_977",
+        "latitude": 37.712779,
+        "longitude": -122.518395,
+        "speed": 83,
+        "timestamp": "2024-10-12T00:17:00"
+    },
+    {
+        "vehicle_id": "car_978",
+        "latitude": 37.807283,
+        "longitude": -122.369165,
+        "speed": 69,
+        "timestamp": "2024-10-12T00:18:00"
+    },
+    {
+        "vehicle_id": "car_979",
+        "latitude": 37.790478,
+        "longitude": -122.338528,
+        "speed": 34,
+        "timestamp": "2024-10-12T00:19:00"
+    },
+    {
+        "vehicle_id": "car_980",
+        "latitude": 37.697859,
+        "longitude": -122.331093,
+        "speed": 78,
+        "timestamp": "2024-10-12T00:20:00"
+    },
+    {
+        "vehicle_id": "car_981",
+        "latitude": 37.676276,
+        "longitude": -122.476911,
+        "speed": 82,
+        "timestamp": "2024-10-12T00:21:00"
+    },
+    {
+        "vehicle_id": "car_982",
+        "latitude": 37.724792,
+        "longitude": -122.375976,
+        "speed": 52,
+        "timestamp": "2024-10-12T00:22:00"
+    },
+    {
+        "vehicle_id": "car_983",
+        "latitude": 37.851817,
+        "longitude": -122.340287,
+        "speed": 52,
+        "timestamp": "2024-10-12T00:23:00"
+    },
+    {
+        "vehicle_id": "car_984",
+        "latitude": 37.733914,
+        "longitude": -122.459629,
+        "speed": 77,
+        "timestamp": "2024-10-12T00:24:00"
+    },
+    {
+        "vehicle_id": "car_985",
+        "latitude": 37.729227,
+        "longitude": -122.481278,
+        "speed": 59,
+        "timestamp": "2024-10-12T00:25:00"
+    },
+    {
+        "vehicle_id": "car_986",
+        "latitude": 37.862944,
+        "longitude": -122.398641,
+        "speed": 49,
+        "timestamp": "2024-10-12T00:26:00"
+    },
+    {
+        "vehicle_id": "car_987",
+        "latitude": 37.84109,
+        "longitude": -122.495422,
+        "speed": 62,
+        "timestamp": "2024-10-12T00:27:00"
+    },
+    {
+        "vehicle_id": "car_988",
+        "latitude": 37.698285,
+        "longitude": -122.382969,
+        "speed": 87,
+        "timestamp": "2024-10-12T00:28:00"
+    },
+    {
+        "vehicle_id": "car_989",
+        "latitude": 37.734888,
+        "longitude": -122.400184,
+        "speed": 75,
+        "timestamp": "2024-10-12T00:29:00"
+    },
+    {
+        "vehicle_id": "car_990",
+        "latitude": 37.801348,
+        "longitude": -122.402679,
+        "speed": 87,
+        "timestamp": "2024-10-12T00:30:00"
+    },
+    {
+        "vehicle_id": "car_991",
+        "latitude": 37.784239,
+        "longitude": -122.338917,
+        "speed": 77,
+        "timestamp": "2024-10-12T00:31:00"
+    },
+    {
+        "vehicle_id": "car_992",
+        "latitude": 37.718482,
+        "longitude": -122.516365,
+        "speed": 56,
+        "timestamp": "2024-10-12T00:32:00"
+    },
+    {
+        "vehicle_id": "car_993",
+        "latitude": 37.861211,
+        "longitude": -122.355204,
+        "speed": 51,
+        "timestamp": "2024-10-12T00:33:00"
+    },
+    {
+        "vehicle_id": "car_994",
+        "latitude": 37.779529,
+        "longitude": -122.379462,
+        "speed": 69,
+        "timestamp": "2024-10-12T00:34:00"
+    },
+    {
+        "vehicle_id": "car_995",
+        "latitude": 37.754804,
+        "longitude": -122.454041,
+        "speed": 78,
+        "timestamp": "2024-10-12T00:35:00"
+    },
+    {
+        "vehicle_id": "car_996",
+        "latitude": 37.691447,
+        "longitude": -122.468612,
+        "speed": 34,
+        "timestamp": "2024-10-12T00:36:00"
+    },
+    {
+        "vehicle_id": "car_997",
+        "latitude": 37.694647,
+        "longitude": -122.504268,
+        "speed": 66,
+        "timestamp": "2024-10-12T00:37:00"
+    },
+    {
+        "vehicle_id": "car_998",
+        "latitude": 37.698642,
+        "longitude": -122.323286,
+        "speed": 58,
+        "timestamp": "2024-10-12T00:38:00"
+    },
+    {
+        "vehicle_id": "car_999",
+        "latitude": 37.720155,
+        "longitude": -122.34026,
+        "speed": 31,
+        "timestamp": "2024-10-12T00:39:00"
+    }
+]

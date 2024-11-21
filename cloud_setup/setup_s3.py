@@ -1,13 +1,13 @@
 import boto3
 
-s3 = boto3.client('s3')
-
-def create_s3_bucket(bucket_name, region=None):
-    create_bucket_config = {}
-    if region:
-        create_bucket_config = {'LocationConstraint': region}
-    response = s3.create_bucket(
-        Bucket=bucket_name,
-        CreateBucketConfiguration=create_bucket_config
+def setup_s3_bucket():
+    s3_client = boto3.client('s3', region_name='ap-south-1')
+    
+    # Create S3 Bucket for storing traffic data
+    s3_client.create_bucket(
+        Bucket='smart-traffic-data',
+        CreateBucketConfiguration={'LocationConstraint': 'ap-south-1'}
     )
-    return response
+    print("S3 Bucket 'smart-traffic-data' created.")
+
+setup_s3_bucket()

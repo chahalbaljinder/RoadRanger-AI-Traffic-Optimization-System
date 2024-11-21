@@ -62,7 +62,7 @@ def train_traffic_model(data):
 
 # Load your traffic data
 try:
-    data = pd.read_csv(r'C:\Users\admin\Desktop\Smart traffic management\dummy_traffic_data.csv')  # Replace with your actual dataset
+    data = pd.read_csv(r'C:\Users\admin\Desktop\Smart traffic management\Smart-Traffic-Management-System\datasets\dummy_traffic_data.csv')  # Replace with your actual dataset
 except FileNotFoundError:
     print("The file 'dummy_traffic_data.csv' was not found. Please check the file path.")
     data = None  # Ensure 'data' is None if the file is not found

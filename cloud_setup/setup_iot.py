@@ -1,15 +1,14 @@
 import boto3
 
-iot = boto3.client('iot')
-
-def create_iot_topic_rule(topic_name):
-    rule_payload = {
-        "sql": f"SELECT * FROM 'traffic/sensors/{topic_name}'",
-        "ruleDisabled": False,
-        "actions": []
-    }
-    response = iot.create_topic_rule(
-        ruleName=topic_name,
-        topicRulePayload=rule_payload
+def setup_iot_core():
+    iot_client = boto3.client('iot', region_name='ap-south-1')
+    
+    # Create IoT Thing (Device)
+    response = iot_client.create_thing(
+        thingName='SmartTrafficSensor',
+        thingTypeName='SensorType',
+        attributePayload={'attributes': {'type': 'sensor'}}
     )
-    return response
+    print(f"Created IoT Thing: {response['thingName']}")
+
+setup_iot_core()
